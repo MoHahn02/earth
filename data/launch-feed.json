@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-10T15:12:38Z",
+  "generatedAt": "2026-09-10T18:32:05Z",
   "source": "launch-worker:launch/upcoming",
-  "nextRefreshAfter": "2026-09-10T16:12:38Z",
+  "nextRefreshAfter": "2026-09-10T19:32:05Z",
   "launches": [
     {
       "id": "95eb9265-bdbe-43ad-b08c-6be7eb4e58f4",
@@ -28,7 +28,7 @@
       "livestreamUrl": "",
       "sourceUrl": "https://ll.thespacedevs.com/2.2.0/launch/95eb9265-bdbe-43ad-b08c-6be7eb4e58f4/",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/95eb9265-bdbe-43ad-b08c-6be7eb4e58f4/",
-      "updatedAt": "2026-09-10T15:12:38Z"
+      "updatedAt": "2026-09-10T18:32:05Z"
     },
     {
       "id": "3e0456da-14b1-4ac3-b59e-35fefb1d1530",
@@ -43,19 +43,19 @@
       "mission": "USSF-153",
       "missionDescription": "USSF-153 is a classified mission for the United States Space Force. It is possibly a batch of classified LEO satellites based on SpaceX\u2019s Starshield satellite bus, based on locations of rocket stage drop zones being exact fits with previous Starlink Group 15 launches.",
       "orbit": "Low Earth Orbit",
-      "status": "go",
+      "status": "live",
       "outcome": "",
-      "statusName": "Go for Launch",
-      "statusAbbrev": "Go",
-      "statusDescription": "Current T-0 confirmed by official or reliable sources.",
+      "statusName": "Launch in Flight",
+      "statusAbbrev": "In Flight",
+      "statusDescription": "The launch vehicle has lifted off from the launchpad.",
       "preflightStatus": "",
       "postflightStatus": "",
       "preflightCheckedAt": null,
       "postflightCheckedAt": null,
-      "livestreamUrl": "https://www.youtube.com/watch?v=UboPGsLWIBI",
+      "livestreamUrl": "https://www.youtube.com/watch?v=mPxbkR0BFS0",
       "sourceUrl": "https://www.spacex.com/launches/ussf153",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/3e0456da-14b1-4ac3-b59e-35fefb1d1530/",
-      "updatedAt": "2026-09-10T15:12:38Z"
+      "updatedAt": "2026-09-10T18:32:05Z"
     },
     {
       "id": "ad358a4d-c541-409b-9366-9c2f2da4aeb9",
@@ -82,34 +82,7 @@
       "livestreamUrl": "https://x.com/i/broadcasts/1RKjpbVdykQJw",
       "sourceUrl": "https://www.spacex.com/launches/mpower-f",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/ad358a4d-c541-409b-9366-9c2f2da4aeb9/",
-      "updatedAt": "2026-09-10T15:12:38Z"
-    },
-    {
-      "id": "7d1afb26-6f9c-429b-9ccf-29012fd1e519",
-      "name": "Starship | Flight 14",
-      "net": "2026-09-15T00:00:00Z",
-      "provider": "SpaceX",
-      "rocket": "Starship V3",
-      "pad": "Orbital Launch Pad 2",
-      "padLocation": "SpaceX Starbase, TX, USA",
-      "latitude": 25.99677,
-      "longitude": -97.15799,
-      "mission": "Flight 14",
-      "missionDescription": "14th test flight of the two-stage Starship launch vehicle. 3rd flight of Starship V3 and the first Starship flight to deploy satellites (a group of Starlink satellites) into stable Low Earth Orbit.",
-      "orbit": "Low Earth Orbit",
-      "status": "delayed",
-      "outcome": "delayed",
-      "statusName": "To Be Determined",
-      "statusAbbrev": "TBD",
-      "statusDescription": "Current date is a placeholder or rough estimation based on unreliable or interpreted sources.",
-      "preflightStatus": "",
-      "postflightStatus": "",
-      "preflightCheckedAt": null,
-      "postflightCheckedAt": null,
-      "livestreamUrl": "",
-      "sourceUrl": "https://ll.thespacedevs.com/2.2.0/program/1/",
-      "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/7d1afb26-6f9c-429b-9ccf-29012fd1e519/",
-      "updatedAt": "2026-09-10T15:12:38Z"
+      "updatedAt": "2026-09-10T18:32:05Z"
     },
     {
       "id": "8effc13a-c658-4d2e-9f15-8dba4d7fe2dd",
@@ -136,7 +109,7 @@
       "livestreamUrl": "",
       "sourceUrl": "https://ll.thespacedevs.com/2.2.0/program/22/",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/8effc13a-c658-4d2e-9f15-8dba4d7fe2dd/",
-      "updatedAt": "2026-09-10T15:12:38Z"
+      "updatedAt": "2026-09-10T18:32:05Z"
     },
     {
       "id": "de446468-057f-4c9d-a6a1-af99c93b541e",
@@ -163,7 +136,7 @@
       "livestreamUrl": "",
       "sourceUrl": "https://ll.thespacedevs.com/2.2.0/launch/de446468-057f-4c9d-a6a1-af99c93b541e/",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/de446468-057f-4c9d-a6a1-af99c93b541e/",
-      "updatedAt": "2026-09-10T15:12:38Z"
+      "updatedAt": "2026-09-10T18:32:05Z"
     },
     {
       "id": "767f7827-53d8-4621-803b-f456a1e6b512",
@@ -190,7 +163,7 @@
       "livestreamUrl": "",
       "sourceUrl": "https://ll.thespacedevs.com/2.2.0/launch/767f7827-53d8-4621-803b-f456a1e6b512/",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/767f7827-53d8-4621-803b-f456a1e6b512/",
-      "updatedAt": "2026-09-10T15:12:38Z"
+      "updatedAt": "2026-09-10T18:32:05Z"
     },
     {
       "id": "17c71937-dd80-406f-bb47-0c9ee9a24276",
@@ -217,7 +190,7 @@
       "livestreamUrl": "https://x.com/i/broadcasts/1nGeLMWbkpaKX",
       "sourceUrl": "https://www.spacex.com/launches/ussf259",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/17c71937-dd80-406f-bb47-0c9ee9a24276/",
-      "updatedAt": "2026-09-10T15:12:38Z"
+      "updatedAt": "2026-09-10T18:32:05Z"
     },
     {
       "id": "d793ba47-faf5-4bab-a386-39a9ccc49c90",
@@ -244,7 +217,7 @@
       "livestreamUrl": "https://www.youtube.com/watch?v=cCpf0BOjlLE",
       "sourceUrl": "https://ll.thespacedevs.com/2.2.0/program/17/",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/d793ba47-faf5-4bab-a386-39a9ccc49c90/",
-      "updatedAt": "2026-09-10T15:12:38Z"
+      "updatedAt": "2026-09-10T18:32:05Z"
     },
     {
       "id": "898f7df0-b6ce-4a5c-80b4-67e81842124e",
@@ -271,7 +244,34 @@
       "livestreamUrl": "",
       "sourceUrl": "https://ll.thespacedevs.com/2.2.0/launch/898f7df0-b6ce-4a5c-80b4-67e81842124e/",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/898f7df0-b6ce-4a5c-80b4-67e81842124e/",
-      "updatedAt": "2026-09-10T15:12:38Z"
+      "updatedAt": "2026-09-10T18:32:05Z"
+    },
+    {
+      "id": "7d1afb26-6f9c-429b-9ccf-29012fd1e519",
+      "name": "Starship | Flight 14",
+      "net": "2026-09-18T00:00:00Z",
+      "provider": "SpaceX",
+      "rocket": "Starship V3",
+      "pad": "Orbital Launch Pad 2",
+      "padLocation": "SpaceX Starbase, TX, USA",
+      "latitude": 25.99677,
+      "longitude": -97.15799,
+      "mission": "Flight 14",
+      "missionDescription": "14th test flight of the two-stage Starship launch vehicle. 3rd flight of Starship V3 and the first Starship flight to deploy satellites (a group of Starlink satellites) into stable Low Earth Orbit.",
+      "orbit": "Low Earth Orbit",
+      "status": "delayed",
+      "outcome": "delayed",
+      "statusName": "To Be Determined",
+      "statusAbbrev": "TBD",
+      "statusDescription": "Current date is a placeholder or rough estimation based on unreliable or interpreted sources.",
+      "preflightStatus": "",
+      "postflightStatus": "",
+      "preflightCheckedAt": null,
+      "postflightCheckedAt": null,
+      "livestreamUrl": "",
+      "sourceUrl": "https://ll.thespacedevs.com/2.2.0/program/1/",
+      "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/7d1afb26-6f9c-429b-9ccf-29012fd1e519/",
+      "updatedAt": "2026-09-10T18:32:05Z"
     },
     {
       "id": "d1471f9d-e9d0-4146-8e97-90863e48bfc8",
@@ -298,7 +298,7 @@
       "livestreamUrl": "https://x.com/i/broadcasts/1nxnRBXEladxO",
       "sourceUrl": "https://www.spacex.com/launches/sl-15-27",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/d1471f9d-e9d0-4146-8e97-90863e48bfc8/",
-      "updatedAt": "2026-09-10T15:12:38Z"
+      "updatedAt": "2026-09-10T18:32:05Z"
     },
     {
       "id": "599ba2df-7483-4b2f-a083-2b5ddc06e069",
@@ -325,7 +325,7 @@
       "livestreamUrl": "",
       "sourceUrl": "https://ll.thespacedevs.com/2.2.0/launch/599ba2df-7483-4b2f-a083-2b5ddc06e069/",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/599ba2df-7483-4b2f-a083-2b5ddc06e069/",
-      "updatedAt": "2026-09-10T15:12:38Z"
+      "updatedAt": "2026-09-10T18:32:05Z"
     },
     {
       "id": "18441371-8b2e-457c-afb5-1ec1b11ab630",
@@ -352,7 +352,7 @@
       "livestreamUrl": "",
       "sourceUrl": "https://ll.thespacedevs.com/2.2.0/program/5/",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/18441371-8b2e-457c-afb5-1ec1b11ab630/",
-      "updatedAt": "2026-09-10T15:12:38Z"
+      "updatedAt": "2026-09-10T18:32:05Z"
     },
     {
       "id": "da43dc2c-00af-4cc1-8ef1-90a60b2eb9e5",
@@ -379,7 +379,7 @@
       "livestreamUrl": "",
       "sourceUrl": "https://ll.thespacedevs.com/2.2.0/launch/da43dc2c-00af-4cc1-8ef1-90a60b2eb9e5/",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/da43dc2c-00af-4cc1-8ef1-90a60b2eb9e5/",
-      "updatedAt": "2026-09-10T15:12:38Z"
+      "updatedAt": "2026-09-10T18:32:05Z"
     },
     {
       "id": "dc570565-4dcf-4ab9-8174-bf88efef477f",
@@ -406,7 +406,7 @@
       "livestreamUrl": "",
       "sourceUrl": "https://ll.thespacedevs.com/2.2.0/launch/dc570565-4dcf-4ab9-8174-bf88efef477f/",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/dc570565-4dcf-4ab9-8174-bf88efef477f/",
-      "updatedAt": "2026-09-10T15:12:38Z"
+      "updatedAt": "2026-09-10T18:32:05Z"
     },
     {
       "id": "63063b9d-ade9-4448-8717-6f910aa81188",
@@ -433,7 +433,7 @@
       "livestreamUrl": "",
       "sourceUrl": "https://ll.thespacedevs.com/2.2.0/launch/63063b9d-ade9-4448-8717-6f910aa81188/",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/63063b9d-ade9-4448-8717-6f910aa81188/",
-      "updatedAt": "2026-09-10T15:12:38Z"
+      "updatedAt": "2026-09-10T18:32:05Z"
     },
     {
       "id": "ef9850ad-1096-425b-9d27-f7bbd186e61a",
@@ -460,7 +460,7 @@
       "livestreamUrl": "",
       "sourceUrl": "https://ll.thespacedevs.com/2.2.0/program/27/",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/ef9850ad-1096-425b-9d27-f7bbd186e61a/",
-      "updatedAt": "2026-09-10T15:12:38Z"
+      "updatedAt": "2026-09-10T18:32:05Z"
     },
     {
       "id": "7766f3bb-674c-4c71-b986-963bd633fcfe",
@@ -487,7 +487,7 @@
       "livestreamUrl": "",
       "sourceUrl": "https://ll.thespacedevs.com/2.2.0/launch/7766f3bb-674c-4c71-b986-963bd633fcfe/",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/7766f3bb-674c-4c71-b986-963bd633fcfe/",
-      "updatedAt": "2026-09-10T15:12:38Z"
+      "updatedAt": "2026-09-10T18:32:05Z"
     },
     {
       "id": "b81156da-c0b8-46c8-aebd-8af8d2be83cd",
@@ -514,7 +514,7 @@
       "livestreamUrl": "",
       "sourceUrl": "https://ll.thespacedevs.com/2.2.0/launch/b81156da-c0b8-46c8-aebd-8af8d2be83cd/",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/b81156da-c0b8-46c8-aebd-8af8d2be83cd/",
-      "updatedAt": "2026-09-10T15:12:38Z"
+      "updatedAt": "2026-09-10T18:32:05Z"
     },
     {
       "id": "548df42c-ae26-4cc9-921a-f0042941911a",
@@ -541,7 +541,7 @@
       "livestreamUrl": "",
       "sourceUrl": "https://ll.thespacedevs.com/2.2.0/launch/548df42c-ae26-4cc9-921a-f0042941911a/",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/548df42c-ae26-4cc9-921a-f0042941911a/",
-      "updatedAt": "2026-09-10T15:12:38Z"
+      "updatedAt": "2026-09-10T18:32:05Z"
     },
     {
       "id": "3b94ad50-3505-496e-8a95-b0bc4c0dadc6",
@@ -568,7 +568,7 @@
       "livestreamUrl": "",
       "sourceUrl": "https://ll.thespacedevs.com/2.2.0/launch/3b94ad50-3505-496e-8a95-b0bc4c0dadc6/",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/3b94ad50-3505-496e-8a95-b0bc4c0dadc6/",
-      "updatedAt": "2026-09-10T15:12:38Z"
+      "updatedAt": "2026-09-10T18:32:05Z"
     },
     {
       "id": "7bdc412b-c965-4517-a131-f57a01189803",
@@ -595,7 +595,7 @@
       "livestreamUrl": "",
       "sourceUrl": "https://ll.thespacedevs.com/2.2.0/program/27/",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/7bdc412b-c965-4517-a131-f57a01189803/",
-      "updatedAt": "2026-09-10T15:12:38Z"
+      "updatedAt": "2026-09-10T18:32:05Z"
     },
     {
       "id": "e0741415-6c63-4236-9736-24a6c04485bc",
@@ -622,7 +622,7 @@
       "livestreamUrl": "",
       "sourceUrl": "https://ll.thespacedevs.com/2.2.0/launch/e0741415-6c63-4236-9736-24a6c04485bc/",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/e0741415-6c63-4236-9736-24a6c04485bc/",
-      "updatedAt": "2026-09-10T15:12:38Z"
+      "updatedAt": "2026-09-10T18:32:05Z"
     },
     {
       "id": "69ebbcd2-b257-4070-9ef9-21e7d1f8a883",
@@ -649,7 +649,7 @@
       "livestreamUrl": "",
       "sourceUrl": "https://ll.thespacedevs.com/2.2.0/launch/69ebbcd2-b257-4070-9ef9-21e7d1f8a883/",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/69ebbcd2-b257-4070-9ef9-21e7d1f8a883/",
-      "updatedAt": "2026-09-10T15:12:38Z"
+      "updatedAt": "2026-09-10T18:32:05Z"
     }
   ]
 }
