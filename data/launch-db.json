@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-11T01:11:06Z",
+  "generatedAt": "2026-09-11T06:05:42Z",
   "source": "launch-worker:observed-db",
   "launches": [
     {
@@ -438,7 +438,7 @@
       "statusDescription": "Current date is a placeholder or rough estimation based on unreliable or interpreted sources.",
       "sourceUrl": "https://ll.thespacedevs.com/2.2.0/program/27/",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/7bdc412b-c965-4517-a131-f57a01189803/",
-      "updatedAt": "2026-09-11T01:11:06Z",
+      "updatedAt": "2026-09-11T06:05:42Z",
       "firstSeenAt": "2026-08-27T22:50:55Z"
     },
     {
@@ -551,7 +551,7 @@
       "statusDescription": "Current date is a placeholder or rough estimation based on unreliable or interpreted sources.",
       "sourceUrl": "https://ll.thespacedevs.com/2.2.0/launch/da43dc2c-00af-4cc1-8ef1-90a60b2eb9e5/",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/da43dc2c-00af-4cc1-8ef1-90a60b2eb9e5/",
-      "updatedAt": "2026-09-11T01:11:06Z",
+      "updatedAt": "2026-09-11T06:05:42Z",
       "firstSeenAt": "2026-05-23T23:39:26Z",
       "previousNets": [
         "2026-06-30T00:00:00Z"
@@ -641,7 +641,7 @@
       "statusDescription": "Current date is a placeholder or rough estimation based on unreliable or interpreted sources.",
       "sourceUrl": "https://ll.thespacedevs.com/2.2.0/launch/3b94ad50-3505-496e-8a95-b0bc4c0dadc6/",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/3b94ad50-3505-496e-8a95-b0bc4c0dadc6/",
-      "updatedAt": "2026-09-11T01:11:06Z",
+      "updatedAt": "2026-09-11T06:05:42Z",
       "firstSeenAt": "2026-06-18T06:27:12Z",
       "previousNets": [
         "2026-06-30T00:00:00Z"
@@ -671,7 +671,7 @@
       "statusDescription": "Current date is a placeholder or rough estimation based on unreliable or interpreted sources.",
       "sourceUrl": "https://ll.thespacedevs.com/2.2.0/program/27/",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/ef9850ad-1096-425b-9d27-f7bbd186e61a/",
-      "updatedAt": "2026-09-11T01:11:06Z",
+      "updatedAt": "2026-09-11T06:05:42Z",
       "firstSeenAt": "2026-08-06T03:44:41Z"
     },
     {
@@ -750,7 +750,7 @@
       "statusDescription": "Current date is a placeholder or rough estimation based on unreliable or interpreted sources.",
       "sourceUrl": "https://ll.thespacedevs.com/2.2.0/launch/599ba2df-7483-4b2f-a083-2b5ddc06e069/",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/599ba2df-7483-4b2f-a083-2b5ddc06e069/",
-      "updatedAt": "2026-09-11T01:11:06Z",
+      "updatedAt": "2026-09-11T06:05:42Z",
       "firstSeenAt": "2026-04-30T15:18:38Z",
       "previousNets": [
         "2026-06-25T00:00:00Z",
@@ -783,31 +783,8 @@
       "statusDescription": "Current date is a placeholder or rough estimation based on unreliable or interpreted sources.",
       "sourceUrl": "https://ll.thespacedevs.com/2.2.0/launch/7766f3bb-674c-4c71-b986-963bd633fcfe/",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/7766f3bb-674c-4c71-b986-963bd633fcfe/",
-      "updatedAt": "2026-09-11T01:11:06Z",
+      "updatedAt": "2026-09-11T06:05:42Z",
       "firstSeenAt": "2026-08-25T03:09:47Z"
-    },
-    {
-      "id": "b81156da-c0b8-46c8-aebd-8af8d2be83cd",
-      "name": "Electron | BlackSky Gen-3 5",
-      "net": "2026-09-30T00:00:00Z",
-      "provider": "Rocket Lab",
-      "rocket": "Electron",
-      "pad": "Unknown Pad",
-      "padLocation": "Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand",
-      "latitude": -39.260881,
-      "longitude": 177.865826,
-      "mission": "BlackSky Gen-3 5",
-      "missionDescription": "BlackSky Gen-3 Earth-imaging satellites",
-      "orbit": "Low Earth Orbit",
-      "status": "delayed",
-      "outcome": "delayed",
-      "statusName": "To Be Determined",
-      "statusAbbrev": "TBD",
-      "statusDescription": "Current date is a placeholder or rough estimation based on unreliable or interpreted sources.",
-      "sourceUrl": "https://ll.thespacedevs.com/2.2.0/launch/b81156da-c0b8-46c8-aebd-8af8d2be83cd/",
-      "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/b81156da-c0b8-46c8-aebd-8af8d2be83cd/",
-      "updatedAt": "2026-09-11T01:11:06Z",
-      "firstSeenAt": "2026-08-25T10:18:47Z"
     },
     {
       "id": "548df42c-ae26-4cc9-921a-f0042941911a",
@@ -829,7 +806,7 @@
       "statusDescription": "Current date is a placeholder or rough estimation based on unreliable or interpreted sources.",
       "sourceUrl": "https://ll.thespacedevs.com/2.2.0/launch/548df42c-ae26-4cc9-921a-f0042941911a/",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/548df42c-ae26-4cc9-921a-f0042941911a/",
-      "updatedAt": "2026-09-11T01:11:06Z",
+      "updatedAt": "2026-09-11T06:05:42Z",
       "firstSeenAt": "2026-08-26T03:53:58Z"
     },
     {
@@ -852,7 +829,7 @@
       "statusDescription": "Current date is a placeholder or rough estimation based on unreliable or interpreted sources.",
       "sourceUrl": "https://ll.thespacedevs.com/2.2.0/launch/dc570565-4dcf-4ab9-8174-bf88efef477f/",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/dc570565-4dcf-4ab9-8174-bf88efef477f/",
-      "updatedAt": "2026-09-11T01:11:06Z",
+      "updatedAt": "2026-09-11T06:05:42Z",
       "firstSeenAt": "2026-08-05T01:09:34Z",
       "previousNets": [
         "2026-08-31T00:00:00Z"
@@ -882,7 +859,7 @@
       "statusDescription": "Current date is a placeholder or rough estimation based on unreliable or interpreted sources.",
       "sourceUrl": "https://ll.thespacedevs.com/2.2.0/program/5/",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/18441371-8b2e-457c-afb5-1ec1b11ab630/",
-      "updatedAt": "2026-09-11T01:11:06Z",
+      "updatedAt": "2026-09-11T06:05:42Z",
       "firstSeenAt": "2026-07-26T16:12:25Z",
       "previousNets": [
         "2026-09-30T00:00:00Z",
@@ -913,7 +890,7 @@
       "statusDescription": "Current date is a placeholder or rough estimation based on unreliable or interpreted sources.",
       "sourceUrl": "https://ll.thespacedevs.com/2.2.0/launch/63063b9d-ade9-4448-8717-6f910aa81188/",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/63063b9d-ade9-4448-8717-6f910aa81188/",
-      "updatedAt": "2026-09-11T01:11:06Z",
+      "updatedAt": "2026-09-11T06:05:42Z",
       "firstSeenAt": "2026-08-30T15:26:17Z",
       "previousNets": [
         "2026-09-11T16:00:00Z"
@@ -943,8 +920,30 @@
       "livestreamUrl": "https://x.com/i/broadcasts/1nxnRBXEladxO",
       "sourceUrl": "https://www.spacex.com/launches/sl-15-27",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/d1471f9d-e9d0-4146-8e97-90863e48bfc8/",
-      "updatedAt": "2026-09-11T01:11:06Z",
+      "updatedAt": "2026-09-11T06:05:42Z",
       "firstSeenAt": "2026-09-08T15:16:19Z"
+    },
+    {
+      "id": "a527b585-f01f-4ecc-9230-711dcef72ef1",
+      "name": "Long March 2D | Unknown Payload",
+      "net": "2026-09-19T10:50:00Z",
+      "provider": "China Aerospace Science and Technology Corporation",
+      "rocket": "Long March 2D",
+      "pad": "Launch Complex 9",
+      "padLocation": "Taiyuan Satellite Launch Center, People's Republic of China",
+      "latitude": 38.863128,
+      "longitude": 111.589567,
+      "mission": "Unknown Payload",
+      "missionDescription": "Details TBD.",
+      "orbit": "Unknown",
+      "status": "go",
+      "statusName": "Go for Launch",
+      "statusAbbrev": "Go",
+      "statusDescription": "Current T-0 confirmed by official or reliable sources.",
+      "sourceUrl": "https://ll.thespacedevs.com/2.2.0/launch/a527b585-f01f-4ecc-9230-711dcef72ef1/",
+      "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/a527b585-f01f-4ecc-9230-711dcef72ef1/",
+      "updatedAt": "2026-09-11T06:05:42Z",
+      "firstSeenAt": "2026-09-11T06:05:42Z"
     },
     {
       "id": "7d1afb26-6f9c-429b-9ccf-29012fd1e519",
@@ -966,7 +965,7 @@
       "statusDescription": "Current date is a placeholder or rough estimation based on unreliable or interpreted sources.",
       "sourceUrl": "https://ll.thespacedevs.com/2.2.0/program/1/",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/7d1afb26-6f9c-429b-9ccf-29012fd1e519/",
-      "updatedAt": "2026-09-11T01:11:06Z",
+      "updatedAt": "2026-09-11T06:05:42Z",
       "firstSeenAt": "2026-08-18T03:02:40Z",
       "previousNets": [
         "2026-09-30T00:00:00Z",
@@ -976,6 +975,28 @@
       "postflightCheckedAt": null,
       "preflightStatus": "",
       "postflightStatus": ""
+    },
+    {
+      "id": "71aa4d56-0ce9-4c7d-a808-cc22f2ac5a84",
+      "name": "Kuaizhou 11 | Unknown Payload",
+      "net": "2026-09-17T02:35:00Z",
+      "provider": "ExPace",
+      "rocket": "Kuaizhou 11",
+      "pad": "Launch Area 95A",
+      "padLocation": "Jiuquan Satellite Launch Center, People's Republic of China",
+      "latitude": 40.969117,
+      "longitude": 100.343333,
+      "mission": "Unknown Payload",
+      "missionDescription": "Details TBD.",
+      "orbit": "Unknown",
+      "status": "go",
+      "statusName": "Go for Launch",
+      "statusAbbrev": "Go",
+      "statusDescription": "Current T-0 confirmed by official or reliable sources.",
+      "sourceUrl": "https://ll.thespacedevs.com/2.2.0/launch/71aa4d56-0ce9-4c7d-a808-cc22f2ac5a84/",
+      "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/71aa4d56-0ce9-4c7d-a808-cc22f2ac5a84/",
+      "updatedAt": "2026-09-11T06:05:42Z",
+      "firstSeenAt": "2026-09-11T06:05:42Z"
     },
     {
       "id": "898f7df0-b6ce-4a5c-80b4-67e81842124e",
@@ -997,7 +1018,7 @@
       "statusDescription": "Current T-0 confirmed by official or reliable sources.",
       "sourceUrl": "https://ll.thespacedevs.com/2.2.0/launch/898f7df0-b6ce-4a5c-80b4-67e81842124e/",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/898f7df0-b6ce-4a5c-80b4-67e81842124e/",
-      "updatedAt": "2026-09-11T01:11:06Z",
+      "updatedAt": "2026-09-11T06:05:42Z",
       "firstSeenAt": "2026-09-08T18:47:21Z",
       "previousNets": [
         "2026-09-17T00:00:00Z"
@@ -1027,7 +1048,7 @@
       "statusDescription": "Current T-0 confirmed by official or reliable sources.",
       "sourceUrl": "https://ll.thespacedevs.com/2.2.0/program/17/",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/d793ba47-faf5-4bab-a386-39a9ccc49c90/",
-      "updatedAt": "2026-09-11T01:11:06Z",
+      "updatedAt": "2026-09-11T06:05:42Z",
       "firstSeenAt": "2026-04-27T16:11:41Z",
       "previousNets": [
         "2026-06-17T01:40:00Z",
@@ -1061,7 +1082,7 @@
       "livestreamUrl": "https://x.com/i/broadcasts/1nGeLMWbkpaKX",
       "sourceUrl": "https://www.spacex.com/launches/ussf259",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/17c71937-dd80-406f-bb47-0c9ee9a24276/",
-      "updatedAt": "2026-09-11T01:11:06Z",
+      "updatedAt": "2026-09-11T06:05:42Z",
       "firstSeenAt": "2026-09-09T19:14:56Z"
     },
     {
@@ -1083,7 +1104,7 @@
       "statusDescription": "Current T-0 confirmed by official or reliable sources.",
       "sourceUrl": "https://ll.thespacedevs.com/2.2.0/launch/767f7827-53d8-4621-803b-f456a1e6b512/",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/767f7827-53d8-4621-803b-f456a1e6b512/",
-      "updatedAt": "2026-09-11T01:11:06Z",
+      "updatedAt": "2026-09-11T06:05:42Z",
       "firstSeenAt": "2026-09-09T16:04:51Z"
     },
     {
@@ -1105,7 +1126,7 @@
       "statusDescription": "Current T-0 confirmed by official or reliable sources.",
       "sourceUrl": "https://ll.thespacedevs.com/2.2.0/launch/de446468-057f-4c9d-a6a1-af99c93b541e/",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/de446468-057f-4c9d-a6a1-af99c93b541e/",
-      "updatedAt": "2026-09-11T01:11:06Z",
+      "updatedAt": "2026-09-11T06:05:42Z",
       "firstSeenAt": "2026-09-10T11:43:24Z"
     },
     {
@@ -1128,7 +1149,7 @@
       "statusDescription": "Current T-0 confirmed by official or reliable sources.",
       "sourceUrl": "https://ll.thespacedevs.com/2.2.0/program/22/",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/8effc13a-c658-4d2e-9f15-8dba4d7fe2dd/",
-      "updatedAt": "2026-09-11T01:11:06Z",
+      "updatedAt": "2026-09-11T06:05:42Z",
       "firstSeenAt": "2026-07-25T23:07:48Z",
       "previousNets": [
         "2026-09-11T00:00:00Z"
@@ -1159,7 +1180,7 @@
       "statusDescription": "Current T-0 confirmed by official or reliable sources.",
       "sourceUrl": "https://www.spacex.com/launches/mpower-f",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/ad358a4d-c541-409b-9366-9c2f2da4aeb9/",
-      "updatedAt": "2026-09-11T01:11:06Z",
+      "updatedAt": "2026-09-11T06:05:42Z",
       "firstSeenAt": "2026-08-02T04:42:49Z",
       "previousNets": [
         "2026-09-30T00:00:00Z",
@@ -1170,6 +1191,36 @@
       "preflightStatus": "",
       "postflightStatus": "",
       "livestreamUrl": "https://x.com/i/broadcasts/1RKjpbVdykQJw"
+    },
+    {
+      "id": "b81156da-c0b8-46c8-aebd-8af8d2be83cd",
+      "name": "Electron | Happily Ever Faster (BlackSky Gen-3 5)",
+      "net": "2026-09-11T03:28:00Z",
+      "provider": "Rocket Lab",
+      "rocket": "Electron",
+      "pad": "Rocket Lab Launch Complex 1A",
+      "padLocation": "Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand",
+      "latitude": -39.262833,
+      "longitude": 177.864469,
+      "mission": "Happily Ever Faster (BlackSky Gen-3 5)",
+      "missionDescription": "Note: Payload and customer identities were not publicly announced.\r\n\r\n5th of the BlackSky Gen-3 high resolution Earth-imaging satellites.",
+      "orbit": "Low Earth Orbit",
+      "status": "success",
+      "outcome": "success",
+      "statusName": "Launch Successful",
+      "statusAbbrev": "Success",
+      "statusDescription": "The launch vehicle successfully inserted its payload(s) into the target orbit(s).",
+      "sourceUrl": "https://rocketlabcorp.com/missions/launches/happily-ever-faster/",
+      "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/b81156da-c0b8-46c8-aebd-8af8d2be83cd/",
+      "updatedAt": "2026-09-11T06:05:42Z",
+      "firstSeenAt": "2026-08-25T10:18:47Z",
+      "previousNets": [
+        "2026-09-30T00:00:00Z"
+      ],
+      "postflightCheckedAt": "2026-09-11T06:05:42Z",
+      "postflightStatus": "success",
+      "preflightCheckedAt": "2026-09-11T06:05:42Z",
+      "preflightStatus": "missed"
     },
     {
       "id": "3e0456da-14b1-4ac3-b59e-35fefb1d1530",
@@ -1191,7 +1242,7 @@
       "statusDescription": "The launch vehicle successfully inserted its payload(s) into the target orbit(s).",
       "sourceUrl": "https://www.spacex.com/launches/ussf153",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/3e0456da-14b1-4ac3-b59e-35fefb1d1530/",
-      "updatedAt": "2026-09-11T01:11:06Z",
+      "updatedAt": "2026-09-11T06:05:42Z",
       "firstSeenAt": "2026-09-01T19:33:33Z",
       "livestreamUrl": "https://www.youtube.com/watch?v=mPxbkR0BFS0",
       "previousNets": [
@@ -1222,7 +1273,7 @@
       "statusDescription": "The launch vehicle successfully inserted its payload(s) into the target orbit(s).",
       "sourceUrl": "https://ll.thespacedevs.com/2.2.0/launch/95eb9265-bdbe-43ad-b08c-6be7eb4e58f4/",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/95eb9265-bdbe-43ad-b08c-6be7eb4e58f4/",
-      "updatedAt": "2026-09-11T01:11:06Z",
+      "updatedAt": "2026-09-11T06:05:42Z",
       "firstSeenAt": "2026-09-02T13:19:58Z",
       "previousNets": [
         "2026-09-09T09:00:00Z"
