@@ -1,35 +1,8 @@
 {
-  "generatedAt": "2026-09-12T01:22:31Z",
+  "generatedAt": "2026-09-12T06:13:50Z",
   "source": "launch-worker:launch/upcoming",
-  "nextRefreshAfter": "2026-09-12T02:22:31Z",
+  "nextRefreshAfter": "2026-09-12T07:13:50Z",
   "launches": [
-    {
-      "id": "b81156da-c0b8-46c8-aebd-8af8d2be83cd",
-      "name": "Electron | Happily Ever Faster (BlackSky Gen-3 5)",
-      "net": "2026-09-11T03:28:00Z",
-      "provider": "Rocket Lab",
-      "rocket": "Electron",
-      "pad": "Rocket Lab Launch Complex 1A",
-      "padLocation": "Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand",
-      "latitude": -39.262833,
-      "longitude": 177.864469,
-      "mission": "Happily Ever Faster (BlackSky Gen-3 5)",
-      "missionDescription": "Note: Payload and customer identities were not publicly announced.\r\n\r\n5th of the BlackSky Gen-3 high resolution Earth-imaging satellites.",
-      "orbit": "Low Earth Orbit",
-      "status": "success",
-      "outcome": "success",
-      "statusName": "Launch Successful",
-      "statusAbbrev": "Success",
-      "statusDescription": "The launch vehicle successfully inserted its payload(s) into the target orbit(s).",
-      "preflightStatus": "",
-      "postflightStatus": "",
-      "preflightCheckedAt": null,
-      "postflightCheckedAt": null,
-      "livestreamUrl": "",
-      "sourceUrl": "https://rocketlabcorp.com/missions/launches/happily-ever-faster/",
-      "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/b81156da-c0b8-46c8-aebd-8af8d2be83cd/",
-      "updatedAt": "2026-09-12T01:22:31Z"
-    },
     {
       "id": "ad358a4d-c541-409b-9366-9c2f2da4aeb9",
       "name": "Falcon 9 Block 5 | O3b mPower 11-13",
@@ -55,7 +28,7 @@
       "livestreamUrl": "https://x.com/i/broadcasts/1RKjpbVdykQJw",
       "sourceUrl": "https://www.spacex.com/launches/mpower-f",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/ad358a4d-c541-409b-9366-9c2f2da4aeb9/",
-      "updatedAt": "2026-09-12T01:22:31Z"
+      "updatedAt": "2026-09-12T06:13:50Z"
     },
     {
       "id": "8effc13a-c658-4d2e-9f15-8dba4d7fe2dd",
@@ -82,7 +55,7 @@
       "livestreamUrl": "https://www.youtube.com/watch?v=Rb4CN2avz90",
       "sourceUrl": "https://ll.thespacedevs.com/2.2.0/program/22/",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/8effc13a-c658-4d2e-9f15-8dba4d7fe2dd/",
-      "updatedAt": "2026-09-12T01:22:31Z"
+      "updatedAt": "2026-09-12T06:13:50Z"
     },
     {
       "id": "de446468-057f-4c9d-a6a1-af99c93b541e",
@@ -109,7 +82,7 @@
       "livestreamUrl": "",
       "sourceUrl": "https://ll.thespacedevs.com/2.2.0/launch/de446468-057f-4c9d-a6a1-af99c93b541e/",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/de446468-057f-4c9d-a6a1-af99c93b541e/",
-      "updatedAt": "2026-09-12T01:22:31Z"
+      "updatedAt": "2026-09-12T06:13:50Z"
     },
     {
       "id": "767f7827-53d8-4621-803b-f456a1e6b512",
@@ -136,7 +109,7 @@
       "livestreamUrl": "",
       "sourceUrl": "https://ll.thespacedevs.com/2.2.0/launch/767f7827-53d8-4621-803b-f456a1e6b512/",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/767f7827-53d8-4621-803b-f456a1e6b512/",
-      "updatedAt": "2026-09-12T01:22:31Z"
+      "updatedAt": "2026-09-12T06:13:50Z"
     },
     {
       "id": "17c71937-dd80-406f-bb47-0c9ee9a24276",
@@ -163,7 +136,7 @@
       "livestreamUrl": "https://x.com/i/broadcasts/1nGeLMWbkpaKX",
       "sourceUrl": "https://www.spacex.com/launches/ussf259",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/17c71937-dd80-406f-bb47-0c9ee9a24276/",
-      "updatedAt": "2026-09-12T01:22:31Z"
+      "updatedAt": "2026-09-12T06:13:50Z"
     },
     {
       "id": "d793ba47-faf5-4bab-a386-39a9ccc49c90",
@@ -190,7 +163,7 @@
       "livestreamUrl": "https://www.youtube.com/watch?v=cCpf0BOjlLE",
       "sourceUrl": "https://ll.thespacedevs.com/2.2.0/program/17/",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/d793ba47-faf5-4bab-a386-39a9ccc49c90/",
-      "updatedAt": "2026-09-12T01:22:31Z"
+      "updatedAt": "2026-09-12T06:13:50Z"
     },
     {
       "id": "898f7df0-b6ce-4a5c-80b4-67e81842124e",
@@ -217,7 +190,7 @@
       "livestreamUrl": "",
       "sourceUrl": "https://ll.thespacedevs.com/2.2.0/launch/898f7df0-b6ce-4a5c-80b4-67e81842124e/",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/898f7df0-b6ce-4a5c-80b4-67e81842124e/",
-      "updatedAt": "2026-09-12T01:22:31Z"
+      "updatedAt": "2026-09-12T06:13:50Z"
     },
     {
       "id": "71aa4d56-0ce9-4c7d-a808-cc22f2ac5a84",
@@ -244,7 +217,7 @@
       "livestreamUrl": "",
       "sourceUrl": "https://ll.thespacedevs.com/2.2.0/launch/71aa4d56-0ce9-4c7d-a808-cc22f2ac5a84/",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/71aa4d56-0ce9-4c7d-a808-cc22f2ac5a84/",
-      "updatedAt": "2026-09-12T01:22:31Z"
+      "updatedAt": "2026-09-12T06:13:50Z"
     },
     {
       "id": "7d1afb26-6f9c-429b-9ccf-29012fd1e519",
@@ -271,7 +244,7 @@
       "livestreamUrl": "",
       "sourceUrl": "https://ll.thespacedevs.com/2.2.0/program/25/",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/7d1afb26-6f9c-429b-9ccf-29012fd1e519/",
-      "updatedAt": "2026-09-12T01:22:31Z"
+      "updatedAt": "2026-09-12T06:13:50Z"
     },
     {
       "id": "a527b585-f01f-4ecc-9230-711dcef72ef1",
@@ -298,7 +271,7 @@
       "livestreamUrl": "",
       "sourceUrl": "https://ll.thespacedevs.com/2.2.0/launch/a527b585-f01f-4ecc-9230-711dcef72ef1/",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/a527b585-f01f-4ecc-9230-711dcef72ef1/",
-      "updatedAt": "2026-09-12T01:22:31Z"
+      "updatedAt": "2026-09-12T06:13:50Z"
     },
     {
       "id": "d1471f9d-e9d0-4146-8e97-90863e48bfc8",
@@ -325,7 +298,7 @@
       "livestreamUrl": "https://x.com/i/broadcasts/1nxnRBXEladxO",
       "sourceUrl": "https://www.spacex.com/launches/sl-15-27",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/d1471f9d-e9d0-4146-8e97-90863e48bfc8/",
-      "updatedAt": "2026-09-12T01:22:31Z"
+      "updatedAt": "2026-09-12T06:13:50Z"
     },
     {
       "id": "599ba2df-7483-4b2f-a083-2b5ddc06e069",
@@ -352,7 +325,7 @@
       "livestreamUrl": "",
       "sourceUrl": "https://ll.thespacedevs.com/2.2.0/launch/599ba2df-7483-4b2f-a083-2b5ddc06e069/",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/599ba2df-7483-4b2f-a083-2b5ddc06e069/",
-      "updatedAt": "2026-09-12T01:22:31Z"
+      "updatedAt": "2026-09-12T06:13:50Z"
     },
     {
       "id": "18441371-8b2e-457c-afb5-1ec1b11ab630",
@@ -379,7 +352,7 @@
       "livestreamUrl": "",
       "sourceUrl": "https://ll.thespacedevs.com/2.2.0/program/5/",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/18441371-8b2e-457c-afb5-1ec1b11ab630/",
-      "updatedAt": "2026-09-12T01:22:31Z"
+      "updatedAt": "2026-09-12T06:13:50Z"
     },
     {
       "id": "da43dc2c-00af-4cc1-8ef1-90a60b2eb9e5",
@@ -406,7 +379,7 @@
       "livestreamUrl": "",
       "sourceUrl": "https://ll.thespacedevs.com/2.2.0/launch/da43dc2c-00af-4cc1-8ef1-90a60b2eb9e5/",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/da43dc2c-00af-4cc1-8ef1-90a60b2eb9e5/",
-      "updatedAt": "2026-09-12T01:22:31Z"
+      "updatedAt": "2026-09-12T06:13:50Z"
     },
     {
       "id": "dc570565-4dcf-4ab9-8174-bf88efef477f",
@@ -433,7 +406,7 @@
       "livestreamUrl": "",
       "sourceUrl": "https://ll.thespacedevs.com/2.2.0/launch/dc570565-4dcf-4ab9-8174-bf88efef477f/",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/dc570565-4dcf-4ab9-8174-bf88efef477f/",
-      "updatedAt": "2026-09-12T01:22:31Z"
+      "updatedAt": "2026-09-12T06:13:50Z"
     },
     {
       "id": "63063b9d-ade9-4448-8717-6f910aa81188",
@@ -460,7 +433,7 @@
       "livestreamUrl": "",
       "sourceUrl": "https://ll.thespacedevs.com/2.2.0/launch/63063b9d-ade9-4448-8717-6f910aa81188/",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/63063b9d-ade9-4448-8717-6f910aa81188/",
-      "updatedAt": "2026-09-12T01:22:31Z"
+      "updatedAt": "2026-09-12T06:13:50Z"
     },
     {
       "id": "ef9850ad-1096-425b-9d27-f7bbd186e61a",
@@ -487,7 +460,7 @@
       "livestreamUrl": "",
       "sourceUrl": "https://ll.thespacedevs.com/2.2.0/program/27/",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/ef9850ad-1096-425b-9d27-f7bbd186e61a/",
-      "updatedAt": "2026-09-12T01:22:31Z"
+      "updatedAt": "2026-09-12T06:13:50Z"
     },
     {
       "id": "7766f3bb-674c-4c71-b986-963bd633fcfe",
@@ -514,7 +487,7 @@
       "livestreamUrl": "",
       "sourceUrl": "https://ll.thespacedevs.com/2.2.0/launch/7766f3bb-674c-4c71-b986-963bd633fcfe/",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/7766f3bb-674c-4c71-b986-963bd633fcfe/",
-      "updatedAt": "2026-09-12T01:22:31Z"
+      "updatedAt": "2026-09-12T06:13:50Z"
     },
     {
       "id": "548df42c-ae26-4cc9-921a-f0042941911a",
@@ -541,7 +514,7 @@
       "livestreamUrl": "",
       "sourceUrl": "https://ll.thespacedevs.com/2.2.0/launch/548df42c-ae26-4cc9-921a-f0042941911a/",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/548df42c-ae26-4cc9-921a-f0042941911a/",
-      "updatedAt": "2026-09-12T01:22:31Z"
+      "updatedAt": "2026-09-12T06:13:50Z"
     },
     {
       "id": "3b94ad50-3505-496e-8a95-b0bc4c0dadc6",
@@ -568,7 +541,7 @@
       "livestreamUrl": "",
       "sourceUrl": "https://ll.thespacedevs.com/2.2.0/launch/3b94ad50-3505-496e-8a95-b0bc4c0dadc6/",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/3b94ad50-3505-496e-8a95-b0bc4c0dadc6/",
-      "updatedAt": "2026-09-12T01:22:31Z"
+      "updatedAt": "2026-09-12T06:13:50Z"
     },
     {
       "id": "7bdc412b-c965-4517-a131-f57a01189803",
@@ -595,7 +568,7 @@
       "livestreamUrl": "",
       "sourceUrl": "https://ll.thespacedevs.com/2.2.0/program/27/",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/7bdc412b-c965-4517-a131-f57a01189803/",
-      "updatedAt": "2026-09-12T01:22:31Z"
+      "updatedAt": "2026-09-12T06:13:50Z"
     },
     {
       "id": "e0741415-6c63-4236-9736-24a6c04485bc",
@@ -622,7 +595,7 @@
       "livestreamUrl": "",
       "sourceUrl": "https://ll.thespacedevs.com/2.2.0/launch/e0741415-6c63-4236-9736-24a6c04485bc/",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/e0741415-6c63-4236-9736-24a6c04485bc/",
-      "updatedAt": "2026-09-12T01:22:31Z"
+      "updatedAt": "2026-09-12T06:13:50Z"
     },
     {
       "id": "69ebbcd2-b257-4070-9ef9-21e7d1f8a883",
@@ -649,7 +622,34 @@
       "livestreamUrl": "",
       "sourceUrl": "https://ll.thespacedevs.com/2.2.0/launch/69ebbcd2-b257-4070-9ef9-21e7d1f8a883/",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/69ebbcd2-b257-4070-9ef9-21e7d1f8a883/",
-      "updatedAt": "2026-09-12T01:22:31Z"
+      "updatedAt": "2026-09-12T06:13:50Z"
+    },
+    {
+      "id": "f4c720ce-0cfd-43e6-b8dd-00273073bc01",
+      "name": "Electron | StriX Launch 12",
+      "net": "2026-10-31T00:00:00Z",
+      "provider": "Rocket Lab",
+      "rocket": "Electron",
+      "pad": "Unknown Pad",
+      "padLocation": "Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand",
+      "latitude": -39.260881,
+      "longitude": 177.865826,
+      "mission": "StriX Launch 12",
+      "missionDescription": "Synthetic aperture radar satellite for Japanese Earth imaging company Synspective.",
+      "orbit": "Sun-Synchronous Orbit",
+      "status": "delayed",
+      "outcome": "delayed",
+      "statusName": "To Be Determined",
+      "statusAbbrev": "TBD",
+      "statusDescription": "Current date is a placeholder or rough estimation based on unreliable or interpreted sources.",
+      "preflightStatus": "",
+      "postflightStatus": "",
+      "preflightCheckedAt": null,
+      "postflightCheckedAt": null,
+      "livestreamUrl": "",
+      "sourceUrl": "https://ll.thespacedevs.com/2.2.0/launch/f4c720ce-0cfd-43e6-b8dd-00273073bc01/",
+      "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/f4c720ce-0cfd-43e6-b8dd-00273073bc01/",
+      "updatedAt": "2026-09-12T06:13:50Z"
     }
   ]
 }
