@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-16T06:08:08Z",
+  "generatedAt": "2026-09-16T15:30:46Z",
   "source": "launch-worker:observed-db",
   "launches": [
     {
@@ -325,7 +325,7 @@
       "statusDescription": "Current date is a placeholder or rough estimation based on unreliable or interpreted sources.",
       "sourceUrl": "https://ll.thespacedevs.com/2.2.0/launch/3b430f81-0ff1-4d85-8a1a-cef0de326198/",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/3b430f81-0ff1-4d85-8a1a-cef0de326198/",
-      "updatedAt": "2026-09-15T12:13:50Z",
+      "updatedAt": "2026-09-16T15:30:46Z",
       "firstSeenAt": "2026-09-03T13:55:07Z"
     },
     {
@@ -352,6 +352,37 @@
       "firstSeenAt": "2026-09-06T21:41:54Z"
     },
     {
+      "id": "18441371-8b2e-457c-afb5-1ec1b11ab630",
+      "name": "Falcon 9 Block 5 | Crew-13",
+      "net": "2026-10-31T00:00:00Z",
+      "provider": "SpaceX",
+      "rocket": "Falcon 9 Block 5",
+      "pad": "Space Launch Complex 40",
+      "padLocation": "Cape Canaveral SFS, FL, USA",
+      "latitude": 28.56194122,
+      "longitude": -80.57735736,
+      "mission": "Crew-13",
+      "missionDescription": "SpaceX Crew-13 is the thirteenth crewed operational flight of a Crew Dragon spacecraft to the International Space Station as part of NASA's Commercial Crew Program.",
+      "orbit": "Low Earth Orbit",
+      "status": "delayed",
+      "outcome": "delayed",
+      "statusName": "To Be Determined",
+      "statusAbbrev": "TBD",
+      "statusDescription": "Current date is a placeholder or rough estimation based on unreliable or interpreted sources.",
+      "sourceUrl": "https://ll.thespacedevs.com/2.2.0/program/5/",
+      "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/18441371-8b2e-457c-afb5-1ec1b11ab630/",
+      "updatedAt": "2026-09-16T15:30:46Z",
+      "firstSeenAt": "2026-07-26T16:12:25Z",
+      "previousNets": [
+        "2026-09-30T00:00:00Z",
+        "2026-09-12T22:34:00Z"
+      ],
+      "preflightCheckedAt": null,
+      "postflightCheckedAt": null,
+      "preflightStatus": "",
+      "postflightStatus": ""
+    },
+    {
       "id": "69ebbcd2-b257-4070-9ef9-21e7d1f8a883",
       "name": "H3-24 | Martian Moon eXplorer (MMX)",
       "net": "2026-10-19T19:41:03Z",
@@ -370,7 +401,7 @@
       "statusDescription": "Current T-0 confirmed by official or reliable sources.",
       "sourceUrl": "https://ll.thespacedevs.com/2.2.0/launch/69ebbcd2-b257-4070-9ef9-21e7d1f8a883/",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/69ebbcd2-b257-4070-9ef9-21e7d1f8a883/",
-      "updatedAt": "2026-09-16T06:08:08Z",
+      "updatedAt": "2026-09-16T15:30:46Z",
       "firstSeenAt": "2026-08-29T02:08:06Z"
     },
     {
@@ -392,7 +423,7 @@
       "statusDescription": "Current T-0 confirmed by official or reliable sources.",
       "sourceUrl": "https://ll.thespacedevs.com/2.2.0/launch/e0741415-6c63-4236-9736-24a6c04485bc/",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/e0741415-6c63-4236-9736-24a6c04485bc/",
-      "updatedAt": "2026-09-16T06:08:08Z",
+      "updatedAt": "2026-09-16T15:30:46Z",
       "firstSeenAt": "2026-08-28T19:03:01Z"
     },
     {
@@ -415,7 +446,7 @@
       "statusDescription": "Current date is a placeholder or rough estimation based on unreliable or interpreted sources.",
       "sourceUrl": "https://ll.thespacedevs.com/2.2.0/program/27/",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/7bdc412b-c965-4517-a131-f57a01189803/",
-      "updatedAt": "2026-09-16T06:08:08Z",
+      "updatedAt": "2026-09-16T15:30:46Z",
       "firstSeenAt": "2026-08-27T22:50:55Z"
     },
     {
@@ -528,7 +559,7 @@
       "statusDescription": "Current date is a placeholder or rough estimation based on unreliable or interpreted sources.",
       "sourceUrl": "https://ll.thespacedevs.com/2.2.0/launch/da43dc2c-00af-4cc1-8ef1-90a60b2eb9e5/",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/da43dc2c-00af-4cc1-8ef1-90a60b2eb9e5/",
-      "updatedAt": "2026-09-16T06:08:08Z",
+      "updatedAt": "2026-09-16T15:30:46Z",
       "firstSeenAt": "2026-05-23T23:39:26Z",
       "previousNets": [
         "2026-06-30T00:00:00Z"
@@ -618,7 +649,7 @@
       "statusDescription": "Current date is a placeholder or rough estimation based on unreliable or interpreted sources.",
       "sourceUrl": "https://ll.thespacedevs.com/2.2.0/launch/3b94ad50-3505-496e-8a95-b0bc4c0dadc6/",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/3b94ad50-3505-496e-8a95-b0bc4c0dadc6/",
-      "updatedAt": "2026-09-16T06:08:08Z",
+      "updatedAt": "2026-09-16T15:30:46Z",
       "firstSeenAt": "2026-06-18T06:27:12Z",
       "previousNets": [
         "2026-06-30T00:00:00Z"
@@ -648,7 +679,7 @@
       "statusDescription": "Current date is a placeholder or rough estimation based on unreliable or interpreted sources.",
       "sourceUrl": "https://ll.thespacedevs.com/2.2.0/program/27/",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/ef9850ad-1096-425b-9d27-f7bbd186e61a/",
-      "updatedAt": "2026-09-16T06:08:08Z",
+      "updatedAt": "2026-09-16T15:30:46Z",
       "firstSeenAt": "2026-08-06T03:44:41Z"
     },
     {
@@ -727,7 +758,7 @@
       "statusDescription": "Current date is a placeholder or rough estimation based on unreliable or interpreted sources.",
       "sourceUrl": "https://ll.thespacedevs.com/2.2.0/launch/599ba2df-7483-4b2f-a083-2b5ddc06e069/",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/599ba2df-7483-4b2f-a083-2b5ddc06e069/",
-      "updatedAt": "2026-09-16T06:08:08Z",
+      "updatedAt": "2026-09-16T15:30:46Z",
       "firstSeenAt": "2026-04-30T15:18:38Z",
       "previousNets": [
         "2026-06-25T00:00:00Z",
@@ -760,7 +791,7 @@
       "statusDescription": "Current date is a placeholder or rough estimation based on unreliable or interpreted sources.",
       "sourceUrl": "https://ll.thespacedevs.com/2.2.0/launch/7766f3bb-674c-4c71-b986-963bd633fcfe/",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/7766f3bb-674c-4c71-b986-963bd633fcfe/",
-      "updatedAt": "2026-09-16T06:08:08Z",
+      "updatedAt": "2026-09-16T15:30:46Z",
       "firstSeenAt": "2026-08-25T03:09:47Z"
     },
     {
@@ -783,7 +814,7 @@
       "statusDescription": "Current date is a placeholder or rough estimation based on unreliable or interpreted sources.",
       "sourceUrl": "https://ll.thespacedevs.com/2.2.0/launch/548df42c-ae26-4cc9-921a-f0042941911a/",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/548df42c-ae26-4cc9-921a-f0042941911a/",
-      "updatedAt": "2026-09-16T06:08:08Z",
+      "updatedAt": "2026-09-16T15:30:46Z",
       "firstSeenAt": "2026-08-26T03:53:58Z"
     },
     {
@@ -806,41 +837,10 @@
       "statusDescription": "Current date is a placeholder or rough estimation based on unreliable or interpreted sources.",
       "sourceUrl": "https://ll.thespacedevs.com/2.2.0/launch/dc570565-4dcf-4ab9-8174-bf88efef477f/",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/dc570565-4dcf-4ab9-8174-bf88efef477f/",
-      "updatedAt": "2026-09-16T06:08:08Z",
+      "updatedAt": "2026-09-16T15:30:46Z",
       "firstSeenAt": "2026-08-05T01:09:34Z",
       "previousNets": [
         "2026-08-31T00:00:00Z"
-      ],
-      "preflightCheckedAt": null,
-      "postflightCheckedAt": null,
-      "preflightStatus": "",
-      "postflightStatus": ""
-    },
-    {
-      "id": "18441371-8b2e-457c-afb5-1ec1b11ab630",
-      "name": "Falcon 9 Block 5 | Crew-13",
-      "net": "2026-09-30T00:00:00Z",
-      "provider": "SpaceX",
-      "rocket": "Falcon 9 Block 5",
-      "pad": "Space Launch Complex 40",
-      "padLocation": "Cape Canaveral SFS, FL, USA",
-      "latitude": 28.56194122,
-      "longitude": -80.57735736,
-      "mission": "Crew-13",
-      "missionDescription": "SpaceX Crew-13 is the thirteenth crewed operational flight of a Crew Dragon spacecraft to the International Space Station as part of NASA's Commercial Crew Program.",
-      "orbit": "Low Earth Orbit",
-      "status": "delayed",
-      "outcome": "delayed",
-      "statusName": "To Be Determined",
-      "statusAbbrev": "TBD",
-      "statusDescription": "Current date is a placeholder or rough estimation based on unreliable or interpreted sources.",
-      "sourceUrl": "https://ll.thespacedevs.com/2.2.0/program/5/",
-      "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/18441371-8b2e-457c-afb5-1ec1b11ab630/",
-      "updatedAt": "2026-09-16T06:08:08Z",
-      "firstSeenAt": "2026-07-26T16:12:25Z",
-      "previousNets": [
-        "2026-09-30T00:00:00Z",
-        "2026-09-12T22:34:00Z"
       ],
       "preflightCheckedAt": null,
       "postflightCheckedAt": null,
@@ -867,7 +867,7 @@
       "statusDescription": "Current date is a placeholder or rough estimation based on unreliable or interpreted sources.",
       "sourceUrl": "https://ll.thespacedevs.com/2.2.0/launch/63063b9d-ade9-4448-8717-6f910aa81188/",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/63063b9d-ade9-4448-8717-6f910aa81188/",
-      "updatedAt": "2026-09-16T06:08:08Z",
+      "updatedAt": "2026-09-16T15:30:46Z",
       "firstSeenAt": "2026-08-30T15:26:17Z",
       "previousNets": [
         "2026-09-11T16:00:00Z"
@@ -880,7 +880,7 @@
     {
       "id": "7330d83b-c478-426c-8859-f9e3a335876d",
       "name": "Falcon 9 Block 5 | USSF-xxx (\"R-3\")",
-      "net": "2026-09-27T11:42:00Z",
+      "net": "2026-09-26T11:56:00Z",
       "provider": "SpaceX",
       "rocket": "Falcon 9 Block 5",
       "pad": "Space Launch Complex 4E",
@@ -897,8 +897,15 @@
       "statusDescription": "Awaiting official confirmation - current date is known with some certainty.",
       "sourceUrl": "https://ll.thespacedevs.com/2.2.0/launch/7330d83b-c478-426c-8859-f9e3a335876d/",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/7330d83b-c478-426c-8859-f9e3a335876d/",
-      "updatedAt": "2026-09-16T06:08:08Z",
-      "firstSeenAt": "2026-09-15T17:06:46Z"
+      "updatedAt": "2026-09-16T15:30:46Z",
+      "firstSeenAt": "2026-09-15T17:06:46Z",
+      "previousNets": [
+        "2026-09-27T11:42:00Z"
+      ],
+      "preflightCheckedAt": null,
+      "postflightCheckedAt": null,
+      "preflightStatus": "",
+      "postflightStatus": ""
     },
     {
       "id": "7d1afb26-6f9c-429b-9ccf-29012fd1e519",
@@ -920,7 +927,7 @@
       "statusDescription": "Current T-0 confirmed by official or reliable sources.",
       "sourceUrl": "https://www.spacex.com/launches/starship-flight-14",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/7d1afb26-6f9c-429b-9ccf-29012fd1e519/",
-      "updatedAt": "2026-09-16T06:08:08Z",
+      "updatedAt": "2026-09-16T15:30:46Z",
       "firstSeenAt": "2026-08-18T03:02:40Z",
       "previousNets": [
         "2026-09-30T00:00:00Z",
@@ -952,7 +959,7 @@
       "statusDescription": "Current T-0 confirmed by official or reliable sources.",
       "sourceUrl": "https://ll.thespacedevs.com/2.2.0/launch/5af31461-bce5-4cfb-a0ee-b527cf285d90/",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/5af31461-bce5-4cfb-a0ee-b527cf285d90/",
-      "updatedAt": "2026-09-16T06:08:08Z",
+      "updatedAt": "2026-09-16T15:30:46Z",
       "firstSeenAt": "2026-09-16T06:08:08Z"
     },
     {
@@ -975,7 +982,7 @@
       "livestreamUrl": "https://x.com/i/broadcasts/1nxnRBXEladxO",
       "sourceUrl": "https://www.spacex.com/launches/sl-15-27",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/d1471f9d-e9d0-4146-8e97-90863e48bfc8/",
-      "updatedAt": "2026-09-16T06:08:08Z",
+      "updatedAt": "2026-09-16T15:30:46Z",
       "firstSeenAt": "2026-09-08T15:16:19Z"
     },
     {
@@ -997,7 +1004,7 @@
       "statusDescription": "Current T-0 confirmed by official or reliable sources.",
       "sourceUrl": "https://ll.thespacedevs.com/2.2.0/launch/a527b585-f01f-4ecc-9230-711dcef72ef1/",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/a527b585-f01f-4ecc-9230-711dcef72ef1/",
-      "updatedAt": "2026-09-16T06:08:08Z",
+      "updatedAt": "2026-09-16T15:30:46Z",
       "firstSeenAt": "2026-09-11T06:05:42Z"
     },
     {
@@ -1020,7 +1027,7 @@
       "statusDescription": "Current T-0 confirmed by official or reliable sources.",
       "sourceUrl": "https://rocketlabcorp.com/missions/launches/owl-by-the-dozen/",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/f4c720ce-0cfd-43e6-b8dd-00273073bc01/",
-      "updatedAt": "2026-09-16T06:08:08Z",
+      "updatedAt": "2026-09-16T15:30:46Z",
       "firstSeenAt": "2026-08-29T14:25:56Z",
       "previousNets": [
         "2026-10-31T00:00:00Z"
@@ -1049,7 +1056,7 @@
       "statusDescription": "Current T-0 confirmed by official or reliable sources.",
       "sourceUrl": "https://ll.thespacedevs.com/2.2.0/launch/71aa4d56-0ce9-4c7d-a808-cc22f2ac5a84/",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/71aa4d56-0ce9-4c7d-a808-cc22f2ac5a84/",
-      "updatedAt": "2026-09-16T06:08:08Z",
+      "updatedAt": "2026-09-16T15:30:46Z",
       "firstSeenAt": "2026-09-11T06:05:42Z"
     },
     {
@@ -1072,7 +1079,7 @@
       "livestreamUrl": "https://www.youtube.com/watch?v=X0Rc1uf_6nw",
       "sourceUrl": "https://www.spacex.com/launches/ussf259",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/17c71937-dd80-406f-bb47-0c9ee9a24276/",
-      "updatedAt": "2026-09-16T06:08:08Z",
+      "updatedAt": "2026-09-16T15:30:46Z",
       "firstSeenAt": "2026-09-09T19:14:56Z",
       "previousNets": [
         "2026-09-16T01:00:00Z",
@@ -1104,7 +1111,7 @@
       "statusDescription": "Current T-0 confirmed by official or reliable sources.",
       "sourceUrl": "https://ll.thespacedevs.com/2.2.0/launch/898f7df0-b6ce-4a5c-80b4-67e81842124e/",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/898f7df0-b6ce-4a5c-80b4-67e81842124e/",
-      "updatedAt": "2026-09-16T06:08:08Z",
+      "updatedAt": "2026-09-16T15:30:46Z",
       "firstSeenAt": "2026-09-08T18:47:21Z",
       "previousNets": [
         "2026-09-17T00:00:00Z"
@@ -1117,7 +1124,7 @@
     {
       "id": "d793ba47-faf5-4bab-a386-39a9ccc49c90",
       "name": "Soyuz 2.1b | Progress MS-35 (96P)",
-      "net": "2026-09-16T13:33:53Z",
+      "net": "2026-09-16T13:33:54Z",
       "provider": "Russian Federal Space Agency (ROSCOSMOS)",
       "rocket": "Soyuz 2.1b",
       "pad": "31/6",
@@ -1127,25 +1134,26 @@
       "mission": "Progress MS-35 (96P)",
       "missionDescription": "Progress resupply mission to the International Space Station.",
       "orbit": "Low Earth Orbit",
-      "status": "go",
-      "outcome": "",
-      "statusName": "Go for Launch",
-      "statusAbbrev": "Go",
-      "statusDescription": "Current T-0 confirmed by official or reliable sources.",
+      "status": "success",
+      "outcome": "success",
+      "statusName": "Launch Successful",
+      "statusAbbrev": "Success",
+      "statusDescription": "The launch vehicle successfully inserted its payload(s) into the target orbit(s).",
       "sourceUrl": "https://ll.thespacedevs.com/2.2.0/program/17/",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/d793ba47-faf5-4bab-a386-39a9ccc49c90/",
-      "updatedAt": "2026-09-16T06:08:08Z",
+      "updatedAt": "2026-09-16T15:30:46Z",
       "firstSeenAt": "2026-04-27T16:11:41Z",
       "previousNets": [
         "2026-06-17T01:40:00Z",
         "2026-09-09T16:10:00Z",
         "2026-09-09T16:15:03Z",
-        "2026-09-16T00:00:00Z"
+        "2026-09-16T00:00:00Z",
+        "2026-09-16T13:33:53Z"
       ],
-      "preflightCheckedAt": null,
-      "postflightCheckedAt": null,
-      "preflightStatus": "",
-      "postflightStatus": "",
+      "preflightCheckedAt": "2026-09-16T15:30:46Z",
+      "postflightCheckedAt": "2026-09-16T15:30:46Z",
+      "preflightStatus": "missed",
+      "postflightStatus": "success",
       "livestreamUrl": "https://www.youtube.com/watch?v=cCpf0BOjlLE"
     },
     {
@@ -1167,7 +1175,7 @@
       "statusDescription": "The launch vehicle successfully inserted its payload(s) into the target orbit(s).",
       "sourceUrl": "https://ll.thespacedevs.com/2.2.0/launch/767f7827-53d8-4621-803b-f456a1e6b512/",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/767f7827-53d8-4621-803b-f456a1e6b512/",
-      "updatedAt": "2026-09-16T06:08:08Z",
+      "updatedAt": "2026-09-16T15:30:46Z",
       "firstSeenAt": "2026-09-09T16:04:51Z",
       "outcome": "success",
       "previousNets": [
