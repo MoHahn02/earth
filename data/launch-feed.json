@@ -1,8 +1,35 @@
 {
-  "generatedAt": "2026-09-18T04:30:58Z",
+  "generatedAt": "2026-09-18T09:11:14Z",
   "source": "launch-worker:launch/upcoming",
-  "nextRefreshAfter": "2026-09-18T05:30:58Z",
+  "nextRefreshAfter": "2026-09-18T10:11:14Z",
   "launches": [
+    {
+      "id": "ab3c1e6c-03fe-48a7-b6ce-30c79569bdfb",
+      "name": "Soyuz 2.1b/Fregat | Kosmos (Unknown Payload)",
+      "net": "2026-09-17T16:50:00Z",
+      "provider": "Russian Space Forces",
+      "rocket": "Soyuz 2.1b Fregat-M",
+      "pad": "43/3 (43L)",
+      "padLocation": "Plesetsk Cosmodrome, Russian Federation",
+      "latitude": 62.9273,
+      "longitude": 40.45,
+      "mission": "Kosmos (Unknown Payload)",
+      "missionDescription": "Note: Launch vehicle and payload identities not confirmed. Launch time is approximate.\r\n\r\nUnknown classified satellite(s) for the Russian military.",
+      "orbit": "Unknown",
+      "status": "success",
+      "outcome": "success",
+      "statusName": "Launch Successful",
+      "statusAbbrev": "Success",
+      "statusDescription": "The launch vehicle successfully inserted its payload(s) into the target orbit(s).",
+      "preflightStatus": "",
+      "postflightStatus": "",
+      "preflightCheckedAt": null,
+      "postflightCheckedAt": null,
+      "livestreamUrl": "",
+      "sourceUrl": "https://ll.thespacedevs.com/2.2.0/launch/ab3c1e6c-03fe-48a7-b6ce-30c79569bdfb/",
+      "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/ab3c1e6c-03fe-48a7-b6ce-30c79569bdfb/",
+      "updatedAt": "2026-09-18T09:11:14Z"
+    },
     {
       "id": "f4c720ce-0cfd-43e6-b8dd-00273073bc01",
       "name": "Electron | Owl By The Dozen (StriX Launch 12)",
@@ -28,7 +55,7 @@
       "livestreamUrl": "",
       "sourceUrl": "https://rocketlabcorp.com/missions/launches/owl-by-the-dozen/",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/f4c720ce-0cfd-43e6-b8dd-00273073bc01/",
-      "updatedAt": "2026-09-18T04:30:58Z"
+      "updatedAt": "2026-09-18T09:11:14Z"
     },
     {
       "id": "a527b585-f01f-4ecc-9230-711dcef72ef1",
@@ -55,7 +82,7 @@
       "livestreamUrl": "",
       "sourceUrl": "https://ll.thespacedevs.com/2.2.0/launch/a527b585-f01f-4ecc-9230-711dcef72ef1/",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/a527b585-f01f-4ecc-9230-711dcef72ef1/",
-      "updatedAt": "2026-09-18T04:30:58Z"
+      "updatedAt": "2026-09-18T09:11:14Z"
     },
     {
       "id": "d1471f9d-e9d0-4146-8e97-90863e48bfc8",
@@ -82,7 +109,7 @@
       "livestreamUrl": "https://x.com/i/broadcasts/1nxnRBXEladxO",
       "sourceUrl": "https://www.spacex.com/launches/sl-15-27",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/d1471f9d-e9d0-4146-8e97-90863e48bfc8/",
-      "updatedAt": "2026-09-18T04:30:58Z"
+      "updatedAt": "2026-09-18T09:11:14Z"
     },
     {
       "id": "5af31461-bce5-4cfb-a0ee-b527cf285d90",
@@ -109,7 +136,7 @@
       "livestreamUrl": "",
       "sourceUrl": "https://ll.thespacedevs.com/2.2.0/launch/5af31461-bce5-4cfb-a0ee-b527cf285d90/",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/5af31461-bce5-4cfb-a0ee-b527cf285d90/",
-      "updatedAt": "2026-09-18T04:30:58Z"
+      "updatedAt": "2026-09-18T09:11:14Z"
     },
     {
       "id": "7330d83b-c478-426c-8859-f9e3a335876d",
@@ -136,7 +163,7 @@
       "livestreamUrl": "https://x.com/i/broadcasts/1mxPaZqBEDjKN",
       "sourceUrl": "https://www.spacex.com/launches/ussf385",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/7330d83b-c478-426c-8859-f9e3a335876d/",
-      "updatedAt": "2026-09-18T04:30:58Z"
+      "updatedAt": "2026-09-18T09:11:14Z"
     },
     {
       "id": "7d1afb26-6f9c-429b-9ccf-29012fd1e519",
@@ -163,7 +190,7 @@
       "livestreamUrl": "https://www.youtube.com/watch?v=SqSGeLDIG-0",
       "sourceUrl": "https://www.spacex.com/launches/starship-flight-14",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/7d1afb26-6f9c-429b-9ccf-29012fd1e519/",
-      "updatedAt": "2026-09-18T04:30:58Z"
+      "updatedAt": "2026-09-18T09:11:14Z"
     },
     {
       "id": "599ba2df-7483-4b2f-a083-2b5ddc06e069",
@@ -190,7 +217,7 @@
       "livestreamUrl": "",
       "sourceUrl": "https://ll.thespacedevs.com/2.2.0/launch/599ba2df-7483-4b2f-a083-2b5ddc06e069/",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/599ba2df-7483-4b2f-a083-2b5ddc06e069/",
-      "updatedAt": "2026-09-18T04:30:58Z"
+      "updatedAt": "2026-09-18T09:11:14Z"
     },
     {
       "id": "dc570565-4dcf-4ab9-8174-bf88efef477f",
@@ -217,7 +244,7 @@
       "livestreamUrl": "",
       "sourceUrl": "https://ll.thespacedevs.com/2.2.0/launch/dc570565-4dcf-4ab9-8174-bf88efef477f/",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/dc570565-4dcf-4ab9-8174-bf88efef477f/",
-      "updatedAt": "2026-09-18T04:30:58Z"
+      "updatedAt": "2026-09-18T09:11:14Z"
     },
     {
       "id": "63063b9d-ade9-4448-8717-6f910aa81188",
@@ -244,34 +271,7 @@
       "livestreamUrl": "",
       "sourceUrl": "https://ll.thespacedevs.com/2.2.0/launch/63063b9d-ade9-4448-8717-6f910aa81188/",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/63063b9d-ade9-4448-8717-6f910aa81188/",
-      "updatedAt": "2026-09-18T04:30:58Z"
-    },
-    {
-      "id": "ab3c1e6c-03fe-48a7-b6ce-30c79569bdfb",
-      "name": "Soyuz 2.1b/Fregat | Kosmos (Unknown Payload)",
-      "net": "2026-09-30T00:00:00Z",
-      "provider": "Russian Space Forces",
-      "rocket": "Soyuz 2.1b Fregat-M",
-      "pad": "Unknown Pad",
-      "padLocation": "Plesetsk Cosmodrome, Russian Federation",
-      "latitude": 62.925556,
-      "longitude": 40.577778,
-      "mission": "Kosmos (Unknown Payload)",
-      "missionDescription": "Note: Launch vehicle and payload identities highly uncertain.\r\n\r\nUnknown classified satellite(s) for the Russian military.",
-      "orbit": "Unknown",
-      "status": "delayed",
-      "outcome": "delayed",
-      "statusName": "To Be Determined",
-      "statusAbbrev": "TBD",
-      "statusDescription": "Current date is a placeholder or rough estimation based on unreliable or interpreted sources.",
-      "preflightStatus": "",
-      "postflightStatus": "",
-      "preflightCheckedAt": null,
-      "postflightCheckedAt": null,
-      "livestreamUrl": "",
-      "sourceUrl": "https://ll.thespacedevs.com/2.2.0/launch/ab3c1e6c-03fe-48a7-b6ce-30c79569bdfb/",
-      "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/ab3c1e6c-03fe-48a7-b6ce-30c79569bdfb/",
-      "updatedAt": "2026-09-18T04:30:58Z"
+      "updatedAt": "2026-09-18T09:11:14Z"
     },
     {
       "id": "ef9850ad-1096-425b-9d27-f7bbd186e61a",
@@ -298,7 +298,7 @@
       "livestreamUrl": "",
       "sourceUrl": "https://ll.thespacedevs.com/2.2.0/program/27/",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/ef9850ad-1096-425b-9d27-f7bbd186e61a/",
-      "updatedAt": "2026-09-18T04:30:58Z"
+      "updatedAt": "2026-09-18T09:11:14Z"
     },
     {
       "id": "7766f3bb-674c-4c71-b986-963bd633fcfe",
@@ -325,7 +325,7 @@
       "livestreamUrl": "",
       "sourceUrl": "https://ll.thespacedevs.com/2.2.0/launch/7766f3bb-674c-4c71-b986-963bd633fcfe/",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/7766f3bb-674c-4c71-b986-963bd633fcfe/",
-      "updatedAt": "2026-09-18T04:30:58Z"
+      "updatedAt": "2026-09-18T09:11:14Z"
     },
     {
       "id": "548df42c-ae26-4cc9-921a-f0042941911a",
@@ -352,7 +352,7 @@
       "livestreamUrl": "",
       "sourceUrl": "https://ll.thespacedevs.com/2.2.0/launch/548df42c-ae26-4cc9-921a-f0042941911a/",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/548df42c-ae26-4cc9-921a-f0042941911a/",
-      "updatedAt": "2026-09-18T04:30:58Z"
+      "updatedAt": "2026-09-18T09:11:14Z"
     },
     {
       "id": "6b89cfc8-8880-4b5b-856c-0e547d45b639",
@@ -379,7 +379,7 @@
       "livestreamUrl": "",
       "sourceUrl": "https://ll.thespacedevs.com/2.2.0/launch/6b89cfc8-8880-4b5b-856c-0e547d45b639/",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/6b89cfc8-8880-4b5b-856c-0e547d45b639/",
-      "updatedAt": "2026-09-18T04:30:58Z"
+      "updatedAt": "2026-09-18T09:11:14Z"
     },
     {
       "id": "7bdc412b-c965-4517-a131-f57a01189803",
@@ -406,7 +406,7 @@
       "livestreamUrl": "",
       "sourceUrl": "https://ll.thespacedevs.com/2.2.0/program/27/",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/7bdc412b-c965-4517-a131-f57a01189803/",
-      "updatedAt": "2026-09-18T04:30:58Z"
+      "updatedAt": "2026-09-18T09:11:14Z"
     },
     {
       "id": "e0741415-6c63-4236-9736-24a6c04485bc",
@@ -433,7 +433,7 @@
       "livestreamUrl": "",
       "sourceUrl": "https://ll.thespacedevs.com/2.2.0/launch/e0741415-6c63-4236-9736-24a6c04485bc/",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/e0741415-6c63-4236-9736-24a6c04485bc/",
-      "updatedAt": "2026-09-18T04:30:58Z"
+      "updatedAt": "2026-09-18T09:11:14Z"
     },
     {
       "id": "69ebbcd2-b257-4070-9ef9-21e7d1f8a883",
@@ -460,7 +460,7 @@
       "livestreamUrl": "",
       "sourceUrl": "https://ll.thespacedevs.com/2.2.0/launch/69ebbcd2-b257-4070-9ef9-21e7d1f8a883/",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/69ebbcd2-b257-4070-9ef9-21e7d1f8a883/",
-      "updatedAt": "2026-09-18T04:30:58Z"
+      "updatedAt": "2026-09-18T09:11:14Z"
     },
     {
       "id": "3b430f81-0ff1-4d85-8a1a-cef0de326198",
@@ -487,7 +487,7 @@
       "livestreamUrl": "",
       "sourceUrl": "https://ll.thespacedevs.com/2.2.0/launch/3b430f81-0ff1-4d85-8a1a-cef0de326198/",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/3b430f81-0ff1-4d85-8a1a-cef0de326198/",
-      "updatedAt": "2026-09-18T04:30:58Z"
+      "updatedAt": "2026-09-18T09:11:14Z"
     },
     {
       "id": "18441371-8b2e-457c-afb5-1ec1b11ab630",
@@ -514,7 +514,7 @@
       "livestreamUrl": "",
       "sourceUrl": "https://ll.thespacedevs.com/2.2.0/program/5/",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/18441371-8b2e-457c-afb5-1ec1b11ab630/",
-      "updatedAt": "2026-09-18T04:30:58Z"
+      "updatedAt": "2026-09-18T09:11:14Z"
     },
     {
       "id": "bf2c3027-a314-403e-a416-2bfd5d165ad1",
@@ -541,7 +541,7 @@
       "livestreamUrl": "",
       "sourceUrl": "https://ll.thespacedevs.com/2.2.0/program/11/",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/bf2c3027-a314-403e-a416-2bfd5d165ad1/",
-      "updatedAt": "2026-09-18T04:30:58Z"
+      "updatedAt": "2026-09-18T09:11:14Z"
     },
     {
       "id": "da43dc2c-00af-4cc1-8ef1-90a60b2eb9e5",
@@ -568,7 +568,7 @@
       "livestreamUrl": "",
       "sourceUrl": "https://ll.thespacedevs.com/2.2.0/launch/da43dc2c-00af-4cc1-8ef1-90a60b2eb9e5/",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/da43dc2c-00af-4cc1-8ef1-90a60b2eb9e5/",
-      "updatedAt": "2026-09-18T04:30:58Z"
+      "updatedAt": "2026-09-18T09:11:14Z"
     },
     {
       "id": "67213393-7983-4c06-8b44-b8c785a5ed79",
@@ -595,7 +595,7 @@
       "livestreamUrl": "",
       "sourceUrl": "https://ll.thespacedevs.com/2.2.0/launch/67213393-7983-4c06-8b44-b8c785a5ed79/",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/67213393-7983-4c06-8b44-b8c785a5ed79/",
-      "updatedAt": "2026-09-18T04:30:58Z"
+      "updatedAt": "2026-09-18T09:11:14Z"
     },
     {
       "id": "4651fd8a-43de-4166-bf8f-c168b3bd1d2c",
@@ -622,7 +622,7 @@
       "livestreamUrl": "",
       "sourceUrl": "https://ll.thespacedevs.com/2.2.0/launch/4651fd8a-43de-4166-bf8f-c168b3bd1d2c/",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/4651fd8a-43de-4166-bf8f-c168b3bd1d2c/",
-      "updatedAt": "2026-09-18T04:30:58Z"
+      "updatedAt": "2026-09-18T09:11:14Z"
     },
     {
       "id": "8dd5de11-831b-445f-86f0-bffefe0550d9",
@@ -649,7 +649,7 @@
       "livestreamUrl": "",
       "sourceUrl": "https://ll.thespacedevs.com/2.2.0/program/17/",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/8dd5de11-831b-445f-86f0-bffefe0550d9/",
-      "updatedAt": "2026-09-18T04:30:58Z"
+      "updatedAt": "2026-09-18T09:11:14Z"
     }
   ]
 }
