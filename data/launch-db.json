@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-18T21:55:28Z",
+  "generatedAt": "2026-09-19T04:11:07Z",
   "source": "launch-worker:observed-db",
   "launches": [
     {
@@ -242,7 +242,7 @@
       "statusDescription": "Awaiting official confirmation - current date is known with some certainty.",
       "sourceUrl": "https://ll.thespacedevs.com/2.2.0/program/17/",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/8dd5de11-831b-445f-86f0-bffefe0550d9/",
-      "updatedAt": "2026-09-18T21:55:28Z",
+      "updatedAt": "2026-09-19T04:11:07Z",
       "firstSeenAt": "2026-09-18T04:30:58Z"
     },
     {
@@ -288,7 +288,7 @@
       "statusDescription": "Current date is a placeholder or rough estimation based on unreliable or interpreted sources.",
       "sourceUrl": "https://ll.thespacedevs.com/2.2.0/program/11/",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/bf2c3027-a314-403e-a416-2bfd5d165ad1/",
-      "updatedAt": "2026-09-18T21:55:28Z",
+      "updatedAt": "2026-09-19T04:11:07Z",
       "firstSeenAt": "2026-07-08T09:02:45Z",
       "previousNets": [
         "2026-08-31T00:00:00Z"
@@ -318,7 +318,7 @@
       "statusDescription": "Current date is a placeholder or rough estimation based on unreliable or interpreted sources.",
       "sourceUrl": "https://ll.thespacedevs.com/2.2.0/launch/3b430f81-0ff1-4d85-8a1a-cef0de326198/",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/3b430f81-0ff1-4d85-8a1a-cef0de326198/",
-      "updatedAt": "2026-09-18T21:55:28Z",
+      "updatedAt": "2026-09-19T04:11:07Z",
       "firstSeenAt": "2026-09-03T13:55:07Z"
     },
     {
@@ -341,7 +341,7 @@
       "statusDescription": "Current date is a placeholder or rough estimation based on unreliable or interpreted sources.",
       "sourceUrl": "https://ll.thespacedevs.com/2.2.0/launch/67213393-7983-4c06-8b44-b8c785a5ed79/",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/67213393-7983-4c06-8b44-b8c785a5ed79/",
-      "updatedAt": "2026-09-18T21:55:28Z",
+      "updatedAt": "2026-09-19T04:11:07Z",
       "firstSeenAt": "2026-09-06T21:41:54Z"
     },
     {
@@ -364,7 +364,7 @@
       "statusDescription": "Current date is a placeholder or rough estimation based on unreliable or interpreted sources.",
       "sourceUrl": "https://ll.thespacedevs.com/2.2.0/launch/da43dc2c-00af-4cc1-8ef1-90a60b2eb9e5/",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/da43dc2c-00af-4cc1-8ef1-90a60b2eb9e5/",
-      "updatedAt": "2026-09-18T21:55:28Z",
+      "updatedAt": "2026-09-19T04:11:07Z",
       "firstSeenAt": "2026-05-23T23:39:26Z",
       "previousNets": [
         "2026-06-30T00:00:00Z",
@@ -395,7 +395,7 @@
       "statusDescription": "Current date is a placeholder or rough estimation based on unreliable or interpreted sources.",
       "sourceUrl": "https://ll.thespacedevs.com/2.2.0/launch/4651fd8a-43de-4166-bf8f-c168b3bd1d2c/",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/4651fd8a-43de-4166-bf8f-c168b3bd1d2c/",
-      "updatedAt": "2026-09-18T21:55:28Z",
+      "updatedAt": "2026-09-19T04:11:07Z",
       "firstSeenAt": "2026-09-18T04:30:58Z"
     },
     {
@@ -417,7 +417,7 @@
       "statusDescription": "Current T-0 confirmed by official or reliable sources.",
       "sourceUrl": "https://ll.thespacedevs.com/2.2.0/launch/69ebbcd2-b257-4070-9ef9-21e7d1f8a883/",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/69ebbcd2-b257-4070-9ef9-21e7d1f8a883/",
-      "updatedAt": "2026-09-18T21:55:28Z",
+      "updatedAt": "2026-09-19T04:11:07Z",
       "firstSeenAt": "2026-08-29T02:08:06Z"
     },
     {
@@ -439,7 +439,7 @@
       "statusDescription": "Current T-0 confirmed by official or reliable sources.",
       "sourceUrl": "https://ll.thespacedevs.com/2.2.0/launch/e0741415-6c63-4236-9736-24a6c04485bc/",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/e0741415-6c63-4236-9736-24a6c04485bc/",
-      "updatedAt": "2026-09-18T21:55:28Z",
+      "updatedAt": "2026-09-19T04:11:07Z",
       "firstSeenAt": "2026-08-28T19:03:01Z"
     },
     {
@@ -462,7 +462,7 @@
       "statusDescription": "Current date is a placeholder or rough estimation based on unreliable or interpreted sources.",
       "sourceUrl": "https://ll.thespacedevs.com/2.2.0/program/27/",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/7bdc412b-c965-4517-a131-f57a01189803/",
-      "updatedAt": "2026-09-18T21:55:28Z",
+      "updatedAt": "2026-09-19T04:11:07Z",
       "firstSeenAt": "2026-08-27T22:50:55Z"
     },
     {
@@ -485,7 +485,7 @@
       "statusDescription": "Current date is a placeholder or rough estimation based on unreliable or interpreted sources.",
       "sourceUrl": "https://ll.thespacedevs.com/2.2.0/launch/6b89cfc8-8880-4b5b-856c-0e547d45b639/",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/6b89cfc8-8880-4b5b-856c-0e547d45b639/",
-      "updatedAt": "2026-09-18T21:55:28Z",
+      "updatedAt": "2026-09-19T04:11:07Z",
       "firstSeenAt": "2026-09-18T04:30:58Z"
     },
     {
@@ -508,7 +508,7 @@
       "statusDescription": "Awaiting official confirmation - current date is known with some certainty.",
       "sourceUrl": "https://ll.thespacedevs.com/2.2.0/program/5/",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/18441371-8b2e-457c-afb5-1ec1b11ab630/",
-      "updatedAt": "2026-09-18T21:55:28Z",
+      "updatedAt": "2026-09-19T04:11:07Z",
       "firstSeenAt": "2026-07-26T16:12:25Z",
       "previousNets": [
         "2026-09-30T00:00:00Z",
@@ -720,7 +720,7 @@
       "statusDescription": "Current date is a placeholder or rough estimation based on unreliable or interpreted sources.",
       "sourceUrl": "https://ll.thespacedevs.com/2.2.0/program/27/",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/ef9850ad-1096-425b-9d27-f7bbd186e61a/",
-      "updatedAt": "2026-09-18T21:55:28Z",
+      "updatedAt": "2026-09-19T04:11:07Z",
       "firstSeenAt": "2026-08-06T03:44:41Z"
     },
     {
@@ -799,7 +799,7 @@
       "statusDescription": "Current date is a placeholder or rough estimation based on unreliable or interpreted sources.",
       "sourceUrl": "https://ll.thespacedevs.com/2.2.0/launch/599ba2df-7483-4b2f-a083-2b5ddc06e069/",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/599ba2df-7483-4b2f-a083-2b5ddc06e069/",
-      "updatedAt": "2026-09-18T21:55:28Z",
+      "updatedAt": "2026-09-19T04:11:07Z",
       "firstSeenAt": "2026-04-30T15:18:38Z",
       "previousNets": [
         "2026-06-25T00:00:00Z",
@@ -832,7 +832,7 @@
       "statusDescription": "Current date is a placeholder or rough estimation based on unreliable or interpreted sources.",
       "sourceUrl": "https://ll.thespacedevs.com/2.2.0/launch/7766f3bb-674c-4c71-b986-963bd633fcfe/",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/7766f3bb-674c-4c71-b986-963bd633fcfe/",
-      "updatedAt": "2026-09-18T21:55:28Z",
+      "updatedAt": "2026-09-19T04:11:07Z",
       "firstSeenAt": "2026-08-25T03:09:47Z"
     },
     {
@@ -855,7 +855,7 @@
       "statusDescription": "Current date is a placeholder or rough estimation based on unreliable or interpreted sources.",
       "sourceUrl": "https://ll.thespacedevs.com/2.2.0/launch/548df42c-ae26-4cc9-921a-f0042941911a/",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/548df42c-ae26-4cc9-921a-f0042941911a/",
-      "updatedAt": "2026-09-18T21:55:28Z",
+      "updatedAt": "2026-09-19T04:11:07Z",
       "firstSeenAt": "2026-08-26T03:53:58Z"
     },
     {
@@ -878,7 +878,7 @@
       "statusDescription": "Current date is a placeholder or rough estimation based on unreliable or interpreted sources.",
       "sourceUrl": "https://ll.thespacedevs.com/2.2.0/launch/dc570565-4dcf-4ab9-8174-bf88efef477f/",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/dc570565-4dcf-4ab9-8174-bf88efef477f/",
-      "updatedAt": "2026-09-18T21:55:28Z",
+      "updatedAt": "2026-09-19T04:11:07Z",
       "firstSeenAt": "2026-08-05T01:09:34Z",
       "previousNets": [
         "2026-08-31T00:00:00Z"
@@ -908,7 +908,7 @@
       "statusDescription": "Awaiting official confirmation - current date is known with some certainty.",
       "sourceUrl": "https://www.spacex.com/launches/starship-flight-14",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/7d1afb26-6f9c-429b-9ccf-29012fd1e519/",
-      "updatedAt": "2026-09-18T21:55:28Z",
+      "updatedAt": "2026-09-19T04:11:07Z",
       "firstSeenAt": "2026-08-18T03:02:40Z",
       "previousNets": [
         "2026-09-30T00:00:00Z",
@@ -943,7 +943,7 @@
       "statusDescription": "Current T-0 confirmed by official or reliable sources.",
       "sourceUrl": "https://www.spacex.com/launches/ussf385",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/7330d83b-c478-426c-8859-f9e3a335876d/",
-      "updatedAt": "2026-09-18T21:55:28Z",
+      "updatedAt": "2026-09-19T04:11:07Z",
       "firstSeenAt": "2026-09-15T17:06:46Z",
       "previousNets": [
         "2026-09-27T11:42:00Z"
@@ -973,7 +973,7 @@
       "statusDescription": "Current T-0 confirmed by official or reliable sources.",
       "sourceUrl": "https://ll.thespacedevs.com/2.2.0/launch/aed67837-b567-43e0-8071-c3ccc24aa496/",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/aed67837-b567-43e0-8071-c3ccc24aa496/",
-      "updatedAt": "2026-09-18T21:55:28Z",
+      "updatedAt": "2026-09-19T04:11:07Z",
       "firstSeenAt": "2026-09-18T17:13:53Z"
     },
     {
@@ -996,7 +996,7 @@
       "statusDescription": "Current T-0 confirmed by official or reliable sources.",
       "sourceUrl": "https://ll.thespacedevs.com/2.2.0/launch/63063b9d-ade9-4448-8717-6f910aa81188/",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/63063b9d-ade9-4448-8717-6f910aa81188/",
-      "updatedAt": "2026-09-18T21:55:28Z",
+      "updatedAt": "2026-09-19T04:11:07Z",
       "firstSeenAt": "2026-08-30T15:26:17Z",
       "previousNets": [
         "2026-09-11T16:00:00Z",
@@ -1026,7 +1026,7 @@
       "statusDescription": "Current T-0 confirmed by official or reliable sources.",
       "sourceUrl": "https://ll.thespacedevs.com/2.2.0/launch/5af31461-bce5-4cfb-a0ee-b527cf285d90/",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/5af31461-bce5-4cfb-a0ee-b527cf285d90/",
-      "updatedAt": "2026-09-18T21:55:28Z",
+      "updatedAt": "2026-09-19T04:11:07Z",
       "firstSeenAt": "2026-09-16T06:08:08Z"
     },
     {
@@ -1049,7 +1049,7 @@
       "livestreamUrl": "https://x.com/i/broadcasts/1nxnRBXEladxO",
       "sourceUrl": "https://www.spacex.com/launches/sl-15-27",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/d1471f9d-e9d0-4146-8e97-90863e48bfc8/",
-      "updatedAt": "2026-09-18T21:55:28Z",
+      "updatedAt": "2026-09-19T04:11:07Z",
       "firstSeenAt": "2026-09-08T15:16:19Z"
     },
     {
@@ -1071,13 +1071,13 @@
       "statusDescription": "Current T-0 confirmed by official or reliable sources.",
       "sourceUrl": "https://ll.thespacedevs.com/2.2.0/launch/a527b585-f01f-4ecc-9230-711dcef72ef1/",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/a527b585-f01f-4ecc-9230-711dcef72ef1/",
-      "updatedAt": "2026-09-18T21:55:28Z",
+      "updatedAt": "2026-09-19T04:11:07Z",
       "firstSeenAt": "2026-09-11T06:05:42Z"
     },
     {
       "id": "f4c720ce-0cfd-43e6-b8dd-00273073bc01",
       "name": "Electron | Owl By The Dozen (StriX Launch 12)",
-      "net": "2026-09-19T03:15:00Z",
+      "net": "2026-09-19T03:22:00Z",
       "provider": "Rocket Lab",
       "rocket": "Electron",
       "pad": "Rocket Lab Launch Complex 1B",
@@ -1087,22 +1087,23 @@
       "mission": "Owl By The Dozen (StriX Launch 12)",
       "missionDescription": "Synthetic aperture radar satellite for Japanese Earth imaging company Synspective.",
       "orbit": "Low Earth Orbit",
-      "status": "go",
+      "status": "live",
       "outcome": "",
-      "statusName": "Go for Launch",
-      "statusAbbrev": "Go",
-      "statusDescription": "Current T-0 confirmed by official or reliable sources.",
+      "statusName": "Launch in Flight",
+      "statusAbbrev": "In Flight",
+      "statusDescription": "The launch vehicle has lifted off from the launchpad.",
       "sourceUrl": "https://rocketlabcorp.com/missions/launches/owl-by-the-dozen/",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/f4c720ce-0cfd-43e6-b8dd-00273073bc01/",
-      "updatedAt": "2026-09-18T21:55:28Z",
+      "updatedAt": "2026-09-19T04:11:07Z",
       "firstSeenAt": "2026-08-29T14:25:56Z",
       "previousNets": [
-        "2026-10-31T00:00:00Z"
+        "2026-10-31T00:00:00Z",
+        "2026-09-19T03:15:00Z"
       ],
-      "preflightCheckedAt": null,
-      "postflightCheckedAt": null,
-      "preflightStatus": "",
-      "postflightStatus": "",
+      "preflightCheckedAt": "2026-09-19T04:11:07Z",
+      "postflightCheckedAt": "2026-09-19T04:11:07Z",
+      "preflightStatus": "missed",
+      "postflightStatus": "live",
       "livestreamUrl": "https://www.youtube.com/watch?v=AnN8Pj8WvSo"
     },
     {
