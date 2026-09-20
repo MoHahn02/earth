@@ -1,35 +1,8 @@
 {
-  "generatedAt": "2026-09-20T05:58:44Z",
+  "generatedAt": "2026-09-20T11:11:06Z",
   "source": "launch-worker:launch/upcoming",
-  "nextRefreshAfter": "2026-09-20T06:58:44Z",
+  "nextRefreshAfter": "2026-09-20T12:11:06Z",
   "launches": [
-    {
-      "id": "a527b585-f01f-4ecc-9230-711dcef72ef1",
-      "name": "Long March 2D | PIESAT-2 13-16",
-      "net": "2026-09-19T10:50:00Z",
-      "provider": "China Aerospace Science and Technology Corporation",
-      "rocket": "Long March 2D",
-      "pad": "Launch Complex 9",
-      "padLocation": "Taiyuan Satellite Launch Center, People's Republic of China",
-      "latitude": 38.863128,
-      "longitude": 111.589567,
-      "mission": "PIESAT-2 13-16",
-      "missionDescription": "4 X-band synthetic-aperture radar Earth observation satellites for the Chinese Earth observation satellite company PIESAT.",
-      "orbit": "Sun-Synchronous Orbit",
-      "status": "success",
-      "outcome": "success",
-      "statusName": "Launch Successful",
-      "statusAbbrev": "Success",
-      "statusDescription": "The launch vehicle successfully inserted its payload(s) into the target orbit(s).",
-      "preflightStatus": "",
-      "postflightStatus": "",
-      "preflightCheckedAt": null,
-      "postflightCheckedAt": null,
-      "livestreamUrl": "",
-      "sourceUrl": "https://ll.thespacedevs.com/2.2.0/launch/a527b585-f01f-4ecc-9230-711dcef72ef1/",
-      "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/a527b585-f01f-4ecc-9230-711dcef72ef1/",
-      "updatedAt": "2026-09-20T05:58:44Z"
-    },
     {
       "id": "d1471f9d-e9d0-4146-8e97-90863e48bfc8",
       "name": "Falcon 9 Block 5 | Starlink Group 15-27",
@@ -55,7 +28,7 @@
       "livestreamUrl": "https://www.youtube.com/watch?v=gOcigcsXtHk",
       "sourceUrl": "https://www.spacex.com/launches/sl-15-27",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/d1471f9d-e9d0-4146-8e97-90863e48bfc8/",
-      "updatedAt": "2026-09-20T05:58:44Z"
+      "updatedAt": "2026-09-20T11:11:06Z"
     },
     {
       "id": "5af31461-bce5-4cfb-a0ee-b527cf285d90",
@@ -82,7 +55,7 @@
       "livestreamUrl": "",
       "sourceUrl": "https://ll.thespacedevs.com/2.2.0/launch/5af31461-bce5-4cfb-a0ee-b527cf285d90/",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/5af31461-bce5-4cfb-a0ee-b527cf285d90/",
-      "updatedAt": "2026-09-20T05:58:44Z"
+      "updatedAt": "2026-09-20T11:11:06Z"
     },
     {
       "id": "63063b9d-ade9-4448-8717-6f910aa81188",
@@ -109,7 +82,7 @@
       "livestreamUrl": "",
       "sourceUrl": "https://ll.thespacedevs.com/2.2.0/launch/63063b9d-ade9-4448-8717-6f910aa81188/",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/63063b9d-ade9-4448-8717-6f910aa81188/",
-      "updatedAt": "2026-09-20T05:58:44Z"
+      "updatedAt": "2026-09-20T11:11:06Z"
     },
     {
       "id": "aed67837-b567-43e0-8071-c3ccc24aa496",
@@ -136,7 +109,7 @@
       "livestreamUrl": "",
       "sourceUrl": "https://ll.thespacedevs.com/2.2.0/launch/aed67837-b567-43e0-8071-c3ccc24aa496/",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/aed67837-b567-43e0-8071-c3ccc24aa496/",
-      "updatedAt": "2026-09-20T05:58:44Z"
+      "updatedAt": "2026-09-20T11:11:06Z"
     },
     {
       "id": "9e24bef7-c44b-4fdc-ba52-68545ce9457e",
@@ -163,7 +136,7 @@
       "livestreamUrl": "",
       "sourceUrl": "https://rocketlabcorp.com/missions/launches/owlright-owlright-owlright/",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/9e24bef7-c44b-4fdc-ba52-68545ce9457e/",
-      "updatedAt": "2026-09-20T05:58:44Z"
+      "updatedAt": "2026-09-20T11:11:06Z"
     },
     {
       "id": "7330d83b-c478-426c-8859-f9e3a335876d",
@@ -190,7 +163,7 @@
       "livestreamUrl": "https://x.com/i/broadcasts/1mxPaZqBEDjKN",
       "sourceUrl": "https://www.spacex.com/launches/ussf385",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/7330d83b-c478-426c-8859-f9e3a335876d/",
-      "updatedAt": "2026-09-20T05:58:44Z"
+      "updatedAt": "2026-09-20T11:11:06Z"
     },
     {
       "id": "7d1afb26-6f9c-429b-9ccf-29012fd1e519",
@@ -217,7 +190,7 @@
       "livestreamUrl": "https://www.youtube.com/watch?v=SqSGeLDIG-0",
       "sourceUrl": "https://www.spacex.com/launches/starship-flight-14",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/7d1afb26-6f9c-429b-9ccf-29012fd1e519/",
-      "updatedAt": "2026-09-20T05:58:44Z"
+      "updatedAt": "2026-09-20T11:11:06Z"
     },
     {
       "id": "97c6f5e1-299e-4652-b72d-9618ac047076",
@@ -244,7 +217,7 @@
       "livestreamUrl": "https://x.com/i/broadcasts/1yKAPwdemygxb",
       "sourceUrl": "https://www.spacex.com/launches/sl-15-25",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/97c6f5e1-299e-4652-b72d-9618ac047076/",
-      "updatedAt": "2026-09-20T05:58:44Z"
+      "updatedAt": "2026-09-20T11:11:06Z"
     },
     {
       "id": "18441371-8b2e-457c-afb5-1ec1b11ab630",
@@ -271,7 +244,7 @@
       "livestreamUrl": "",
       "sourceUrl": "https://ll.thespacedevs.com/2.2.0/program/5/",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/18441371-8b2e-457c-afb5-1ec1b11ab630/",
-      "updatedAt": "2026-09-20T05:58:44Z"
+      "updatedAt": "2026-09-20T11:11:06Z"
     },
     {
       "id": "6b89cfc8-8880-4b5b-856c-0e547d45b639",
@@ -298,7 +271,7 @@
       "livestreamUrl": "",
       "sourceUrl": "https://ll.thespacedevs.com/2.2.0/launch/6b89cfc8-8880-4b5b-856c-0e547d45b639/",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/6b89cfc8-8880-4b5b-856c-0e547d45b639/",
-      "updatedAt": "2026-09-20T05:58:44Z"
+      "updatedAt": "2026-09-20T11:11:06Z"
     },
     {
       "id": "7bdc412b-c965-4517-a131-f57a01189803",
@@ -325,7 +298,7 @@
       "livestreamUrl": "",
       "sourceUrl": "https://ll.thespacedevs.com/2.2.0/program/27/",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/7bdc412b-c965-4517-a131-f57a01189803/",
-      "updatedAt": "2026-09-20T05:58:44Z"
+      "updatedAt": "2026-09-20T11:11:06Z"
     },
     {
       "id": "e0741415-6c63-4236-9736-24a6c04485bc",
@@ -352,7 +325,7 @@
       "livestreamUrl": "",
       "sourceUrl": "https://ll.thespacedevs.com/2.2.0/launch/e0741415-6c63-4236-9736-24a6c04485bc/",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/e0741415-6c63-4236-9736-24a6c04485bc/",
-      "updatedAt": "2026-09-20T05:58:44Z"
+      "updatedAt": "2026-09-20T11:11:06Z"
     },
     {
       "id": "69ebbcd2-b257-4070-9ef9-21e7d1f8a883",
@@ -379,7 +352,7 @@
       "livestreamUrl": "",
       "sourceUrl": "https://ll.thespacedevs.com/2.2.0/launch/69ebbcd2-b257-4070-9ef9-21e7d1f8a883/",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/69ebbcd2-b257-4070-9ef9-21e7d1f8a883/",
-      "updatedAt": "2026-09-20T05:58:44Z"
+      "updatedAt": "2026-09-20T11:11:06Z"
     },
     {
       "id": "3b430f81-0ff1-4d85-8a1a-cef0de326198",
@@ -406,7 +379,7 @@
       "livestreamUrl": "",
       "sourceUrl": "https://ll.thespacedevs.com/2.2.0/launch/3b430f81-0ff1-4d85-8a1a-cef0de326198/",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/3b430f81-0ff1-4d85-8a1a-cef0de326198/",
-      "updatedAt": "2026-09-20T05:58:44Z"
+      "updatedAt": "2026-09-20T11:11:06Z"
     },
     {
       "id": "bf2c3027-a314-403e-a416-2bfd5d165ad1",
@@ -433,7 +406,7 @@
       "livestreamUrl": "",
       "sourceUrl": "https://ll.thespacedevs.com/2.2.0/program/11/",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/bf2c3027-a314-403e-a416-2bfd5d165ad1/",
-      "updatedAt": "2026-09-20T05:58:44Z"
+      "updatedAt": "2026-09-20T11:11:06Z"
     },
     {
       "id": "da43dc2c-00af-4cc1-8ef1-90a60b2eb9e5",
@@ -460,7 +433,7 @@
       "livestreamUrl": "",
       "sourceUrl": "https://ll.thespacedevs.com/2.2.0/launch/da43dc2c-00af-4cc1-8ef1-90a60b2eb9e5/",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/da43dc2c-00af-4cc1-8ef1-90a60b2eb9e5/",
-      "updatedAt": "2026-09-20T05:58:44Z"
+      "updatedAt": "2026-09-20T11:11:06Z"
     },
     {
       "id": "67213393-7983-4c06-8b44-b8c785a5ed79",
@@ -487,7 +460,7 @@
       "livestreamUrl": "",
       "sourceUrl": "https://ll.thespacedevs.com/2.2.0/launch/67213393-7983-4c06-8b44-b8c785a5ed79/",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/67213393-7983-4c06-8b44-b8c785a5ed79/",
-      "updatedAt": "2026-09-20T05:58:44Z"
+      "updatedAt": "2026-09-20T11:11:06Z"
     },
     {
       "id": "dc570565-4dcf-4ab9-8174-bf88efef477f",
@@ -514,7 +487,7 @@
       "livestreamUrl": "",
       "sourceUrl": "https://ll.thespacedevs.com/2.2.0/launch/dc570565-4dcf-4ab9-8174-bf88efef477f/",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/dc570565-4dcf-4ab9-8174-bf88efef477f/",
-      "updatedAt": "2026-09-20T05:58:44Z"
+      "updatedAt": "2026-09-20T11:11:06Z"
     },
     {
       "id": "ef9850ad-1096-425b-9d27-f7bbd186e61a",
@@ -541,7 +514,7 @@
       "livestreamUrl": "",
       "sourceUrl": "https://ll.thespacedevs.com/2.2.0/program/27/",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/ef9850ad-1096-425b-9d27-f7bbd186e61a/",
-      "updatedAt": "2026-09-20T05:58:44Z"
+      "updatedAt": "2026-09-20T11:11:06Z"
     },
     {
       "id": "4651fd8a-43de-4166-bf8f-c168b3bd1d2c",
@@ -568,7 +541,7 @@
       "livestreamUrl": "",
       "sourceUrl": "https://ll.thespacedevs.com/2.2.0/launch/4651fd8a-43de-4166-bf8f-c168b3bd1d2c/",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/4651fd8a-43de-4166-bf8f-c168b3bd1d2c/",
-      "updatedAt": "2026-09-20T05:58:44Z"
+      "updatedAt": "2026-09-20T11:11:06Z"
     },
     {
       "id": "8dd5de11-831b-445f-86f0-bffefe0550d9",
@@ -595,7 +568,7 @@
       "livestreamUrl": "",
       "sourceUrl": "https://ll.thespacedevs.com/2.2.0/program/17/",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/8dd5de11-831b-445f-86f0-bffefe0550d9/",
-      "updatedAt": "2026-09-20T05:58:44Z"
+      "updatedAt": "2026-09-20T11:11:06Z"
     },
     {
       "id": "22e117bf-041c-49d5-9d09-7b180036e143",
@@ -622,7 +595,7 @@
       "livestreamUrl": "",
       "sourceUrl": "http://www.arianespace.com/press-release/arianespace-and-eumetsat-announce-signature-of-a-launch-contract-for-the-first-metop-sg-satellites/",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/22e117bf-041c-49d5-9d09-7b180036e143/",
-      "updatedAt": "2026-09-20T05:58:44Z"
+      "updatedAt": "2026-09-20T11:11:06Z"
     },
     {
       "id": "d3bd7fb2-fac6-49fc-ae52-cee07d2fde67",
@@ -649,7 +622,34 @@
       "livestreamUrl": "",
       "sourceUrl": "https://ll.thespacedevs.com/2.2.0/launch/d3bd7fb2-fac6-49fc-ae52-cee07d2fde67/",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/d3bd7fb2-fac6-49fc-ae52-cee07d2fde67/",
-      "updatedAt": "2026-09-20T05:58:44Z"
+      "updatedAt": "2026-09-20T11:11:06Z"
+    },
+    {
+      "id": "7c891a0b-7194-4425-8cfd-2e8c75af2924",
+      "name": "HANBIT-Nano | InnoSat-0",
+      "net": "2026-11-30T00:00:00Z",
+      "provider": "Innospace",
+      "rocket": "HANBIT-Nano",
+      "pad": "HANBIT Pad",
+      "padLocation": "Alc\u00e2ntara Space Center, Federative Republic of Brazil",
+      "latitude": -2.31698,
+      "longitude": -44.36873,
+      "mission": "InnoSat-0",
+      "missionDescription": "Innospace's first in-house test satellite, 'InnoSat-0', will test various technologies for future development of satellites by Innospace themselves. The satellite will be deployed using Korean company SpaceBey\u2019s specialized deployer.",
+      "orbit": "Low Earth Orbit",
+      "status": "delayed",
+      "outcome": "delayed",
+      "statusName": "To Be Determined",
+      "statusAbbrev": "TBD",
+      "statusDescription": "Current date is a placeholder or rough estimation based on unreliable or interpreted sources.",
+      "preflightStatus": "",
+      "postflightStatus": "",
+      "preflightCheckedAt": null,
+      "postflightCheckedAt": null,
+      "livestreamUrl": "",
+      "sourceUrl": "https://ll.thespacedevs.com/2.2.0/launch/7c891a0b-7194-4425-8cfd-2e8c75af2924/",
+      "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/7c891a0b-7194-4425-8cfd-2e8c75af2924/",
+      "updatedAt": "2026-09-20T11:11:06Z"
     }
   ]
 }
