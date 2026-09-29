@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Earth</title>
-    <link rel="stylesheet" href="styles.css?v=live-sky-4">
+    <link rel="stylesheet" href="styles.css?v=solar-eclipse-1">
 </head>
 <body>
     <div id="canvas-container" aria-hidden="true"></div>
@@ -277,6 +277,35 @@
             </div>
         </div>
         <button type="button" class="action-btn action-btn-accent sat-stop-wide" id="sat-focus-stop-wide">Verfolgung beenden</button>
+    </aside>
+
+    <aside class="panel" id="eclipse-panel" aria-hidden="true">
+        <div class="panel-head">
+            <div>
+                <div class="section-kicker" id="eclipse-kicker">Nächste Sonnenfinsternis</div>
+                <h3 id="eclipse-title">Totale Sonnenfinsternis</h3>
+                <div class="watch-subtitle" id="eclipse-countdown">--</div>
+            </div>
+            <button type="button" class="panel-arrow" id="eclipse-close" aria-label="Sonnenfinsternis schließen">&times;</button>
+        </div>
+        <div class="eclipse-date" id="eclipse-date">--</div>
+        <p class="eclipse-region" id="eclipse-region">--</p>
+        <div class="eclipse-facts">
+            <div>
+                <span>Maximale Totalität</span>
+                <strong id="eclipse-duration">--</strong>
+            </div>
+            <div>
+                <span>Datenzeit</span>
+                <strong>UTC / WGS 84</strong>
+            </div>
+        </div>
+        <div class="eclipse-legend" aria-label="Legende der Sonnenfinsternis-Projektion">
+            <span><i class="eclipse-swatch eclipse-swatch-total"></i>Totalitätspfad</span>
+            <span><i class="eclipse-swatch eclipse-swatch-partial"></i>Partielle Sichtbarkeit</span>
+        </div>
+        <p class="eclipse-note" id="eclipse-partial-note">Der blaue Bereich ist eine schematische Übersicht; der orange Pfad folgt den NASA-Pfadgrenzen.</p>
+        <a class="watch-link" id="eclipse-source" href="#" target="_blank" rel="noreferrer noopener">NASA-Pfaddaten öffnen</a>
     </aside>
 
     <section class="panel" id="controls-panel">
@@ -570,7 +599,7 @@
         }
     }
     </script>
-    <script type="module" src="app.js?v=live-sky-7"></script>
+    <script type="module" src="app.js?v=solar-eclipse-1"></script>
     <script data-goatcounter="https://mohahn.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
 </body>
 </html>

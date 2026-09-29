@@ -28,10 +28,25 @@ import {
     quaternionFromDeviceOrientation,
     viewAnglesFromPose
 } from '../js/sky-projection.js';
+import { SOLAR_ECLIPSES, nextSolarEclipse, eclipseCountdownDays } from '../js/solar-eclipses.js';
 
 test('configuration keeps the default satellite scale inside its supported range', () => {
     assert.ok(SATELLITE_SIZE_SCALE_DEFAULT >= SATELLITE_SIZE_SCALE_MIN);
     assert.ok(SATELLITE_SIZE_SCALE_DEFAULT <= SATELLITE_SIZE_SCALE_MAX);
+});
+
+test('solar eclipse catalog selects the upcoming NASA path and exposes valid geometry', () => {
+    const eclipse = nextSolarEclipse(Date.UTC(2026, 7, 2));
+
+    assert.equal(eclipse?.id, '2026-08-12-total');
+    assert.equal(eclipseCountdownDays(eclipse, Date.UTC(2026, 7, 2)), 11);
+    assert.ok(eclipse.path.length >= 20);
+    assert.ok(eclipse.path.every((sample) =>
+        [sample.north, sample.south, sample.center].every(([lat, lon]) =>
+            Number.isFinite(lat) && Number.isFinite(lon) && Math.abs(lat) <= 90 && Math.abs(lon) <= 180
+        )
+    ));
+    assert.equal(nextSolarEclipse(SOLAR_ECLIPSES[0].partialEndMs + 1), null);
 });
 
 test('i18n switches languages and interpolates placeholders', () => {

@@ -285,6 +285,101 @@ body.satellite-following #satellite-focus-panel {
     display: block;
 }
 
+#eclipse-panel {
+    top: 116px;
+    left: 20px;
+    width: min(340px, calc(100vw - 40px));
+    max-height: calc(100vh - 136px);
+    overflow: auto;
+    padding: 16px;
+    display: none;
+}
+
+body.eclipse-view #eclipse-panel {
+    display: block;
+}
+
+body.eclipse-view #overview-panel,
+body.eclipse-view #mission-control-panel {
+    display: none !important;
+}
+
+.eclipse-date {
+    margin-top: 14px;
+    color: #fff4dc;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 1.35;
+}
+
+.eclipse-region,
+.eclipse-note {
+    color: var(--muted);
+    font-size: 12px;
+    line-height: 1.55;
+}
+
+.eclipse-facts {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 8px;
+    margin: 14px 0;
+}
+
+.eclipse-facts > div {
+    padding: 10px;
+    border: 1px solid rgba(255, 179, 71, 0.2);
+    border-radius: 12px;
+    background: rgba(255, 179, 71, 0.07);
+}
+
+.eclipse-facts span,
+.eclipse-facts strong {
+    display: block;
+}
+
+.eclipse-facts span {
+    color: var(--muted);
+    font-size: 10px;
+}
+
+.eclipse-facts strong {
+    margin-top: 5px;
+    color: #fff;
+    font-size: 12px;
+}
+
+.eclipse-legend {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 12px;
+    padding: 10px 0;
+    border-top: 1px solid rgba(255, 255, 255, 0.08);
+    border-bottom: 1px solid rgba(255, 255, 255, 0.08);
+    color: #dbeeff;
+    font-size: 11px;
+}
+
+.eclipse-legend span {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+}
+
+.eclipse-swatch {
+    width: 18px;
+    height: 6px;
+    border-radius: 999px;
+}
+
+.eclipse-swatch-total {
+    background: linear-gradient(90deg, #ff5b34, #ffd17a);
+}
+
+.eclipse-swatch-partial {
+    background: rgba(89, 207, 255, 0.5);
+}
+
 #stat-insight-panel {
     top: 116px;
     left: min(360px, calc(100vw - 420px));
@@ -1871,6 +1966,7 @@ body.hide-controls .panel-restore-bottom {
     #mission-control-panel,
     #launch-feed-panel,
     #satellite-focus-panel,
+    #eclipse-panel,
     #stat-insight-panel,
     #controls-panel,
     #search-drawer,
@@ -1921,6 +2017,24 @@ body.hide-controls .panel-restore-bottom {
 
     body.satellite-following #satellite-focus-panel {
         display: block;
+    }
+
+    #eclipse-panel {
+        display: none;
+    }
+
+    body.eclipse-view #eclipse-panel {
+        position: fixed;
+        top: auto;
+        right: 12px;
+        bottom: 82px;
+        left: 12px;
+        z-index: 72;
+        display: block;
+        width: auto;
+        max-height: min(54vh, 520px);
+        margin: 0;
+        overflow: auto;
     }
 
     #stat-insight-panel {

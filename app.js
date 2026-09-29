@@ -46,6 +46,7 @@ import {
     SATELLITE_NAME_SIZE_PROFILES
 } from './js/satellite-profile-data.js';
 import { latLonToVector3, destinationLatLon } from './js/geo.js';
+import { nextSolarEclipse, eclipseCountdownDays } from './js/solar-eclipses.js';
 import { createLaunchUtils } from './js/launch-utils.js';
 import { createSkyView } from './js/sky-view.js?v=live-sky-7';
 
@@ -187,6 +188,10 @@ import { createSkyView } from './js/sky-view.js?v=live-sky-7';
         earthObservationSource: '',
         earthRotationAngle: 0,
         moonMesh: null,
+        eclipseProjectionGroup: null,
+        eclipseProjectionId: '',
+        activeSolarEclipse: null,
+        solarEclipseViewActive: false,
         sunMesh: null,
         sunGlow: null,
         earthLabel: null,
@@ -584,6 +589,16 @@ import { createSkyView } from './js/sky-view.js?v=live-sky-7';
             'satellite-search-status',
             'satellite-search-results',
             'satellite-focus-panel',
+            'eclipse-panel',
+            'eclipse-close',
+            'eclipse-kicker',
+            'eclipse-title',
+            'eclipse-date',
+            'eclipse-countdown',
+            'eclipse-region',
+            'eclipse-duration',
+            'eclipse-partial-note',
+            'eclipse-source',
             'sat-focus-kicker',
             'sat-focus-title',
             'sat-focus-subtitle',
@@ -946,6 +961,7 @@ import { createSkyView } from './js/sky-view.js?v=live-sky-7';
         updateLaunchSuccessStatsUi();
         refreshSelectedLaunchUi();
         refreshSatelliteFocusVisuals();
+        renderSolarEclipsePanel();
         renderSatelliteSearchResults();
         renderStatsPanel();
         buildMissionTimeline();
@@ -1276,6 +1292,7 @@ import { createSkyView } from './js/sky-view.js?v=live-sky-7';
         dom['sat-focus-stop']?.addEventListener('click', stopSatellitePanelContext);
         dom['sat-focus-stop-wide']?.addEventListener('click', stopSatellitePanelContext);
         dom['sat-focus-constellation']?.addEventListener('click', jumpFocusedSatelliteToConstellation);
+        dom['eclipse-close']?.addEventListener('click', () => resetView(true));
         dom['earth-view-btn']?.addEventListener('click', () => resetView(true));
         dom['observer-view-btn']?.addEventListener('click', toggleFollowObserver);
         dom['moon-view-btn']?.addEventListener('click', toggleMoonView);
@@ -2542,6 +2559,146 @@ import { createSkyView } from './js/sky-view.js?v=live-sky-7';
         state.moonMesh = new THREE.Mesh(geometry, material);
         state.moonMesh.userData.pickKind = 'moon';
         state.scene.add(state.moonMesh);
+    }
+
+    function eclipseSurfacePoint(coordinates, radius) {
+        return latLonToVector3(coordinates[0], coordinates[1], radius);
+    }
+
+    function createEclipseVisibilityCap(eclipse, radius) {
+        const radialSteps = 9;
+        const bearingSteps = 72;
+        const vertices = [];
+        const indices = [];
+
+        for (let radialIndex = 0; radialIndex <= radialSteps; radialIndex += 1) {
+            const distance = eclipse.visibilityRadiusDeg * radialIndex / radialSteps;
+            for (let bearingIndex = 0; bearingIndex < bearingSteps; bearingIndex += 1) {
+                const bearing = 360 * bearingIndex / bearingSteps;
+                const point = distance === 0
+                    ? eclipse.visibilityCenter
+                    : destinationLatLon(
+                        eclipse.visibilityCenter.lat,
+                        eclipse.visibilityCenter.lon,
+                        bearing,
+                        distance
+                    );
+                vertices.push(...latLonToVector3(point.lat, point.lon, radius).toArray());
+            }
+        }
+
+        for (let radialIndex = 0; radialIndex < radialSteps; radialIndex += 1) {
+            for (let bearingIndex = 0; bearingIndex < bearingSteps; bearingIndex += 1) {
+                const nextBearing = (bearingIndex + 1) % bearingSteps;
+                const a = radialIndex * bearingSteps + bearingIndex;
+                const b = radialIndex * bearingSteps + nextBearing;
+                const c = (radialIndex + 1) * bearingSteps + bearingIndex;
+                const d = (radialIndex + 1) * bearingSteps + nextBearing;
+                indices.push(a, c, b, b, c, d);
+            }
+        }
+
+        const geometry = new THREE.BufferGeometry();
+        geometry.setAttribute('position', new THREE.Float32BufferAttribute(vertices, 3));
+        geometry.setIndex(indices);
+        geometry.computeVertexNormals();
+        return new THREE.Mesh(
+            geometry,
+            new THREE.MeshBasicMaterial({
+                color: 0x59cfff,
+                transparent: true,
+                opacity: 0.105,
+                side: THREE.DoubleSide,
+                depthWrite: false
+            })
+        );
+    }
+
+    function createEclipsePathRibbon(eclipse, radius) {
+        const vertices = [];
+        const indices = [];
+        eclipse.path.forEach((sample, index) => {
+            vertices.push(...eclipseSurfacePoint(sample.north, radius).toArray());
+            vertices.push(...eclipseSurfacePoint(sample.south, radius).toArray());
+            if (index < eclipse.path.length - 1) {
+                const a = index * 2;
+                const b = a + 1;
+                const c = a + 2;
+                const d = a + 3;
+                indices.push(a, c, b, b, c, d);
+            }
+        });
+
+        const geometry = new THREE.BufferGeometry();
+        geometry.setAttribute('position', new THREE.Float32BufferAttribute(vertices, 3));
+        geometry.setIndex(indices);
+        geometry.computeVertexNormals();
+        return new THREE.Mesh(
+            geometry,
+            new THREE.MeshBasicMaterial({
+                color: 0xffb347,
+                transparent: true,
+                opacity: 0.72,
+                side: THREE.DoubleSide,
+                depthWrite: false
+            })
+        );
+    }
+
+    function createEclipsePathLine(points, radius, color, opacity = 1) {
+        return new THREE.Line(
+            new THREE.BufferGeometry().setFromPoints(points.map((coordinates) =>
+                eclipseSurfacePoint(coordinates, radius)
+            )),
+            new THREE.LineBasicMaterial({
+                color,
+                transparent: opacity < 1,
+                opacity,
+                depthWrite: false
+            })
+        );
+    }
+
+    function rebuildSolarEclipseProjection(eclipse) {
+        if (!state.earthMesh || !eclipse) return;
+        if (state.eclipseProjectionGroup) {
+            state.earthMesh.remove(state.eclipseProjectionGroup);
+            state.eclipseProjectionGroup.traverse((child) => {
+                child.geometry?.dispose?.();
+                child.material?.dispose?.();
+            });
+        }
+
+        const radius = ARTEMIS.EARTH_RADIUS * 1.022;
+        const lineRadius = ARTEMIS.EARTH_RADIUS * 1.025;
+        const group = new THREE.Group();
+        group.name = `solar-eclipse-${eclipse.id}`;
+        group.renderOrder = SATELLITE_OVERLAY_RENDER_ORDER - 2;
+        group.add(createEclipseVisibilityCap(eclipse, radius));
+        group.add(createEclipsePathRibbon(eclipse, radius));
+        group.add(createEclipsePathLine(eclipse.path.map((sample) => sample.north), lineRadius, 0xffd17a, 0.96));
+        group.add(createEclipsePathLine(eclipse.path.map((sample) => sample.south), lineRadius, 0xffd17a, 0.96));
+        group.add(createEclipsePathLine(eclipse.path.map((sample) => sample.center), lineRadius, 0xff5b34, 1));
+
+        const greatestNormal = latLonToVector3(eclipse.greatest.lat, eclipse.greatest.lon, 1).normalize();
+        const greatestMarker = new THREE.Mesh(
+            new THREE.RingGeometry(0.12, 0.19, 48),
+            new THREE.MeshBasicMaterial({
+                color: 0xffffff,
+                transparent: true,
+                opacity: 0.96,
+                side: THREE.DoubleSide,
+                depthWrite: false
+            })
+        );
+        greatestMarker.position.copy(greatestNormal).multiplyScalar(lineRadius + 0.015);
+        greatestMarker.quaternion.setFromUnitVectors(new THREE.Vector3(0, 0, 1), greatestNormal);
+        group.add(greatestMarker);
+
+        group.visible = false;
+        state.earthMesh.add(group);
+        state.eclipseProjectionGroup = group;
+        state.eclipseProjectionId = eclipse.id;
     }
 
     function createSun() {
@@ -6720,7 +6877,8 @@ import { createSkyView } from './js/sky-view.js?v=live-sky-7';
         renderSatelliteSearchResults();
     }
 
-    function clearFocusModes() {
+    function clearFocusModes(options = {}) {
+        if (!options.preserveEclipse) setSolarEclipseViewActive(false);
         state.followMoon = false;
         state.followOrion = false;
         state.followObserver = false;
@@ -6729,7 +6887,7 @@ import { createSkyView } from './js/sky-view.js?v=live-sky-7';
         state.focusedBody = null;
         refreshSatelliteFocusVisuals();
         dom['observer-view-btn']?.classList.remove('active');
-        dom['moon-view-btn']?.classList.remove('active');
+        if (!options.preserveEclipse) dom['moon-view-btn']?.classList.remove('active');
         dom['follow-artemis']?.classList.remove('active');
         if (document.body.classList.contains('search-open')) {
             renderSatelliteSearchResults();
@@ -6745,7 +6903,7 @@ import { createSkyView } from './js/sky-view.js?v=live-sky-7';
         }
         markCameraActivity();
         state.userNavigatingCamera = true;
-        clearFocusModes();
+        clearFocusModes({ preserveEclipse: true });
     }
 
     function onControlEnd() {
@@ -6788,6 +6946,7 @@ import { createSkyView } from './js/sky-view.js?v=live-sky-7';
         if (!world) return;
         markCameraActivity();
         exitFreeCamera();
+        setSolarEclipseViewActive(false);
         state.focusLaunchId = launchId;
         state.focusedBody = null;
         state.followObserver = false;
@@ -6824,19 +6983,16 @@ import { createSkyView } from './js/sky-view.js?v=live-sky-7';
     }
 
     function focusFromPick(kind, planetIndex) {
+        if (kind === 'moon') {
+            openSolarEclipseView();
+            return;
+        }
         markCameraActivity();
         exitFreeCamera();
         clearFocusModes();
         if (kind === 'sun') {
             state.focusedBody = { kind: 'sun' };
             setFocusTarget(state.sunScenePos.clone());
-            syncCameraPanMode();
-            return;
-        }
-        if (kind === 'moon') {
-            state.followMoon = true;
-            setFocusTarget(state.moonMesh.position.clone());
-            dom['moon-view-btn']?.classList.add('active');
             syncCameraPanMode();
             return;
         }
@@ -6956,14 +7112,79 @@ import { createSkyView } from './js/sky-view.js?v=live-sky-7';
         syncCameraPanMode();
     }
 
-    function toggleMoonView() {
+    function setSolarEclipseViewActive(active) {
+        const next = Boolean(active && state.activeSolarEclipse);
+        state.solarEclipseViewActive = next;
+        document.body.classList.toggle('eclipse-view', next);
+        if (state.eclipseProjectionGroup) state.eclipseProjectionGroup.visible = next;
+        if (dom['eclipse-panel']) dom['eclipse-panel'].setAttribute('aria-hidden', String(!next));
+        dom['moon-view-btn']?.classList.toggle('active', next);
+    }
+
+    function formatEclipseDuration(seconds) {
+        const minutes = Math.floor(seconds / 60);
+        const remaining = seconds - minutes * 60;
+        return `${minutes} min ${formatNumber(remaining, { minimumFractionDigits: 1, maximumFractionDigits: 1 })} s`;
+    }
+
+    function renderSolarEclipsePanel() {
+        const eclipse = state.activeSolarEclipse || nextSolarEclipse(Date.now());
+        if (!eclipse) return;
+        const language = currentLanguage();
+        const days = eclipseCountdownDays(eclipse, Date.now());
+        if (dom['eclipse-kicker']) dom['eclipse-kicker'].textContent = t('eclipse.kicker');
+        if (dom['eclipse-title']) dom['eclipse-title'].textContent = t(`eclipse.type.${eclipse.type}`);
+        if (dom['eclipse-date']) dom['eclipse-date'].textContent = formatLocalDateTime(eclipse.greatestMs);
+        if (dom['eclipse-countdown']) {
+            dom['eclipse-countdown'].textContent = days === 0
+                ? t('eclipse.today')
+                : t(days === 1 ? 'eclipse.inOneDay' : 'eclipse.inDays', { count: days });
+        }
+        if (dom['eclipse-region']) dom['eclipse-region'].textContent = eclipse.regions[language] || eclipse.regions.en;
+        if (dom['eclipse-duration']) dom['eclipse-duration'].textContent = formatEclipseDuration(eclipse.maximumDurationSeconds);
+        if (dom['eclipse-partial-note']) dom['eclipse-partial-note'].textContent = t('eclipse.partialNote');
+        if (dom['eclipse-source']) {
+            dom['eclipse-source'].textContent = t('eclipse.source');
+            dom['eclipse-source'].href = eclipse.sourceUrl;
+            dom['eclipse-source'].title = eclipse.sourceLabel;
+        }
+    }
+
+    function frameSolarEclipse(eclipse) {
+        if (!state.earthMesh || !state.camera || !state.controls) return;
+        state.earthMesh.updateWorldMatrix(true, false);
+        const center = state.earthMesh.getWorldPosition(new THREE.Vector3());
+        const surface = state.earthMesh.localToWorld(
+            latLonToVector3(eclipse.greatest.lat, eclipse.greatest.lon, ARTEMIS.EARTH_RADIUS)
+        );
+        const outward = surface.sub(center).normalize();
+        const cameraDistance = ARTEMIS.EARTH_RADIUS * 3.15;
+        state.controls.target.copy(center);
+        state.camera.position.copy(center).addScaledVector(outward, cameraDistance);
+        state.camera.updateProjectionMatrix();
+        state.controls.update();
+    }
+
+    function openSolarEclipseView() {
+        const eclipse = nextSolarEclipse(Date.now());
+        if (!eclipse) return;
         markCameraActivity();
         exitFreeCamera();
         clearFocusModes();
-        state.followMoon = true;
-        setFocusTarget(state.moonMesh.position.clone());
-        dom['moon-view-btn']?.classList.add('active');
+        state.activeSolarEclipse = eclipse;
+        if (state.eclipseProjectionId !== eclipse.id) rebuildSolarEclipseProjection(eclipse);
+        state.simTime = eclipse.greatestMs;
+        warpToOne();
+        updateSolarSystem(sceneTimeMs());
+        updateEarthRotation(earthReferenceTimeMs());
+        setSolarEclipseViewActive(true);
+        renderSolarEclipsePanel();
+        frameSolarEclipse(eclipse);
         syncCameraPanMode();
+    }
+
+    function toggleMoonView() {
+        openSolarEclipseView();
     }
 
     function toggleFollowOrion() {
