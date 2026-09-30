@@ -1,7 +1,7 @@
 {
-  "lastFeedRefreshAt": "2026-09-30T01:32:20Z",
-  "lastCheckRunAt": "2026-09-30T01:32:20Z",
-  "lastSatelliteRefreshAt": "2026-09-30T01:32:20Z",
+  "lastFeedRefreshAt": "2026-09-30T07:24:32Z",
+  "lastCheckRunAt": "2026-09-30T07:24:32Z",
+  "lastSatelliteRefreshAt": "2026-09-30T07:24:32Z",
   "pendingChecks": [
     {
       "id": "548df42c-ae26-4cc9-921a-f0042941911a",
@@ -10,19 +10,7 @@
       "overdue": true
     },
     {
-      "id": "7766f3bb-674c-4c71-b986-963bd633fcfe",
-      "phase": "preflight",
-      "dueAt": "2026-09-29T23:45:00Z",
-      "overdue": true
-    },
-    {
       "id": "548df42c-ae26-4cc9-921a-f0042941911a",
-      "phase": "postflight",
-      "dueAt": "2026-09-30T00:30:00Z",
-      "overdue": true
-    },
-    {
-      "id": "7766f3bb-674c-4c71-b986-963bd633fcfe",
       "phase": "postflight",
       "dueAt": "2026-09-30T00:30:00Z",
       "overdue": true
@@ -97,6 +85,18 @@
       "id": "e0741415-6c63-4236-9736-24a6c04485bc",
       "phase": "postflight",
       "dueAt": "2026-10-07T03:53:00Z",
+      "overdue": false
+    },
+    {
+      "id": "a1bb0984-19d4-4b47-9bba-706d225573e2",
+      "phase": "preflight",
+      "dueAt": "2026-10-09T19:10:00Z",
+      "overdue": false
+    },
+    {
+      "id": "a1bb0984-19d4-4b47-9bba-706d225573e2",
+      "phase": "postflight",
+      "dueAt": "2026-10-09T19:55:00Z",
       "overdue": false
     },
     {
@@ -358,8 +358,10 @@
       "overdue": false
     }
   ],
-  "lastErrors": [],
-  "lastIssOemRefreshAt": "2026-09-30T01:32:20Z",
+  "lastErrors": [
+    "postflight check failed for 548df42c-ae26-4cc9-921a-f0042941911a: The read operation timed out"
+  ],
+  "lastIssOemRefreshAt": "2026-09-30T07:24:32Z",
   "lastSatelliteProfileRefreshAt": "2026-09-30T01:32:20Z",
   "lastEarthObservationRefreshAt": "2026-09-29T12:53:56Z"
 }
