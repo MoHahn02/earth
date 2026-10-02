@@ -1,13 +1,9 @@
 {
-  "generatedAt": "2026-10-02T17:50:01Z",
+  "generatedAt": "2026-10-02T21:29:28Z",
   "source": "celestrak-active-tle",
   "cadenceHours": 2,
   "windowDays": 90,
   "samples": [
-    {
-      "timestamp": "2026-07-04T18:43:58Z",
-      "liveCount": 15923
-    },
     {
       "timestamp": "2026-07-04T22:10:38Z",
       "liveCount": 15923
@@ -2618,6 +2614,10 @@
     },
     {
       "timestamp": "2026-10-02T17:50:01Z",
+      "liveCount": 15965
+    },
+    {
+      "timestamp": "2026-10-02T21:29:28Z",
       "liveCount": 15965
     }
   ]
