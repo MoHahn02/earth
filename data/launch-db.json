@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-01T20:34:49Z",
+  "generatedAt": "2026-10-02T00:11:14Z",
   "source": "launch-worker:observed-db",
   "launches": [
     {
@@ -276,7 +276,7 @@
       "statusDescription": "Current date is a placeholder or rough estimation based on unreliable or interpreted sources.",
       "sourceUrl": "https://ll.thespacedevs.com/2.2.0/program/11/",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/d74afbc7-0de5-491c-be05-4e9c31f736ac/",
-      "updatedAt": "2026-10-01T20:34:49Z",
+      "updatedAt": "2026-10-02T00:11:14Z",
       "firstSeenAt": "2026-09-21T04:26:55Z"
     },
     {
@@ -299,7 +299,7 @@
       "statusDescription": "Current date is a placeholder or rough estimation based on unreliable or interpreted sources.",
       "sourceUrl": "https://ll.thespacedevs.com/2.2.0/launch/71df1dd0-d658-4762-b0bc-0fca6886aea7/",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/71df1dd0-d658-4762-b0bc-0fca6886aea7/",
-      "updatedAt": "2026-10-01T20:34:49Z",
+      "updatedAt": "2026-10-02T00:11:14Z",
       "firstSeenAt": "2026-09-21T04:26:55Z"
     },
     {
@@ -322,7 +322,7 @@
       "statusDescription": "Current date is a placeholder or rough estimation based on unreliable or interpreted sources.",
       "sourceUrl": "https://ll.thespacedevs.com/2.2.0/launch/71ed4649-8d71-42e8-8548-d42ffa2c5a6e/",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/71ed4649-8d71-42e8-8548-d42ffa2c5a6e/",
-      "updatedAt": "2026-10-01T20:34:49Z",
+      "updatedAt": "2026-10-02T00:11:14Z",
       "firstSeenAt": "2026-09-25T12:19:56Z"
     },
     {
@@ -336,7 +336,7 @@
       "latitude": 28.58341025,
       "longitude": -80.58303644,
       "mission": "Starliner-1",
-      "missionDescription": "Starliner-1 is the first operational flight of a Starliner spacecraft to the International Space Station as part of NASA's Commercial Crew Program. Due to problems with the Starliner spacecraft's RCS attitude control system during the Crew Flight Test mission in 2024, this mission has been re-scoped to not carry a crew by NASA. It will instead deliver necessary cargo to the orbital laboratory and allow in-flight validation of the system upgrades implemented following the Crew Flight Test mission last year.",
+      "missionDescription": "Starliner-1 is the first operational flight of a Starliner spacecraft to the International Space Station as part of NASA's Commercial Crew Program. Due to problems with the Starliner spacecraft's RCS attitude control system during the Crew Flight Test mission in 2024, this mission has been re-scoped to not carry a crew by NASA. It will instead deliver necessary cargo to the orbital laboratory and allow in-flight validation of the system upgrades implemented following the Crew Flight Test mission.",
       "orbit": "Low Earth Orbit",
       "status": "delayed",
       "outcome": "delayed",
@@ -345,7 +345,7 @@
       "statusDescription": "Current date is a placeholder or rough estimation based on unreliable or interpreted sources.",
       "sourceUrl": "https://ll.thespacedevs.com/2.2.0/program/17/",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/07e945c1-2ec6-4d29-a500-1afbe920440f/",
-      "updatedAt": "2026-10-01T20:34:49Z",
+      "updatedAt": "2026-10-02T00:11:14Z",
       "firstSeenAt": "2026-09-28T20:36:42Z"
     },
     {
@@ -648,7 +648,7 @@
       "statusDescription": "Current date is a placeholder or rough estimation based on unreliable or interpreted sources.",
       "sourceUrl": "http://www.arianespace.com/press-release/arianespace-and-eumetsat-announce-signature-of-a-launch-contract-for-the-first-metop-sg-satellites/",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/22e117bf-041c-49d5-9d09-7b180036e143/",
-      "updatedAt": "2026-10-01T20:34:49Z",
+      "updatedAt": "2026-10-02T00:11:14Z",
       "firstSeenAt": "2026-09-19T08:50:56Z"
     },
     {
@@ -694,7 +694,7 @@
       "statusDescription": "Current date is a placeholder or rough estimation based on unreliable or interpreted sources.",
       "sourceUrl": "https://ll.thespacedevs.com/2.2.0/launch/7c891a0b-7194-4425-8cfd-2e8c75af2924/",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/7c891a0b-7194-4425-8cfd-2e8c75af2924/",
-      "updatedAt": "2026-10-01T20:34:49Z",
+      "updatedAt": "2026-10-02T00:11:14Z",
       "firstSeenAt": "2026-09-20T11:11:06Z"
     },
     {
@@ -717,7 +717,7 @@
       "statusDescription": "Current date is a placeholder or rough estimation based on unreliable or interpreted sources.",
       "sourceUrl": "https://ll.thespacedevs.com/2.2.0/program/21/",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/dfac5ab7-7017-454f-b6cf-eeed277a97b5/",
-      "updatedAt": "2026-10-01T20:34:49Z",
+      "updatedAt": "2026-10-02T00:11:14Z",
       "firstSeenAt": "2026-09-26T16:35:46Z"
     },
     {
@@ -740,7 +740,7 @@
       "statusDescription": "Current date is a placeholder or rough estimation based on unreliable or interpreted sources.",
       "sourceUrl": "https://ll.thespacedevs.com/2.2.0/launch/b5a9bccb-30d7-4af6-8ad1-fabb563be53c/",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/b5a9bccb-30d7-4af6-8ad1-fabb563be53c/",
-      "updatedAt": "2026-10-01T20:34:49Z",
+      "updatedAt": "2026-10-02T00:11:14Z",
       "firstSeenAt": "2026-09-26T16:35:46Z"
     },
     {
@@ -763,7 +763,7 @@
       "statusDescription": "Awaiting official confirmation - current date is known with some certainty.",
       "sourceUrl": "https://ll.thespacedevs.com/2.2.0/program/17/",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/8dd5de11-831b-445f-86f0-bffefe0550d9/",
-      "updatedAt": "2026-10-01T20:34:49Z",
+      "updatedAt": "2026-10-02T00:11:14Z",
       "firstSeenAt": "2026-09-18T04:30:58Z"
     },
     {
@@ -809,7 +809,7 @@
       "statusDescription": "Current date is a placeholder or rough estimation based on unreliable or interpreted sources.",
       "sourceUrl": "https://ll.thespacedevs.com/2.2.0/launch/3b430f81-0ff1-4d85-8a1a-cef0de326198/",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/3b430f81-0ff1-4d85-8a1a-cef0de326198/",
-      "updatedAt": "2026-10-01T20:34:49Z",
+      "updatedAt": "2026-10-02T00:11:14Z",
       "firstSeenAt": "2026-09-03T13:55:07Z"
     },
     {
@@ -832,7 +832,7 @@
       "statusDescription": "Current date is a placeholder or rough estimation based on unreliable or interpreted sources.",
       "sourceUrl": "https://ll.thespacedevs.com/2.2.0/program/27/",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/ef9850ad-1096-425b-9d27-f7bbd186e61a/",
-      "updatedAt": "2026-10-01T20:34:49Z",
+      "updatedAt": "2026-10-02T00:11:14Z",
       "firstSeenAt": "2026-08-06T03:44:41Z",
       "previousNets": [
         "2026-09-30T00:00:00Z"
@@ -862,7 +862,7 @@
       "statusDescription": "Current date is a placeholder or rough estimation based on unreliable or interpreted sources.",
       "sourceUrl": "https://ll.thespacedevs.com/2.2.0/launch/dc570565-4dcf-4ab9-8174-bf88efef477f/",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/dc570565-4dcf-4ab9-8174-bf88efef477f/",
-      "updatedAt": "2026-10-01T20:34:49Z",
+      "updatedAt": "2026-10-02T00:11:14Z",
       "firstSeenAt": "2026-08-05T01:09:34Z",
       "previousNets": [
         "2026-08-31T00:00:00Z",
@@ -893,7 +893,7 @@
       "statusDescription": "Current date is a placeholder or rough estimation based on unreliable or interpreted sources.",
       "sourceUrl": "https://ll.thespacedevs.com/2.2.0/program/27/",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/7bdc412b-c965-4517-a131-f57a01189803/",
-      "updatedAt": "2026-10-01T20:34:49Z",
+      "updatedAt": "2026-10-02T00:11:14Z",
       "firstSeenAt": "2026-08-27T22:50:55Z",
       "previousNets": [
         "2026-10-07T00:00:00Z"
@@ -923,8 +923,40 @@
       "statusDescription": "Current date is a placeholder or rough estimation based on unreliable or interpreted sources.",
       "sourceUrl": "https://ll.thespacedevs.com/2.2.0/launch/e59ff9a4-f72f-4841-8546-3c94346ecdba/",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/e59ff9a4-f72f-4841-8546-3c94346ecdba/",
-      "updatedAt": "2026-10-01T20:34:49Z",
+      "updatedAt": "2026-10-02T00:11:14Z",
       "firstSeenAt": "2026-09-26T16:35:46Z"
+    },
+    {
+      "id": "20d5676e-111b-40e3-8923-b218c3665ca2",
+      "name": "GSLV Mk II | IRNSS-1L (NVS-03)",
+      "net": "2026-10-31T00:00:00Z",
+      "provider": "Indian Space Research Organization",
+      "rocket": "GSLV Mk. II",
+      "pad": "Satish Dhawan Space Centre Second Launch Pad",
+      "padLocation": "Satish Dhawan Space Centre, India",
+      "latitude": 13.7199,
+      "longitude": 80.2304,
+      "mission": "IRNSS-1L (NVS-03)",
+      "missionDescription": "This is a replacement satellite for the Indian Regional Navigation Satellite System. The constellation will provide India with an alternative to GPS and will be used for military and civilian use. Located at a geosynchronous orbit, the system will be operated by the Indian government.",
+      "orbit": "Geostationary Transfer Orbit",
+      "status": "delayed",
+      "outcome": "delayed",
+      "statusName": "To Be Determined",
+      "statusAbbrev": "TBD",
+      "statusDescription": "Current date is a placeholder or rough estimation based on unreliable or interpreted sources.",
+      "sourceUrl": "https://ll.thespacedevs.com/2.2.0/launch/20d5676e-111b-40e3-8923-b218c3665ca2/",
+      "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/20d5676e-111b-40e3-8923-b218c3665ca2/",
+      "updatedAt": "2026-10-02T00:11:14Z",
+      "firstSeenAt": "2026-08-17T04:23:28Z",
+      "previousNets": [
+        "2026-09-30T00:00:00Z",
+        "2026-10-15T00:00:00Z",
+        "2026-10-13T17:00:00Z"
+      ],
+      "preflightCheckedAt": null,
+      "postflightCheckedAt": null,
+      "preflightStatus": "",
+      "postflightStatus": ""
     },
     {
       "id": "69ebbcd2-b257-4070-9ef9-21e7d1f8a883",
@@ -945,44 +977,13 @@
       "statusDescription": "Current T-0 confirmed by official or reliable sources.",
       "sourceUrl": "https://ll.thespacedevs.com/2.2.0/launch/69ebbcd2-b257-4070-9ef9-21e7d1f8a883/",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/69ebbcd2-b257-4070-9ef9-21e7d1f8a883/",
-      "updatedAt": "2026-10-01T20:34:49Z",
+      "updatedAt": "2026-10-02T00:11:14Z",
       "firstSeenAt": "2026-08-29T02:08:06Z"
-    },
-    {
-      "id": "20d5676e-111b-40e3-8923-b218c3665ca2",
-      "name": "GSLV Mk II | IRNSS-1L (NVS-03)",
-      "net": "2026-10-13T17:00:00Z",
-      "provider": "Indian Space Research Organization",
-      "rocket": "GSLV Mk. II",
-      "pad": "Satish Dhawan Space Centre Second Launch Pad",
-      "padLocation": "Satish Dhawan Space Centre, India",
-      "latitude": 13.7199,
-      "longitude": 80.2304,
-      "mission": "IRNSS-1L (NVS-03)",
-      "missionDescription": "This is a replacement satellite for the Indian Regional Navigation Satellite System. The constellation will provide India with an alternative to GPS and will be used for military and civilian use. Located at a geosynchronous orbit, the system will be operated by the Indian government.",
-      "orbit": "Geostationary Transfer Orbit",
-      "status": "delayed",
-      "outcome": "delayed",
-      "statusName": "To Be Confirmed",
-      "statusAbbrev": "TBC",
-      "statusDescription": "Awaiting official confirmation - current date is known with some certainty.",
-      "sourceUrl": "https://ll.thespacedevs.com/2.2.0/launch/20d5676e-111b-40e3-8923-b218c3665ca2/",
-      "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/20d5676e-111b-40e3-8923-b218c3665ca2/",
-      "updatedAt": "2026-10-01T20:34:49Z",
-      "firstSeenAt": "2026-08-17T04:23:28Z",
-      "previousNets": [
-        "2026-09-30T00:00:00Z",
-        "2026-10-15T00:00:00Z"
-      ],
-      "preflightCheckedAt": null,
-      "postflightCheckedAt": null,
-      "preflightStatus": "",
-      "postflightStatus": ""
     },
     {
       "id": "bf2c3027-a314-403e-a416-2bfd5d165ad1",
       "name": "Falcon 9 Block 5 | Dragon CRS-2 SpX-35",
-      "net": "2026-10-13T00:00:00Z",
+      "net": "2026-10-13T10:33:00Z",
       "provider": "SpaceX",
       "rocket": "Falcon 9 Block 5",
       "pad": "Space Launch Complex 40",
@@ -994,16 +995,17 @@
       "orbit": "Low Earth Orbit",
       "status": "delayed",
       "outcome": "delayed",
-      "statusName": "To Be Determined",
-      "statusAbbrev": "TBD",
-      "statusDescription": "Current date is a placeholder or rough estimation based on unreliable or interpreted sources.",
+      "statusName": "To Be Confirmed",
+      "statusAbbrev": "TBC",
+      "statusDescription": "Awaiting official confirmation - current date is known with some certainty.",
       "sourceUrl": "https://ll.thespacedevs.com/2.2.0/program/11/",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/bf2c3027-a314-403e-a416-2bfd5d165ad1/",
-      "updatedAt": "2026-10-01T20:34:49Z",
+      "updatedAt": "2026-10-02T00:11:14Z",
       "firstSeenAt": "2026-07-08T09:02:45Z",
       "previousNets": [
         "2026-08-31T00:00:00Z",
-        "2026-10-31T00:00:00Z"
+        "2026-10-31T00:00:00Z",
+        "2026-10-13T00:00:00Z"
       ],
       "preflightCheckedAt": null,
       "postflightCheckedAt": null,
@@ -1030,7 +1032,7 @@
       "livestreamUrl": "https://x.com/i/broadcasts/1yKAPwdemygxb",
       "sourceUrl": "https://www.spacex.com/launches/sl-15-25",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/97c6f5e1-299e-4652-b72d-9618ac047076/",
-      "updatedAt": "2026-10-01T20:34:49Z",
+      "updatedAt": "2026-10-02T00:11:14Z",
       "firstSeenAt": "2026-09-19T22:58:01Z",
       "previousNets": [
         "2026-09-30T14:00:00Z",
@@ -1061,7 +1063,7 @@
       "statusDescription": "Current T-0 confirmed by official or reliable sources.",
       "sourceUrl": "https://ll.thespacedevs.com/2.2.0/launch/a1bb0984-19d4-4b47-9bba-706d225573e2/",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/a1bb0984-19d4-4b47-9bba-706d225573e2/",
-      "updatedAt": "2026-10-01T20:34:49Z",
+      "updatedAt": "2026-10-02T00:11:14Z",
       "firstSeenAt": "2026-09-30T07:24:32Z"
     },
     {
@@ -1083,7 +1085,7 @@
       "statusDescription": "Current T-0 confirmed by official or reliable sources.",
       "sourceUrl": "https://ll.thespacedevs.com/2.2.0/launch/e0741415-6c63-4236-9736-24a6c04485bc/",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/e0741415-6c63-4236-9736-24a6c04485bc/",
-      "updatedAt": "2026-10-01T20:34:49Z",
+      "updatedAt": "2026-10-02T00:11:14Z",
       "firstSeenAt": "2026-08-28T19:03:01Z"
     },
     {
@@ -1106,7 +1108,7 @@
       "statusDescription": "Current T-0 confirmed by official or reliable sources.",
       "sourceUrl": "https://www.spacex.com/launches/sda-t1tl-a",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/da43dc2c-00af-4cc1-8ef1-90a60b2eb9e5/",
-      "updatedAt": "2026-10-01T20:34:49Z",
+      "updatedAt": "2026-10-02T00:11:14Z",
       "firstSeenAt": "2026-05-23T23:39:26Z",
       "previousNets": [
         "2026-06-30T00:00:00Z",
@@ -1164,7 +1166,7 @@
       "statusDescription": "Current T-0 confirmed by official or reliable sources.",
       "sourceUrl": "https://www.spacex.com/launches/nrol97",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/4651fd8a-43de-4166-bf8f-c168b3bd1d2c/",
-      "updatedAt": "2026-10-01T20:34:49Z",
+      "updatedAt": "2026-10-02T00:11:14Z",
       "firstSeenAt": "2026-09-18T04:30:58Z",
       "livestreamUrl": "https://www.youtube.com/watch?v=0ugtQtSNh4w",
       "previousNets": [
@@ -1194,8 +1196,8 @@
       "statusAbbrev": "Success",
       "statusDescription": "The launch vehicle successfully inserted its payload(s) into the target orbit(s).",
       "sourceUrl": "https://www.spacex.com/launches/transporter18",
-      "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/67213393-7983-4c06-8b44-b8c785a5ed79/?format=json",
-      "updatedAt": "2026-10-01T20:34:49Z",
+      "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/67213393-7983-4c06-8b44-b8c785a5ed79/",
+      "updatedAt": "2026-10-02T00:11:14Z",
       "firstSeenAt": "2026-09-06T21:41:54Z",
       "previousNets": [
         "2026-10-31T00:00:00Z",
@@ -1206,7 +1208,7 @@
       "postflightCheckedAt": "2026-10-01T20:34:49Z",
       "preflightStatus": "missed",
       "postflightStatus": "success",
-      "livestreamUrl": "https://www.youtube.com/watch?v=9tmgAlQ33AM"
+      "livestreamUrl": "https://www.youtube.com/watch?v=pjEhZcddNgc"
     },
     {
       "id": "18441371-8b2e-457c-afb5-1ec1b11ab630",
@@ -1228,7 +1230,7 @@
       "statusDescription": "The launch vehicle successfully inserted its payload(s) into the target orbit(s).",
       "sourceUrl": "https://www.spacex.com/launches/crew13",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/18441371-8b2e-457c-afb5-1ec1b11ab630/",
-      "updatedAt": "2026-10-01T20:34:49Z",
+      "updatedAt": "2026-10-02T00:11:14Z",
       "firstSeenAt": "2026-07-26T16:12:25Z",
       "previousNets": [
         "2026-09-30T00:00:00Z",
