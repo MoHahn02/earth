@@ -1,26 +1,26 @@
 {
-  "generatedAt": "2026-10-14T12:28:27Z",
+  "generatedAt": "2026-10-14T17:31:41Z",
   "source": "launch-worker:launch/upcoming",
-  "nextRefreshAfter": "2026-10-14T13:28:27Z",
+  "nextRefreshAfter": "2026-10-14T18:31:41Z",
   "launches": [
     {
       "id": "dfcabb3c-078b-4f5b-a47c-0161f248cee9",
-      "name": "Zhuque-2E | Unknown Payload",
+      "name": "Zhuque-2E Block 2 | 10 satellites",
       "net": "2026-10-14T11:40:00Z",
       "provider": "LandSpace",
-      "rocket": "Zhuque-2E",
+      "rocket": "Zhuque-2E Block 2",
       "pad": "Launch Area 96A",
       "padLocation": "Jiuquan Satellite Launch Center, People's Republic of China",
       "latitude": 40.91491,
       "longitude": 100.245488,
-      "mission": "Unknown Payload",
-      "missionDescription": "Details TBD.",
-      "orbit": "Unknown",
-      "status": "go",
-      "outcome": "",
-      "statusName": "Go for Launch",
-      "statusAbbrev": "Go",
-      "statusDescription": "Current T-0 confirmed by official or reliable sources.",
+      "mission": "10 satellites",
+      "missionDescription": "Ride-share of 10 satellites to sun-synchronous orbit, including LandSpace's own Guangchuan-03 & 04 for testing and demonstrating LEO communication satellite constellation technologies. Details TBD.",
+      "orbit": "Sun-Synchronous Orbit",
+      "status": "success",
+      "outcome": "success",
+      "statusName": "Launch Successful",
+      "statusAbbrev": "Success",
+      "statusDescription": "The launch vehicle successfully inserted its payload(s) into the target orbit(s).",
       "preflightStatus": "",
       "postflightStatus": "",
       "preflightCheckedAt": null,
@@ -28,7 +28,7 @@
       "livestreamUrl": "",
       "sourceUrl": "https://ll.thespacedevs.com/2.2.0/launch/dfcabb3c-078b-4f5b-a47c-0161f248cee9/",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/dfcabb3c-078b-4f5b-a47c-0161f248cee9/",
-      "updatedAt": "2026-10-14T12:28:27Z"
+      "updatedAt": "2026-10-14T17:31:41Z"
     },
     {
       "id": "df88cfbf-f504-4e11-8370-e33dd6280b5b",
@@ -55,7 +55,7 @@
       "livestreamUrl": "https://x.com/i/broadcasts/1aJbdEzYpPaKX",
       "sourceUrl": "https://www.spacex.com/launches/ussf481",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/df88cfbf-f504-4e11-8370-e33dd6280b5b/",
-      "updatedAt": "2026-10-14T12:28:27Z"
+      "updatedAt": "2026-10-14T17:31:41Z"
     },
     {
       "id": "3b430f81-0ff1-4d85-8a1a-cef0de326198",
@@ -82,7 +82,7 @@
       "livestreamUrl": "https://x.com/i/broadcasts/1nxeLMddZlEJX",
       "sourceUrl": "https://www.spacex.com/launches/bandwagon5",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/3b430f81-0ff1-4d85-8a1a-cef0de326198/",
-      "updatedAt": "2026-10-14T12:28:27Z"
+      "updatedAt": "2026-10-14T17:31:41Z"
     },
     {
       "id": "69ebbcd2-b257-4070-9ef9-21e7d1f8a883",
@@ -109,7 +109,7 @@
       "livestreamUrl": "",
       "sourceUrl": "https://ll.thespacedevs.com/2.2.0/launch/69ebbcd2-b257-4070-9ef9-21e7d1f8a883/",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/69ebbcd2-b257-4070-9ef9-21e7d1f8a883/",
-      "updatedAt": "2026-10-14T12:28:27Z"
+      "updatedAt": "2026-10-14T17:31:41Z"
     },
     {
       "id": "f6af629d-39b5-4f86-bc0c-f8776444a858",
@@ -136,7 +136,7 @@
       "livestreamUrl": "https://x.com/i/broadcasts/1YGNrbnzdqLGw",
       "sourceUrl": "https://www.spacex.com/launches/sl-15-15",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/f6af629d-39b5-4f86-bc0c-f8776444a858/",
-      "updatedAt": "2026-10-14T12:28:27Z"
+      "updatedAt": "2026-10-14T17:31:41Z"
     },
     {
       "id": "7766f3bb-674c-4c71-b986-963bd633fcfe",
@@ -163,7 +163,7 @@
       "livestreamUrl": "",
       "sourceUrl": "https://rocketlabcorp.com/missions/launches/hawkeye-360/",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/7766f3bb-674c-4c71-b986-963bd633fcfe/",
-      "updatedAt": "2026-10-14T12:28:27Z"
+      "updatedAt": "2026-10-14T17:31:41Z"
     },
     {
       "id": "e2886a96-5ce9-4f45-872f-4e25a00be837",
@@ -190,7 +190,7 @@
       "livestreamUrl": "https://x.com/i/broadcasts/1mGPaZgYgLDJN",
       "sourceUrl": "https://www.spacex.com/launches/sl-15-16",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/e2886a96-5ce9-4f45-872f-4e25a00be837/",
-      "updatedAt": "2026-10-14T12:28:27Z"
+      "updatedAt": "2026-10-14T17:31:41Z"
     },
     {
       "id": "ef9850ad-1096-425b-9d27-f7bbd186e61a",
@@ -217,7 +217,7 @@
       "livestreamUrl": "",
       "sourceUrl": "https://ll.thespacedevs.com/2.2.0/program/27/",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/ef9850ad-1096-425b-9d27-f7bbd186e61a/",
-      "updatedAt": "2026-10-14T12:28:27Z"
+      "updatedAt": "2026-10-14T17:31:41Z"
     },
     {
       "id": "20d5676e-111b-40e3-8923-b218c3665ca2",
@@ -244,7 +244,7 @@
       "livestreamUrl": "",
       "sourceUrl": "https://ll.thespacedevs.com/2.2.0/launch/20d5676e-111b-40e3-8923-b218c3665ca2/",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/20d5676e-111b-40e3-8923-b218c3665ca2/",
-      "updatedAt": "2026-10-14T12:28:27Z"
+      "updatedAt": "2026-10-14T17:31:41Z"
     },
     {
       "id": "dc570565-4dcf-4ab9-8174-bf88efef477f",
@@ -271,7 +271,7 @@
       "livestreamUrl": "",
       "sourceUrl": "https://ll.thespacedevs.com/2.2.0/launch/dc570565-4dcf-4ab9-8174-bf88efef477f/",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/dc570565-4dcf-4ab9-8174-bf88efef477f/",
-      "updatedAt": "2026-10-14T12:28:27Z"
+      "updatedAt": "2026-10-14T17:31:41Z"
     },
     {
       "id": "e59ff9a4-f72f-4841-8546-3c94346ecdba",
@@ -298,7 +298,7 @@
       "livestreamUrl": "",
       "sourceUrl": "https://ll.thespacedevs.com/2.2.0/launch/e59ff9a4-f72f-4841-8546-3c94346ecdba/",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/e59ff9a4-f72f-4841-8546-3c94346ecdba/",
-      "updatedAt": "2026-10-14T12:28:27Z"
+      "updatedAt": "2026-10-14T17:31:41Z"
     },
     {
       "id": "426bd2a5-02dd-4fbd-9f4d-2b8439c3a1ff",
@@ -325,7 +325,7 @@
       "livestreamUrl": "",
       "sourceUrl": "https://rocketlabcorp.com/missions/launches/iqps-the-sea-god-surveys/",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/426bd2a5-02dd-4fbd-9f4d-2b8439c3a1ff/",
-      "updatedAt": "2026-10-14T12:28:27Z"
+      "updatedAt": "2026-10-14T17:31:41Z"
     },
     {
       "id": "db3500ac-965b-4ad8-b417-cb8d8d005586",
@@ -352,7 +352,34 @@
       "livestreamUrl": "",
       "sourceUrl": "https://rocketlabcorp.com/missions/launches/iqps-the-mountain-god-rises/",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/db3500ac-965b-4ad8-b417-cb8d8d005586/",
-      "updatedAt": "2026-10-14T12:28:27Z"
+      "updatedAt": "2026-10-14T17:31:41Z"
+    },
+    {
+      "id": "7bdc412b-c965-4517-a131-f57a01189803",
+      "name": "Ariane 64 Block 2 | Amazon Leo (LE-04)",
+      "net": "2026-11-23T00:00:00Z",
+      "provider": "Arianespace",
+      "rocket": "Ariane 64 Block 2",
+      "pad": "Ariane Launch Area 4",
+      "padLocation": "Guiana Space Centre, French Guiana",
+      "latitude": 5.256319,
+      "longitude": -52.786838,
+      "mission": "Amazon Leo (LE-04)",
+      "missionDescription": "Amazon Leo, formerly known as Project Kuiper, is a mega constellation of satellites in Low Earth Orbit that will offer broadband internet access, this constellation will be managed by Kuiper Systems LLC, a subsidiary of Amazon. This constellation is planned to be composed of 3,276 satellites. The satellites are projected to be placed in 98 orbital planes in three orbital layers, one at 590 km, 610 km and 630 km altitude.\r\n\r\n35-40 satellites will be carried on each Ariane 6 launch.",
+      "orbit": "Low Earth Orbit",
+      "status": "delayed",
+      "outcome": "delayed",
+      "statusName": "To Be Determined",
+      "statusAbbrev": "TBD",
+      "statusDescription": "Current date is a placeholder or rough estimation based on unreliable or interpreted sources.",
+      "preflightStatus": "",
+      "postflightStatus": "",
+      "preflightCheckedAt": null,
+      "postflightCheckedAt": null,
+      "livestreamUrl": "",
+      "sourceUrl": "https://ll.thespacedevs.com/2.2.0/program/27/",
+      "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/7bdc412b-c965-4517-a131-f57a01189803/",
+      "updatedAt": "2026-10-14T17:31:41Z"
     },
     {
       "id": "8dd5de11-831b-445f-86f0-bffefe0550d9",
@@ -379,34 +406,7 @@
       "livestreamUrl": "",
       "sourceUrl": "https://ll.thespacedevs.com/2.2.0/program/17/",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/8dd5de11-831b-445f-86f0-bffefe0550d9/",
-      "updatedAt": "2026-10-14T12:28:27Z"
-    },
-    {
-      "id": "7bdc412b-c965-4517-a131-f57a01189803",
-      "name": "Ariane 64 Block 2 | Amazon Leo (LE-04)",
-      "net": "2026-11-30T00:00:00Z",
-      "provider": "Arianespace",
-      "rocket": "Ariane 64 Block 2",
-      "pad": "Ariane Launch Area 4",
-      "padLocation": "Guiana Space Centre, French Guiana",
-      "latitude": 5.256319,
-      "longitude": -52.786838,
-      "mission": "Amazon Leo (LE-04)",
-      "missionDescription": "Amazon Leo, formerly known as Project Kuiper, is a mega constellation of satellites in Low Earth Orbit that will offer broadband internet access, this constellation will be managed by Kuiper Systems LLC, a subsidiary of Amazon. This constellation is planned to be composed of 3,276 satellites. The satellites are projected to be placed in 98 orbital planes in three orbital layers, one at 590 km, 610 km and 630 km altitude.\r\n\r\n35-40 satellites will be carried on each Ariane 6 launch.",
-      "orbit": "Low Earth Orbit",
-      "status": "delayed",
-      "outcome": "delayed",
-      "statusName": "To Be Determined",
-      "statusAbbrev": "TBD",
-      "statusDescription": "Current date is a placeholder or rough estimation based on unreliable or interpreted sources.",
-      "preflightStatus": "",
-      "postflightStatus": "",
-      "preflightCheckedAt": null,
-      "postflightCheckedAt": null,
-      "livestreamUrl": "",
-      "sourceUrl": "https://ll.thespacedevs.com/2.2.0/program/27/",
-      "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/7bdc412b-c965-4517-a131-f57a01189803/",
-      "updatedAt": "2026-10-14T12:28:27Z"
+      "updatedAt": "2026-10-14T17:31:41Z"
     },
     {
       "id": "d74afbc7-0de5-491c-be05-4e9c31f736ac",
@@ -433,7 +433,7 @@
       "livestreamUrl": "",
       "sourceUrl": "https://ll.thespacedevs.com/2.2.0/program/11/",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/d74afbc7-0de5-491c-be05-4e9c31f736ac/",
-      "updatedAt": "2026-10-14T12:28:27Z"
+      "updatedAt": "2026-10-14T17:31:41Z"
     },
     {
       "id": "dfac5ab7-7017-454f-b6cf-eeed277a97b5",
@@ -460,7 +460,7 @@
       "livestreamUrl": "",
       "sourceUrl": "https://ll.thespacedevs.com/2.2.0/program/21/",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/dfac5ab7-7017-454f-b6cf-eeed277a97b5/",
-      "updatedAt": "2026-10-14T12:28:27Z"
+      "updatedAt": "2026-10-14T17:31:41Z"
     },
     {
       "id": "b5a9bccb-30d7-4af6-8ad1-fabb563be53c",
@@ -487,7 +487,7 @@
       "livestreamUrl": "",
       "sourceUrl": "https://ll.thespacedevs.com/2.2.0/launch/b5a9bccb-30d7-4af6-8ad1-fabb563be53c/",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/b5a9bccb-30d7-4af6-8ad1-fabb563be53c/",
-      "updatedAt": "2026-10-14T12:28:27Z"
+      "updatedAt": "2026-10-14T17:31:41Z"
     },
     {
       "id": "22e117bf-041c-49d5-9d09-7b180036e143",
@@ -514,7 +514,7 @@
       "livestreamUrl": "",
       "sourceUrl": "http://www.arianespace.com/press-release/arianespace-and-eumetsat-announce-signature-of-a-launch-contract-for-the-first-metop-sg-satellites/",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/22e117bf-041c-49d5-9d09-7b180036e143/",
-      "updatedAt": "2026-10-14T12:28:27Z"
+      "updatedAt": "2026-10-14T17:31:41Z"
     },
     {
       "id": "71df1dd0-d658-4762-b0bc-0fca6886aea7",
@@ -541,7 +541,7 @@
       "livestreamUrl": "",
       "sourceUrl": "https://ll.thespacedevs.com/2.2.0/launch/71df1dd0-d658-4762-b0bc-0fca6886aea7/",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/71df1dd0-d658-4762-b0bc-0fca6886aea7/",
-      "updatedAt": "2026-10-14T12:28:27Z"
+      "updatedAt": "2026-10-14T17:31:41Z"
     },
     {
       "id": "71ed4649-8d71-42e8-8548-d42ffa2c5a6e",
@@ -568,7 +568,7 @@
       "livestreamUrl": "",
       "sourceUrl": "https://ll.thespacedevs.com/2.2.0/launch/71ed4649-8d71-42e8-8548-d42ffa2c5a6e/",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/71ed4649-8d71-42e8-8548-d42ffa2c5a6e/",
-      "updatedAt": "2026-10-14T12:28:27Z"
+      "updatedAt": "2026-10-14T17:31:41Z"
     },
     {
       "id": "ce1317de-ec94-4479-9b28-38ebf11f13ae",
@@ -595,7 +595,7 @@
       "livestreamUrl": "",
       "sourceUrl": "https://ll.thespacedevs.com/2.2.0/launch/ce1317de-ec94-4479-9b28-38ebf11f13ae/",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/ce1317de-ec94-4479-9b28-38ebf11f13ae/",
-      "updatedAt": "2026-10-14T12:28:27Z"
+      "updatedAt": "2026-10-14T17:31:41Z"
     },
     {
       "id": "d3bd7fb2-fac6-49fc-ae52-cee07d2fde67",
@@ -622,7 +622,7 @@
       "livestreamUrl": "",
       "sourceUrl": "https://ll.thespacedevs.com/2.2.0/launch/d3bd7fb2-fac6-49fc-ae52-cee07d2fde67/",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/d3bd7fb2-fac6-49fc-ae52-cee07d2fde67/",
-      "updatedAt": "2026-10-14T12:28:27Z"
+      "updatedAt": "2026-10-14T17:31:41Z"
     },
     {
       "id": "0cf92611-82a8-4095-a0b4-dda2e74b1fff",
@@ -649,7 +649,7 @@
       "livestreamUrl": "",
       "sourceUrl": "https://ll.thespacedevs.com/2.2.0/launch/0cf92611-82a8-4095-a0b4-dda2e74b1fff/",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/0cf92611-82a8-4095-a0b4-dda2e74b1fff/",
-      "updatedAt": "2026-10-14T12:28:27Z"
+      "updatedAt": "2026-10-14T17:31:41Z"
     }
   ]
 }
