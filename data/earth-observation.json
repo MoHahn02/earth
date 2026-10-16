@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-15T01:54:17Z",
+  "generatedAt": "2026-10-16T06:17:25Z",
   "source": "nasa-gibs-wms",
   "cadenceHours": 24,
   "width": 2048,
@@ -7,89 +7,86 @@
   "candidates": [
     {
       "imageUrl": "assets/earth-observation/gibs-01.jpg",
-      "layer": "MODIS_Terra_CorrectedReflectance_TrueColor",
-      "date": "2026-10-15",
-      "sourceUrl": "https://gibs.earthdata.nasa.gov/wms/epsg4326/best/wms.cgi?SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&LAYERS=MODIS_Terra_CorrectedReflectance_TrueColor&STYLES=&SRS=EPSG%3A4326&BBOX=-180%2C-90%2C180%2C90&WIDTH=2048&HEIGHT=1024&FORMAT=image%2Fjpeg&TRANSPARENT=FALSE&BGCOLOR=0x000000&TIME=2026-10-15",
-      "bytes": 97512,
+      "layer": "VIIRS_SNPP_CorrectedReflectance_TrueColor",
+      "date": "2026-10-16",
+      "sourceUrl": "https://gibs.earthdata.nasa.gov/wms/epsg4326/best/wms.cgi?SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&LAYERS=VIIRS_SNPP_CorrectedReflectance_TrueColor&STYLES=&SRS=EPSG%3A4326&BBOX=-180%2C-90%2C180%2C90&WIDTH=2048&HEIGHT=1024&FORMAT=image%2Fjpeg&TRANSPARENT=FALSE&BGCOLOR=0x000000&TIME=2026-10-16",
+      "bytes": 44000,
       "contentType": "image/jpeg"
     },
     {
       "imageUrl": "assets/earth-observation/gibs-02.jpg",
-      "layer": "VIIRS_SNPP_CorrectedReflectance_TrueColor",
-      "date": "2026-10-14",
-      "sourceUrl": "https://gibs.earthdata.nasa.gov/wms/epsg4326/best/wms.cgi?SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&LAYERS=VIIRS_SNPP_CorrectedReflectance_TrueColor&STYLES=&SRS=EPSG%3A4326&BBOX=-180%2C-90%2C180%2C90&WIDTH=2048&HEIGHT=1024&FORMAT=image%2Fjpeg&TRANSPARENT=FALSE&BGCOLOR=0x000000&TIME=2026-10-14",
-      "bytes": 519936,
+      "layer": "VIIRS_NOAA20_CorrectedReflectance_TrueColor",
+      "date": "2026-10-16",
+      "sourceUrl": "https://gibs.earthdata.nasa.gov/wms/epsg4326/best/wms.cgi?SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&LAYERS=VIIRS_NOAA20_CorrectedReflectance_TrueColor&STYLES=&SRS=EPSG%3A4326&BBOX=-180%2C-90%2C180%2C90&WIDTH=2048&HEIGHT=1024&FORMAT=image%2Fjpeg&TRANSPARENT=FALSE&BGCOLOR=0x000000&TIME=2026-10-16",
+      "bytes": 71178,
       "contentType": "image/jpeg"
     },
     {
       "imageUrl": "assets/earth-observation/gibs-03.jpg",
-      "layer": "VIIRS_NOAA20_CorrectedReflectance_TrueColor",
-      "date": "2026-10-14",
-      "sourceUrl": "https://gibs.earthdata.nasa.gov/wms/epsg4326/best/wms.cgi?SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&LAYERS=VIIRS_NOAA20_CorrectedReflectance_TrueColor&STYLES=&SRS=EPSG%3A4326&BBOX=-180%2C-90%2C180%2C90&WIDTH=2048&HEIGHT=1024&FORMAT=image%2Fjpeg&TRANSPARENT=FALSE&BGCOLOR=0x000000&TIME=2026-10-14",
-      "bytes": 515891,
+      "layer": "MODIS_Aqua_CorrectedReflectance_TrueColor",
+      "date": "2026-10-16",
+      "sourceUrl": "https://gibs.earthdata.nasa.gov/wms/epsg4326/best/wms.cgi?SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&LAYERS=MODIS_Aqua_CorrectedReflectance_TrueColor&STYLES=&SRS=EPSG%3A4326&BBOX=-180%2C-90%2C180%2C90&WIDTH=2048&HEIGHT=1024&FORMAT=image%2Fjpeg&TRANSPARENT=FALSE&BGCOLOR=0x000000&TIME=2026-10-16",
+      "bytes": 43476,
       "contentType": "image/jpeg"
     },
     {
       "imageUrl": "assets/earth-observation/gibs-04.jpg",
-      "layer": "VIIRS_NOAA21_CorrectedReflectance_TrueColor",
-      "date": "2026-10-14",
-      "sourceUrl": "https://gibs.earthdata.nasa.gov/wms/epsg4326/best/wms.cgi?SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&LAYERS=VIIRS_NOAA21_CorrectedReflectance_TrueColor&STYLES=&SRS=EPSG%3A4326&BBOX=-180%2C-90%2C180%2C90&WIDTH=2048&HEIGHT=1024&FORMAT=image%2Fjpeg&TRANSPARENT=FALSE&BGCOLOR=0x000000&TIME=2026-10-14",
-      "bytes": 539014,
+      "layer": "MODIS_Terra_CorrectedReflectance_TrueColor",
+      "date": "2026-10-16",
+      "sourceUrl": "https://gibs.earthdata.nasa.gov/wms/epsg4326/best/wms.cgi?SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&LAYERS=MODIS_Terra_CorrectedReflectance_TrueColor&STYLES=&SRS=EPSG%3A4326&BBOX=-180%2C-90%2C180%2C90&WIDTH=2048&HEIGHT=1024&FORMAT=image%2Fjpeg&TRANSPARENT=FALSE&BGCOLOR=0x000000&TIME=2026-10-16",
+      "bytes": 223305,
       "contentType": "image/jpeg"
     },
     {
       "imageUrl": "assets/earth-observation/gibs-05.jpg",
-      "layer": "MODIS_Aqua_CorrectedReflectance_TrueColor",
-      "date": "2026-10-14",
-      "sourceUrl": "https://gibs.earthdata.nasa.gov/wms/epsg4326/best/wms.cgi?SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&LAYERS=MODIS_Aqua_CorrectedReflectance_TrueColor&STYLES=&SRS=EPSG%3A4326&BBOX=-180%2C-90%2C180%2C90&WIDTH=2048&HEIGHT=1024&FORMAT=image%2Fjpeg&TRANSPARENT=FALSE&BGCOLOR=0x000000&TIME=2026-10-14",
-      "bytes": 509387,
+      "layer": "VIIRS_SNPP_CorrectedReflectance_TrueColor",
+      "date": "2026-10-15",
+      "sourceUrl": "https://gibs.earthdata.nasa.gov/wms/epsg4326/best/wms.cgi?SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&LAYERS=VIIRS_SNPP_CorrectedReflectance_TrueColor&STYLES=&SRS=EPSG%3A4326&BBOX=-180%2C-90%2C180%2C90&WIDTH=2048&HEIGHT=1024&FORMAT=image%2Fjpeg&TRANSPARENT=FALSE&BGCOLOR=0x000000&TIME=2026-10-15",
+      "bytes": 573955,
       "contentType": "image/jpeg"
     },
     {
       "imageUrl": "assets/earth-observation/gibs-06.jpg",
-      "layer": "MODIS_Terra_CorrectedReflectance_TrueColor",
-      "date": "2026-10-14",
-      "sourceUrl": "https://gibs.earthdata.nasa.gov/wms/epsg4326/best/wms.cgi?SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&LAYERS=MODIS_Terra_CorrectedReflectance_TrueColor&STYLES=&SRS=EPSG%3A4326&BBOX=-180%2C-90%2C180%2C90&WIDTH=2048&HEIGHT=1024&FORMAT=image%2Fjpeg&TRANSPARENT=FALSE&BGCOLOR=0x000000&TIME=2026-10-14",
-      "bytes": 582352,
+      "layer": "VIIRS_NOAA20_CorrectedReflectance_TrueColor",
+      "date": "2026-10-15",
+      "sourceUrl": "https://gibs.earthdata.nasa.gov/wms/epsg4326/best/wms.cgi?SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&LAYERS=VIIRS_NOAA20_CorrectedReflectance_TrueColor&STYLES=&SRS=EPSG%3A4326&BBOX=-180%2C-90%2C180%2C90&WIDTH=2048&HEIGHT=1024&FORMAT=image%2Fjpeg&TRANSPARENT=FALSE&BGCOLOR=0x000000&TIME=2026-10-15",
+      "bytes": 585387,
       "contentType": "image/jpeg"
     },
     {
       "imageUrl": "assets/earth-observation/gibs-07.jpg",
-      "layer": "VIIRS_SNPP_CorrectedReflectance_TrueColor",
-      "date": "2026-10-13",
-      "sourceUrl": "https://gibs.earthdata.nasa.gov/wms/epsg4326/best/wms.cgi?SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&LAYERS=VIIRS_SNPP_CorrectedReflectance_TrueColor&STYLES=&SRS=EPSG%3A4326&BBOX=-180%2C-90%2C180%2C90&WIDTH=2048&HEIGHT=1024&FORMAT=image%2Fjpeg&TRANSPARENT=FALSE&BGCOLOR=0x000000&TIME=2026-10-13",
-      "bytes": 355851,
+      "layer": "VIIRS_NOAA21_CorrectedReflectance_TrueColor",
+      "date": "2026-10-15",
+      "sourceUrl": "https://gibs.earthdata.nasa.gov/wms/epsg4326/best/wms.cgi?SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&LAYERS=VIIRS_NOAA21_CorrectedReflectance_TrueColor&STYLES=&SRS=EPSG%3A4326&BBOX=-180%2C-90%2C180%2C90&WIDTH=2048&HEIGHT=1024&FORMAT=image%2Fjpeg&TRANSPARENT=FALSE&BGCOLOR=0x000000&TIME=2026-10-15",
+      "bytes": 564642,
       "contentType": "image/jpeg"
     },
     {
       "imageUrl": "assets/earth-observation/gibs-08.jpg",
-      "layer": "VIIRS_NOAA20_CorrectedReflectance_TrueColor",
-      "date": "2026-10-13",
-      "sourceUrl": "https://gibs.earthdata.nasa.gov/wms/epsg4326/best/wms.cgi?SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&LAYERS=VIIRS_NOAA20_CorrectedReflectance_TrueColor&STYLES=&SRS=EPSG%3A4326&BBOX=-180%2C-90%2C180%2C90&WIDTH=2048&HEIGHT=1024&FORMAT=image%2Fjpeg&TRANSPARENT=FALSE&BGCOLOR=0x000000&TIME=2026-10-13",
-      "bytes": 580960,
+      "layer": "MODIS_Aqua_CorrectedReflectance_TrueColor",
+      "date": "2026-10-15",
+      "sourceUrl": "https://gibs.earthdata.nasa.gov/wms/epsg4326/best/wms.cgi?SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&LAYERS=MODIS_Aqua_CorrectedReflectance_TrueColor&STYLES=&SRS=EPSG%3A4326&BBOX=-180%2C-90%2C180%2C90&WIDTH=2048&HEIGHT=1024&FORMAT=image%2Fjpeg&TRANSPARENT=FALSE&BGCOLOR=0x000000&TIME=2026-10-15",
+      "bytes": 589029,
       "contentType": "image/jpeg"
     },
     {
       "imageUrl": "assets/earth-observation/gibs-09.jpg",
-      "layer": "VIIRS_NOAA21_CorrectedReflectance_TrueColor",
-      "date": "2026-10-13",
-      "sourceUrl": "https://gibs.earthdata.nasa.gov/wms/epsg4326/best/wms.cgi?SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&LAYERS=VIIRS_NOAA21_CorrectedReflectance_TrueColor&STYLES=&SRS=EPSG%3A4326&BBOX=-180%2C-90%2C180%2C90&WIDTH=2048&HEIGHT=1024&FORMAT=image%2Fjpeg&TRANSPARENT=FALSE&BGCOLOR=0x000000&TIME=2026-10-13",
-      "bytes": 367930,
+      "layer": "MODIS_Terra_CorrectedReflectance_TrueColor",
+      "date": "2026-10-15",
+      "sourceUrl": "https://gibs.earthdata.nasa.gov/wms/epsg4326/best/wms.cgi?SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&LAYERS=MODIS_Terra_CorrectedReflectance_TrueColor&STYLES=&SRS=EPSG%3A4326&BBOX=-180%2C-90%2C180%2C90&WIDTH=2048&HEIGHT=1024&FORMAT=image%2Fjpeg&TRANSPARENT=FALSE&BGCOLOR=0x000000&TIME=2026-10-15",
+      "bytes": 581811,
       "contentType": "image/jpeg"
     },
     {
       "imageUrl": "assets/earth-observation/gibs-10.jpg",
-      "layer": "MODIS_Aqua_CorrectedReflectance_TrueColor",
-      "date": "2026-10-13",
-      "sourceUrl": "https://gibs.earthdata.nasa.gov/wms/epsg4326/best/wms.cgi?SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&LAYERS=MODIS_Aqua_CorrectedReflectance_TrueColor&STYLES=&SRS=EPSG%3A4326&BBOX=-180%2C-90%2C180%2C90&WIDTH=2048&HEIGHT=1024&FORMAT=image%2Fjpeg&TRANSPARENT=FALSE&BGCOLOR=0x000000&TIME=2026-10-13",
-      "bytes": 579651,
+      "layer": "VIIRS_SNPP_CorrectedReflectance_TrueColor",
+      "date": "2026-10-14",
+      "sourceUrl": "https://gibs.earthdata.nasa.gov/wms/epsg4326/best/wms.cgi?SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&LAYERS=VIIRS_SNPP_CorrectedReflectance_TrueColor&STYLES=&SRS=EPSG%3A4326&BBOX=-180%2C-90%2C180%2C90&WIDTH=2048&HEIGHT=1024&FORMAT=image%2Fjpeg&TRANSPARENT=FALSE&BGCOLOR=0x000000&TIME=2026-10-14",
+      "bytes": 578354,
       "contentType": "image/jpeg"
     }
   ],
   "errors": [
-    "VIIRS_SNPP_CorrectedReflectance_TrueColor 2026-10-15: unexpected payload (image/jpeg, 12572 bytes)",
-    "VIIRS_NOAA20_CorrectedReflectance_TrueColor 2026-10-15: unexpected payload (image/jpeg, 12572 bytes)",
-    "VIIRS_NOAA21_CorrectedReflectance_TrueColor 2026-10-15: unexpected payload (image/jpeg, 13629 bytes)",
-    "MODIS_Aqua_CorrectedReflectance_TrueColor 2026-10-15: unexpected payload (image/jpeg, 13116 bytes)"
+    "VIIRS_NOAA21_CorrectedReflectance_TrueColor 2026-10-16: unexpected payload (image/jpeg, 17846 bytes)"
   ]
 }
