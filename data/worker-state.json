@@ -1,7 +1,7 @@
 {
-  "lastFeedRefreshAt": "2026-10-20T02:10:10Z",
-  "lastCheckRunAt": "2026-10-20T02:10:10Z",
-  "lastSatelliteRefreshAt": "2026-10-20T02:10:10Z",
+  "lastFeedRefreshAt": "2026-10-20T07:43:08Z",
+  "lastCheckRunAt": "2026-10-20T07:43:08Z",
+  "lastSatelliteRefreshAt": "2026-10-20T07:43:08Z",
   "pendingChecks": [
     {
       "id": "3b430f81-0ff1-4d85-8a1a-cef0de326198",
@@ -18,13 +18,13 @@
     {
       "id": "f6af629d-39b5-4f86-bc0c-f8776444a858",
       "phase": "preflight",
-      "dueAt": "2026-10-20T22:54:23Z",
+      "dueAt": "2026-10-20T22:55:02Z",
       "overdue": false
     },
     {
       "id": "f6af629d-39b5-4f86-bc0c-f8776444a858",
       "phase": "postflight",
-      "dueAt": "2026-10-20T23:39:23Z",
+      "dueAt": "2026-10-20T23:40:02Z",
       "overdue": false
     },
     {
@@ -160,18 +160,6 @@
       "overdue": false
     },
     {
-      "id": "3cdb9dee-b5cb-406c-bbd1-06a219930fb7",
-      "phase": "preflight",
-      "dueAt": "2026-11-01T04:56:00Z",
-      "overdue": false
-    },
-    {
-      "id": "3cdb9dee-b5cb-406c-bbd1-06a219930fb7",
-      "phase": "postflight",
-      "dueAt": "2026-11-01T05:41:00Z",
-      "overdue": false
-    },
-    {
       "id": "426bd2a5-02dd-4fbd-9f4d-2b8439c3a1ff",
       "phase": "preflight",
       "dueAt": "2026-11-03T23:45:00Z",
@@ -184,9 +172,21 @@
       "overdue": false
     },
     {
+      "id": "3cdb9dee-b5cb-406c-bbd1-06a219930fb7",
+      "phase": "preflight",
+      "dueAt": "2026-11-09T23:45:00Z",
+      "overdue": false
+    },
+    {
       "id": "db3500ac-965b-4ad8-b417-cb8d8d005586",
       "phase": "preflight",
       "dueAt": "2026-11-09T23:45:00Z",
+      "overdue": false
+    },
+    {
+      "id": "3cdb9dee-b5cb-406c-bbd1-06a219930fb7",
+      "phase": "postflight",
+      "dueAt": "2026-11-10T00:30:00Z",
       "overdue": false
     },
     {
@@ -437,7 +437,7 @@
     }
   ],
   "lastErrors": [],
-  "lastIssOemRefreshAt": "2026-10-20T02:10:10Z",
+  "lastIssOemRefreshAt": "2026-10-20T07:43:08Z",
   "lastSatelliteProfileRefreshAt": "2026-10-20T02:10:10Z",
   "lastEarthObservationRefreshAt": "2026-10-19T14:30:49Z"
 }
