@@ -1,14 +1,8 @@
 {
-  "lastFeedRefreshAt": "2026-10-22T19:29:45Z",
-  "lastCheckRunAt": "2026-10-22T19:29:45Z",
+  "lastFeedRefreshAt": "2026-10-22T22:40:54Z",
+  "lastCheckRunAt": "2026-10-22T22:40:54Z",
   "lastSatelliteRefreshAt": "2026-10-22T15:37:43Z",
   "pendingChecks": [
-    {
-      "id": "f6af629d-39b5-4f86-bc0c-f8776444a858",
-      "phase": "preflight",
-      "dueAt": "2026-10-22T22:36:18Z",
-      "overdue": false
-    },
     {
       "id": "f6af629d-39b5-4f86-bc0c-f8776444a858",
       "phase": "postflight",
@@ -433,7 +427,7 @@
   "lastErrors": [
     "satellite refresh failed: HTTP Error 403: Forbidden"
   ],
-  "lastIssOemRefreshAt": "2026-10-22T19:29:45Z",
+  "lastIssOemRefreshAt": "2026-10-22T22:40:54Z",
   "lastSatelliteProfileRefreshAt": "2026-10-22T05:27:23Z",
   "lastEarthObservationRefreshAt": "2026-10-22T19:29:45Z"
 }
