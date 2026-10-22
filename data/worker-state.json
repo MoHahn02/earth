@@ -1,6 +1,6 @@
 {
-  "lastFeedRefreshAt": "2026-10-22T15:37:43Z",
-  "lastCheckRunAt": "2026-10-22T15:37:43Z",
+  "lastFeedRefreshAt": "2026-10-22T19:29:45Z",
+  "lastCheckRunAt": "2026-10-22T19:29:45Z",
   "lastSatelliteRefreshAt": "2026-10-22T15:37:43Z",
   "pendingChecks": [
     {
@@ -102,7 +102,13 @@
     {
       "id": "20d5676e-111b-40e3-8923-b218c3665ca2",
       "phase": "preflight",
-      "dueAt": "2026-10-30T23:45:00Z",
+      "dueAt": "2026-10-29T23:45:00Z",
+      "overdue": false
+    },
+    {
+      "id": "20d5676e-111b-40e3-8923-b218c3665ca2",
+      "phase": "postflight",
+      "dueAt": "2026-10-30T00:30:00Z",
       "overdue": false
     },
     {
@@ -115,12 +121,6 @@
       "id": "e59ff9a4-f72f-4841-8546-3c94346ecdba",
       "phase": "preflight",
       "dueAt": "2026-10-30T23:45:00Z",
-      "overdue": false
-    },
-    {
-      "id": "20d5676e-111b-40e3-8923-b218c3665ca2",
-      "phase": "postflight",
-      "dueAt": "2026-10-31T00:30:00Z",
       "overdue": false
     },
     {
@@ -148,6 +148,18 @@
       "overdue": false
     },
     {
+      "id": "3cdb9dee-b5cb-406c-bbd1-06a219930fb7",
+      "phase": "preflight",
+      "dueAt": "2026-11-05T04:59:00Z",
+      "overdue": false
+    },
+    {
+      "id": "3cdb9dee-b5cb-406c-bbd1-06a219930fb7",
+      "phase": "postflight",
+      "dueAt": "2026-11-05T05:44:00Z",
+      "overdue": false
+    },
+    {
       "id": "56ca6058-7ccc-4ec0-b1b0-fb49f3bfee49",
       "phase": "preflight",
       "dueAt": "2026-11-05T22:19:00Z",
@@ -160,21 +172,9 @@
       "overdue": false
     },
     {
-      "id": "3cdb9dee-b5cb-406c-bbd1-06a219930fb7",
-      "phase": "preflight",
-      "dueAt": "2026-11-09T23:45:00Z",
-      "overdue": false
-    },
-    {
       "id": "db3500ac-965b-4ad8-b417-cb8d8d005586",
       "phase": "preflight",
       "dueAt": "2026-11-09T23:45:00Z",
-      "overdue": false
-    },
-    {
-      "id": "3cdb9dee-b5cb-406c-bbd1-06a219930fb7",
-      "phase": "postflight",
-      "dueAt": "2026-11-10T00:30:00Z",
       "overdue": false
     },
     {
@@ -430,8 +430,10 @@
       "overdue": false
     }
   ],
-  "lastErrors": [],
-  "lastIssOemRefreshAt": "2026-10-22T15:37:43Z",
+  "lastErrors": [
+    "satellite refresh failed: HTTP Error 403: Forbidden"
+  ],
+  "lastIssOemRefreshAt": "2026-10-22T19:29:45Z",
   "lastSatelliteProfileRefreshAt": "2026-10-22T05:27:23Z",
-  "lastEarthObservationRefreshAt": "2026-10-21T18:56:23Z"
+  "lastEarthObservationRefreshAt": "2026-10-22T19:29:45Z"
 }
