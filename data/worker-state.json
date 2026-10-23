@@ -1,32 +1,8 @@
 {
-  "lastFeedRefreshAt": "2026-10-23T01:00:51Z",
-  "lastCheckRunAt": "2026-10-23T06:00:05Z",
-  "lastSatelliteRefreshAt": "2026-10-22T15:37:43Z",
+  "lastFeedRefreshAt": "2026-10-23T11:28:30Z",
+  "lastCheckRunAt": "2026-10-23T11:28:30Z",
+  "lastSatelliteRefreshAt": "2026-10-23T11:28:30Z",
   "pendingChecks": [
-    {
-      "id": "7766f3bb-674c-4c71-b986-963bd633fcfe",
-      "phase": "preflight",
-      "dueAt": "2026-10-23T06:45:00Z",
-      "overdue": false
-    },
-    {
-      "id": "7766f3bb-674c-4c71-b986-963bd633fcfe",
-      "phase": "postflight",
-      "dueAt": "2026-10-23T07:30:00Z",
-      "overdue": false
-    },
-    {
-      "id": "9648124f-8568-46d2-86d7-4b4d6f12187f",
-      "phase": "preflight",
-      "dueAt": "2026-10-23T10:00:00Z",
-      "overdue": false
-    },
-    {
-      "id": "9648124f-8568-46d2-86d7-4b4d6f12187f",
-      "phase": "postflight",
-      "dueAt": "2026-10-23T10:45:00Z",
-      "overdue": false
-    },
     {
       "id": "3621085f-deae-4f89-bd54-c0f96ee44421",
       "phase": "preflight",
@@ -102,13 +78,13 @@
     {
       "id": "20d5676e-111b-40e3-8923-b218c3665ca2",
       "phase": "preflight",
-      "dueAt": "2026-10-29T23:45:00Z",
+      "dueAt": "2026-10-30T16:45:00Z",
       "overdue": false
     },
     {
       "id": "20d5676e-111b-40e3-8923-b218c3665ca2",
       "phase": "postflight",
-      "dueAt": "2026-10-30T00:30:00Z",
+      "dueAt": "2026-10-30T17:30:00Z",
       "overdue": false
     },
     {
@@ -138,13 +114,13 @@
     {
       "id": "426bd2a5-02dd-4fbd-9f4d-2b8439c3a1ff",
       "phase": "preflight",
-      "dueAt": "2026-11-03T23:45:00Z",
+      "dueAt": "2026-11-02T23:45:00Z",
       "overdue": false
     },
     {
       "id": "426bd2a5-02dd-4fbd-9f4d-2b8439c3a1ff",
       "phase": "postflight",
-      "dueAt": "2026-11-04T00:30:00Z",
+      "dueAt": "2026-11-03T00:30:00Z",
       "overdue": false
     },
     {
@@ -430,12 +406,8 @@
       "overdue": false
     }
   ],
-  "lastErrors": [
-    "feed refresh failed: The read operation timed out",
-    "satellite refresh failed: <urlopen error timed out>",
-    "satellite profile refresh failed: <urlopen error timed out>"
-  ],
-  "lastIssOemRefreshAt": "2026-10-23T06:00:05Z",
-  "lastSatelliteProfileRefreshAt": "2026-10-22T05:27:23Z",
+  "lastErrors": [],
+  "lastIssOemRefreshAt": "2026-10-23T11:28:30Z",
+  "lastSatelliteProfileRefreshAt": "2026-10-23T11:28:30Z",
   "lastEarthObservationRefreshAt": "2026-10-22T19:29:45Z"
 }
