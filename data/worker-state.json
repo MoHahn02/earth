@@ -1,14 +1,8 @@
 {
-  "lastFeedRefreshAt": "2026-10-27T12:02:55Z",
-  "lastCheckRunAt": "2026-10-27T12:02:55Z",
-  "lastSatelliteRefreshAt": "2026-10-27T06:01:52Z",
+  "lastFeedRefreshAt": "2026-10-27T17:56:25Z",
+  "lastCheckRunAt": "2026-10-27T17:56:25Z",
+  "lastSatelliteRefreshAt": "2026-10-27T17:56:25Z",
   "pendingChecks": [
-    {
-      "id": "e2886a96-5ce9-4f45-872f-4e25a00be837",
-      "phase": "postflight",
-      "dueAt": "2026-10-27T07:55:51Z",
-      "overdue": true
-    },
     {
       "id": "57ce0a39-d035-4f16-a418-bd6108f78199",
       "phase": "preflight",
@@ -412,11 +406,8 @@
       "overdue": false
     }
   ],
-  "lastErrors": [
-    "postflight check failed for e2886a96-5ce9-4f45-872f-4e25a00be837: HTTP Error 502: Bad Gateway",
-    "satellite refresh failed: HTTP Error 503: Service Unavailable"
-  ],
-  "lastIssOemRefreshAt": "2026-10-27T12:02:55Z",
+  "lastErrors": [],
+  "lastIssOemRefreshAt": "2026-10-27T17:56:25Z",
   "lastSatelliteProfileRefreshAt": "2026-10-26T21:46:45Z",
   "lastEarthObservationRefreshAt": "2026-10-27T00:54:03Z"
 }

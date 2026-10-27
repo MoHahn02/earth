@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-27T12:02:55Z",
+  "generatedAt": "2026-10-27T17:56:25Z",
   "source": "launch-worker:launch/upcoming",
-  "nextRefreshAfter": "2026-10-27T13:02:55Z",
+  "nextRefreshAfter": "2026-10-27T18:56:25Z",
   "launches": [
     {
       "id": "e2886a96-5ce9-4f45-872f-4e25a00be837",
@@ -28,7 +28,7 @@
       "livestreamUrl": "https://www.youtube.com/watch?v=hj1OtIh4gCw",
       "sourceUrl": "https://www.spacex.com/launches/sl-15-16",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/e2886a96-5ce9-4f45-872f-4e25a00be837/",
-      "updatedAt": "2026-10-27T12:02:55Z"
+      "updatedAt": "2026-10-27T17:56:25Z"
     },
     {
       "id": "57ce0a39-d035-4f16-a418-bd6108f78199",
@@ -55,7 +55,7 @@
       "livestreamUrl": "https://x.com/i/broadcasts/1DGleVlqoaqJL",
       "sourceUrl": "https://www.spacex.com/launches/sl-15-18",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/57ce0a39-d035-4f16-a418-bd6108f78199/",
-      "updatedAt": "2026-10-27T12:02:55Z"
+      "updatedAt": "2026-10-27T17:56:25Z"
     },
     {
       "id": "20d5676e-111b-40e3-8923-b218c3665ca2",
@@ -82,7 +82,7 @@
       "livestreamUrl": "",
       "sourceUrl": "https://ll.thespacedevs.com/2.2.0/launch/20d5676e-111b-40e3-8923-b218c3665ca2/",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/20d5676e-111b-40e3-8923-b218c3665ca2/",
-      "updatedAt": "2026-10-27T12:02:55Z"
+      "updatedAt": "2026-10-27T17:56:25Z"
     },
     {
       "id": "54d471e8-695c-4fa7-a3cf-dbd8b389e8ae",
@@ -109,7 +109,7 @@
       "livestreamUrl": "https://x.com/i/broadcasts/1kKzDPYrZNdJv",
       "sourceUrl": "https://www.spacex.com/launches/ussf432",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/54d471e8-695c-4fa7-a3cf-dbd8b389e8ae/",
-      "updatedAt": "2026-10-27T12:02:55Z"
+      "updatedAt": "2026-10-27T17:56:25Z"
     },
     {
       "id": "426bd2a5-02dd-4fbd-9f4d-2b8439c3a1ff",
@@ -136,7 +136,7 @@
       "livestreamUrl": "",
       "sourceUrl": "https://rocketlabcorp.com/missions/launches/iqps-the-sea-god-surveys/",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/426bd2a5-02dd-4fbd-9f4d-2b8439c3a1ff/",
-      "updatedAt": "2026-10-27T12:02:55Z"
+      "updatedAt": "2026-10-27T17:56:25Z"
     },
     {
       "id": "3cdb9dee-b5cb-406c-bbd1-06a219930fb7",
@@ -163,7 +163,7 @@
       "livestreamUrl": "https://x.com/i/broadcasts/1aJbdEgvmWaKX",
       "sourceUrl": "https://www.spacex.com/launches/sl-15-21",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/3cdb9dee-b5cb-406c-bbd1-06a219930fb7/",
-      "updatedAt": "2026-10-27T12:02:55Z"
+      "updatedAt": "2026-10-27T17:56:25Z"
     },
     {
       "id": "a2423132-f965-423f-8b03-6891b775dc54",
@@ -190,7 +190,7 @@
       "livestreamUrl": "",
       "sourceUrl": "https://ll.thespacedevs.com/2.2.0/launch/a2423132-f965-423f-8b03-6891b775dc54/",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/a2423132-f965-423f-8b03-6891b775dc54/",
-      "updatedAt": "2026-10-27T12:02:55Z"
+      "updatedAt": "2026-10-27T17:56:25Z"
     },
     {
       "id": "db3500ac-965b-4ad8-b417-cb8d8d005586",
@@ -217,7 +217,7 @@
       "livestreamUrl": "",
       "sourceUrl": "https://rocketlabcorp.com/missions/launches/iqps-the-mountain-god-rises/",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/db3500ac-965b-4ad8-b417-cb8d8d005586/",
-      "updatedAt": "2026-10-27T12:02:55Z"
+      "updatedAt": "2026-10-27T17:56:25Z"
     },
     {
       "id": "7bdc412b-c965-4517-a131-f57a01189803",
@@ -244,7 +244,7 @@
       "livestreamUrl": "",
       "sourceUrl": "https://ll.thespacedevs.com/2.2.0/program/27/",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/7bdc412b-c965-4517-a131-f57a01189803/",
-      "updatedAt": "2026-10-27T12:02:55Z"
+      "updatedAt": "2026-10-27T17:56:25Z"
     },
     {
       "id": "8dd5de11-831b-445f-86f0-bffefe0550d9",
@@ -271,7 +271,7 @@
       "livestreamUrl": "",
       "sourceUrl": "https://ll.thespacedevs.com/2.2.0/program/17/",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/8dd5de11-831b-445f-86f0-bffefe0550d9/",
-      "updatedAt": "2026-10-27T12:02:55Z"
+      "updatedAt": "2026-10-27T17:56:25Z"
     },
     {
       "id": "c9605b67-8a53-4239-a8ae-577fe3b79799",
@@ -298,7 +298,7 @@
       "livestreamUrl": "",
       "sourceUrl": "https://ll.thespacedevs.com/2.2.0/program/7/",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/c9605b67-8a53-4239-a8ae-577fe3b79799/",
-      "updatedAt": "2026-10-27T12:02:55Z"
+      "updatedAt": "2026-10-27T17:56:25Z"
     },
     {
       "id": "d74afbc7-0de5-491c-be05-4e9c31f736ac",
@@ -325,7 +325,7 @@
       "livestreamUrl": "",
       "sourceUrl": "https://ll.thespacedevs.com/2.2.0/program/11/",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/d74afbc7-0de5-491c-be05-4e9c31f736ac/",
-      "updatedAt": "2026-10-27T12:02:55Z"
+      "updatedAt": "2026-10-27T17:56:25Z"
     },
     {
       "id": "56ca6058-7ccc-4ec0-b1b0-fb49f3bfee49",
@@ -352,7 +352,7 @@
       "livestreamUrl": "",
       "sourceUrl": "https://ll.thespacedevs.com/2.2.0/launch/56ca6058-7ccc-4ec0-b1b0-fb49f3bfee49/",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/56ca6058-7ccc-4ec0-b1b0-fb49f3bfee49/",
-      "updatedAt": "2026-10-27T12:02:55Z"
+      "updatedAt": "2026-10-27T17:56:25Z"
     },
     {
       "id": "dfac5ab7-7017-454f-b6cf-eeed277a97b5",
@@ -379,7 +379,7 @@
       "livestreamUrl": "",
       "sourceUrl": "https://ll.thespacedevs.com/2.2.0/program/21/",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/dfac5ab7-7017-454f-b6cf-eeed277a97b5/",
-      "updatedAt": "2026-10-27T12:02:55Z"
+      "updatedAt": "2026-10-27T17:56:25Z"
     },
     {
       "id": "9e27a1ed-e81a-4918-b32b-0380cf3a9f8f",
@@ -406,7 +406,7 @@
       "livestreamUrl": "",
       "sourceUrl": "https://ll.thespacedevs.com/2.2.0/launch/9e27a1ed-e81a-4918-b32b-0380cf3a9f8f/",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/9e27a1ed-e81a-4918-b32b-0380cf3a9f8f/",
-      "updatedAt": "2026-10-27T12:02:55Z"
+      "updatedAt": "2026-10-27T17:56:25Z"
     },
     {
       "id": "b5a9bccb-30d7-4af6-8ad1-fabb563be53c",
@@ -433,7 +433,7 @@
       "livestreamUrl": "",
       "sourceUrl": "https://ll.thespacedevs.com/2.2.0/launch/b5a9bccb-30d7-4af6-8ad1-fabb563be53c/",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/b5a9bccb-30d7-4af6-8ad1-fabb563be53c/",
-      "updatedAt": "2026-10-27T12:02:55Z"
+      "updatedAt": "2026-10-27T17:56:25Z"
     },
     {
       "id": "ef9850ad-1096-425b-9d27-f7bbd186e61a",
@@ -460,7 +460,7 @@
       "livestreamUrl": "",
       "sourceUrl": "https://ll.thespacedevs.com/2.2.0/program/27/",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/ef9850ad-1096-425b-9d27-f7bbd186e61a/",
-      "updatedAt": "2026-10-27T12:02:55Z"
+      "updatedAt": "2026-10-27T17:56:25Z"
     },
     {
       "id": "22e117bf-041c-49d5-9d09-7b180036e143",
@@ -487,7 +487,7 @@
       "livestreamUrl": "",
       "sourceUrl": "http://www.arianespace.com/press-release/arianespace-and-eumetsat-announce-signature-of-a-launch-contract-for-the-first-metop-sg-satellites/",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/22e117bf-041c-49d5-9d09-7b180036e143/",
-      "updatedAt": "2026-10-27T12:02:55Z"
+      "updatedAt": "2026-10-27T17:56:25Z"
     },
     {
       "id": "71df1dd0-d658-4762-b0bc-0fca6886aea7",
@@ -514,7 +514,7 @@
       "livestreamUrl": "",
       "sourceUrl": "https://ll.thespacedevs.com/2.2.0/launch/71df1dd0-d658-4762-b0bc-0fca6886aea7/",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/71df1dd0-d658-4762-b0bc-0fca6886aea7/",
-      "updatedAt": "2026-10-27T12:02:55Z"
+      "updatedAt": "2026-10-27T17:56:25Z"
     },
     {
       "id": "71ed4649-8d71-42e8-8548-d42ffa2c5a6e",
@@ -541,7 +541,7 @@
       "livestreamUrl": "",
       "sourceUrl": "https://ll.thespacedevs.com/2.2.0/launch/71ed4649-8d71-42e8-8548-d42ffa2c5a6e/",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/71ed4649-8d71-42e8-8548-d42ffa2c5a6e/",
-      "updatedAt": "2026-10-27T12:02:55Z"
+      "updatedAt": "2026-10-27T17:56:25Z"
     },
     {
       "id": "ce1317de-ec94-4479-9b28-38ebf11f13ae",
@@ -568,7 +568,7 @@
       "livestreamUrl": "",
       "sourceUrl": "https://ll.thespacedevs.com/2.2.0/launch/ce1317de-ec94-4479-9b28-38ebf11f13ae/",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/ce1317de-ec94-4479-9b28-38ebf11f13ae/",
-      "updatedAt": "2026-10-27T12:02:55Z"
+      "updatedAt": "2026-10-27T17:56:25Z"
     },
     {
       "id": "d3bd7fb2-fac6-49fc-ae52-cee07d2fde67",
@@ -595,7 +595,7 @@
       "livestreamUrl": "",
       "sourceUrl": "https://ll.thespacedevs.com/2.2.0/launch/d3bd7fb2-fac6-49fc-ae52-cee07d2fde67/",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/d3bd7fb2-fac6-49fc-ae52-cee07d2fde67/",
-      "updatedAt": "2026-10-27T12:02:55Z"
+      "updatedAt": "2026-10-27T17:56:25Z"
     },
     {
       "id": "0cf92611-82a8-4095-a0b4-dda2e74b1fff",
@@ -622,7 +622,7 @@
       "livestreamUrl": "",
       "sourceUrl": "https://ll.thespacedevs.com/2.2.0/launch/0cf92611-82a8-4095-a0b4-dda2e74b1fff/",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/0cf92611-82a8-4095-a0b4-dda2e74b1fff/",
-      "updatedAt": "2026-10-27T12:02:55Z"
+      "updatedAt": "2026-10-27T17:56:25Z"
     },
     {
       "id": "a5e81552-ecdd-4d89-b6bd-b594e22ca891",
@@ -649,7 +649,7 @@
       "livestreamUrl": "",
       "sourceUrl": "https://ll.thespacedevs.com/2.2.0/launch/a5e81552-ecdd-4d89-b6bd-b594e22ca891/",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/a5e81552-ecdd-4d89-b6bd-b594e22ca891/",
-      "updatedAt": "2026-10-27T12:02:55Z"
+      "updatedAt": "2026-10-27T17:56:25Z"
     }
   ]
 }
