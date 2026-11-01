@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-31T08:04:49Z",
+  "generatedAt": "2026-11-01T00:47:54Z",
   "source": "launch-db",
   "timezone": "Europe/Berlin",
   "week": {
@@ -8,9 +8,9 @@
     "delta": -5
   },
   "month": {
-    "current": 21,
-    "previous": 27,
-    "delta": -6
+    "current": 0,
+    "previous": 21,
+    "delta": -21
   },
   "year": {
     "current": 252,
