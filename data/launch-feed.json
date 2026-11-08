@@ -1,35 +1,8 @@
 {
-  "generatedAt": "2026-11-08T09:20:35Z",
+  "generatedAt": "2026-11-08T16:11:09Z",
   "source": "launch-worker:launch/upcoming",
-  "nextRefreshAfter": "2026-11-08T10:20:35Z",
+  "nextRefreshAfter": "2026-11-08T17:11:09Z",
   "launches": [
-    {
-      "id": "c476fea7-7814-4adb-91d1-98918bc2cc57",
-      "name": "Soyuz 2.1b/Fregat | Glonass-K1? (Kosmos 2621?)",
-      "net": "2026-11-07T13:30:00Z",
-      "provider": "Russian Space Forces",
-      "rocket": "Soyuz 2.1b Fregat-M",
-      "pad": "43/3 (43L)",
-      "padLocation": "Plesetsk Cosmodrome, Russian Federation",
-      "latitude": 62.9273,
-      "longitude": 40.45,
-      "mission": "Glonass-K1? (Kosmos 2621?)",
-      "missionDescription": "Note: Payload identity uncertain.\r\n\r\nGlonass-K are the third generation of satellite design for GLONASS satellite navigation system. GLONASS is a Russian space-based navigation system comparable to the similar GPS and Galileo systems. This generation improves on accuracy, power consumption and design life. Each satellite is unpressurized and weighs 935 kg,  and has an operational lifetime of 10 years.",
-      "orbit": "Medium Earth Orbit",
-      "status": "success",
-      "outcome": "success",
-      "statusName": "Launch Successful",
-      "statusAbbrev": "Success",
-      "statusDescription": "The launch vehicle successfully inserted its payload(s) into the target orbit(s).",
-      "preflightStatus": "",
-      "postflightStatus": "",
-      "preflightCheckedAt": null,
-      "postflightCheckedAt": null,
-      "livestreamUrl": "",
-      "sourceUrl": "https://ll.thespacedevs.com/2.2.0/launch/c476fea7-7814-4adb-91d1-98918bc2cc57/",
-      "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/c476fea7-7814-4adb-91d1-98918bc2cc57/",
-      "updatedAt": "2026-11-08T09:20:35Z"
-    },
     {
       "id": "a2423132-f965-423f-8b03-6891b775dc54",
       "name": "Long March 12 | SatNet LEO Group TBD?",
@@ -55,7 +28,7 @@
       "livestreamUrl": "",
       "sourceUrl": "https://ll.thespacedevs.com/2.2.0/launch/a2423132-f965-423f-8b03-6891b775dc54/",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/a2423132-f965-423f-8b03-6891b775dc54/",
-      "updatedAt": "2026-11-08T09:20:35Z"
+      "updatedAt": "2026-11-08T16:11:09Z"
     },
     {
       "id": "6aa7b90b-e5ed-45d8-a52e-04fbf399d178",
@@ -82,7 +55,7 @@
       "livestreamUrl": "https://x.com/i/broadcasts/2brkWyolnlBbLM",
       "sourceUrl": "https://www.spacex.com/launches/ussf627",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/6aa7b90b-e5ed-45d8-a52e-04fbf399d178/",
-      "updatedAt": "2026-11-08T09:20:35Z"
+      "updatedAt": "2026-11-08T16:11:09Z"
     },
     {
       "id": "9e27a1ed-e81a-4918-b32b-0380cf3a9f8f",
@@ -109,7 +82,7 @@
       "livestreamUrl": "",
       "sourceUrl": "https://ll.thespacedevs.com/2.2.0/launch/9e27a1ed-e81a-4918-b32b-0380cf3a9f8f/",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/9e27a1ed-e81a-4918-b32b-0380cf3a9f8f/",
-      "updatedAt": "2026-11-08T09:20:35Z"
+      "updatedAt": "2026-11-08T16:11:09Z"
     },
     {
       "id": "d66590ab-b273-47ff-b85a-608b62851b4b",
@@ -136,7 +109,7 @@
       "livestreamUrl": "",
       "sourceUrl": "https://ll.thespacedevs.com/2.2.0/launch/d66590ab-b273-47ff-b85a-608b62851b4b/",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/d66590ab-b273-47ff-b85a-608b62851b4b/",
-      "updatedAt": "2026-11-08T09:20:35Z"
+      "updatedAt": "2026-11-08T16:11:09Z"
     },
     {
       "id": "76617033-4dc0-4448-b50c-e5b0d5a18539",
@@ -163,7 +136,7 @@
       "livestreamUrl": "https://x.com/i/broadcasts/2lgkMvaRVPMdYR",
       "sourceUrl": "https://www.spacex.com/launches/ussf317",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/76617033-4dc0-4448-b50c-e5b0d5a18539/",
-      "updatedAt": "2026-11-08T09:20:35Z"
+      "updatedAt": "2026-11-08T16:11:09Z"
     },
     {
       "id": "ef9850ad-1096-425b-9d27-f7bbd186e61a",
@@ -190,7 +163,7 @@
       "livestreamUrl": "https://www.youtube.com/watch?v=qM5A1ZO9oh8",
       "sourceUrl": "https://www.ulalaunch.com/missions/next-launch/vulcan-leo-1",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/ef9850ad-1096-425b-9d27-f7bbd186e61a/",
-      "updatedAt": "2026-11-08T09:20:35Z"
+      "updatedAt": "2026-11-08T16:11:09Z"
     },
     {
       "id": "0f867f0c-5422-4d44-93b8-d7faaae7019b",
@@ -217,7 +190,7 @@
       "livestreamUrl": "",
       "sourceUrl": "https://www.spacex.com/launches/starship-flight-15",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/0f867f0c-5422-4d44-93b8-d7faaae7019b/",
-      "updatedAt": "2026-11-08T09:20:35Z"
+      "updatedAt": "2026-11-08T16:11:09Z"
     },
     {
       "id": "db3500ac-965b-4ad8-b417-cb8d8d005586",
@@ -244,7 +217,7 @@
       "livestreamUrl": "",
       "sourceUrl": "https://rocketlabcorp.com/missions/launches/iqps-the-mountain-god-rises/",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/db3500ac-965b-4ad8-b417-cb8d8d005586/",
-      "updatedAt": "2026-11-08T09:20:35Z"
+      "updatedAt": "2026-11-08T16:11:09Z"
     },
     {
       "id": "a2975167-7c6f-4403-99e1-b40df17c8140",
@@ -271,7 +244,7 @@
       "livestreamUrl": "",
       "sourceUrl": "https://ll.thespacedevs.com/2.2.0/launch/a2975167-7c6f-4403-99e1-b40df17c8140/",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/a2975167-7c6f-4403-99e1-b40df17c8140/",
-      "updatedAt": "2026-11-08T09:20:35Z"
+      "updatedAt": "2026-11-08T16:11:09Z"
     },
     {
       "id": "7bdc412b-c965-4517-a131-f57a01189803",
@@ -298,7 +271,7 @@
       "livestreamUrl": "",
       "sourceUrl": "https://ll.thespacedevs.com/2.2.0/program/27/",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/7bdc412b-c965-4517-a131-f57a01189803/",
-      "updatedAt": "2026-11-08T09:20:35Z"
+      "updatedAt": "2026-11-08T16:11:09Z"
     },
     {
       "id": "8dd5de11-831b-445f-86f0-bffefe0550d9",
@@ -325,7 +298,7 @@
       "livestreamUrl": "",
       "sourceUrl": "https://ll.thespacedevs.com/2.2.0/program/17/",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/8dd5de11-831b-445f-86f0-bffefe0550d9/",
-      "updatedAt": "2026-11-08T09:20:35Z"
+      "updatedAt": "2026-11-08T16:11:09Z"
     },
     {
       "id": "5ce59e3a-c343-430f-ae4e-e608ba536754",
@@ -352,7 +325,7 @@
       "livestreamUrl": "",
       "sourceUrl": "https://ll.thespacedevs.com/2.2.0/launch/5ce59e3a-c343-430f-ae4e-e608ba536754/",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/5ce59e3a-c343-430f-ae4e-e608ba536754/",
-      "updatedAt": "2026-11-08T09:20:35Z"
+      "updatedAt": "2026-11-08T16:11:09Z"
     },
     {
       "id": "c9605b67-8a53-4239-a8ae-577fe3b79799",
@@ -379,7 +352,7 @@
       "livestreamUrl": "",
       "sourceUrl": "https://ll.thespacedevs.com/2.2.0/program/7/",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/c9605b67-8a53-4239-a8ae-577fe3b79799/",
-      "updatedAt": "2026-11-08T09:20:35Z"
+      "updatedAt": "2026-11-08T16:11:09Z"
     },
     {
       "id": "dff42a2e-f047-48d7-b260-3888d3a4fe33",
@@ -406,7 +379,7 @@
       "livestreamUrl": "",
       "sourceUrl": "https://ll.thespacedevs.com/2.2.0/launch/dff42a2e-f047-48d7-b260-3888d3a4fe33/",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/dff42a2e-f047-48d7-b260-3888d3a4fe33/",
-      "updatedAt": "2026-11-08T09:20:35Z"
+      "updatedAt": "2026-11-08T16:11:09Z"
     },
     {
       "id": "d74afbc7-0de5-491c-be05-4e9c31f736ac",
@@ -433,7 +406,7 @@
       "livestreamUrl": "",
       "sourceUrl": "https://ll.thespacedevs.com/2.2.0/program/11/",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/d74afbc7-0de5-491c-be05-4e9c31f736ac/",
-      "updatedAt": "2026-11-08T09:20:35Z"
+      "updatedAt": "2026-11-08T16:11:09Z"
     },
     {
       "id": "56ca6058-7ccc-4ec0-b1b0-fb49f3bfee49",
@@ -460,7 +433,7 @@
       "livestreamUrl": "",
       "sourceUrl": "https://ll.thespacedevs.com/2.2.0/launch/56ca6058-7ccc-4ec0-b1b0-fb49f3bfee49/",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/56ca6058-7ccc-4ec0-b1b0-fb49f3bfee49/",
-      "updatedAt": "2026-11-08T09:20:35Z"
+      "updatedAt": "2026-11-08T16:11:09Z"
     },
     {
       "id": "b0dc988c-ea4a-423f-81b6-6b0fbe7cc17c",
@@ -487,7 +460,7 @@
       "livestreamUrl": "",
       "sourceUrl": "https://ll.thespacedevs.com/2.2.0/program/26/",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/b0dc988c-ea4a-423f-81b6-6b0fbe7cc17c/",
-      "updatedAt": "2026-11-08T09:20:35Z"
+      "updatedAt": "2026-11-08T16:11:09Z"
     },
     {
       "id": "3cdb9dee-b5cb-406c-bbd1-06a219930fb7",
@@ -514,7 +487,7 @@
       "livestreamUrl": "https://www.youtube.com/watch?v=z9uME3O2xHk",
       "sourceUrl": "https://www.spacex.com/launches/sl-15-21",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/3cdb9dee-b5cb-406c-bbd1-06a219930fb7/",
-      "updatedAt": "2026-11-08T09:20:35Z"
+      "updatedAt": "2026-11-08T16:11:09Z"
     },
     {
       "id": "dfac5ab7-7017-454f-b6cf-eeed277a97b5",
@@ -541,7 +514,7 @@
       "livestreamUrl": "",
       "sourceUrl": "https://ll.thespacedevs.com/2.2.0/program/21/",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/dfac5ab7-7017-454f-b6cf-eeed277a97b5/",
-      "updatedAt": "2026-11-08T09:20:35Z"
+      "updatedAt": "2026-11-08T16:11:09Z"
     },
     {
       "id": "b5a9bccb-30d7-4af6-8ad1-fabb563be53c",
@@ -568,7 +541,7 @@
       "livestreamUrl": "",
       "sourceUrl": "https://ll.thespacedevs.com/2.2.0/launch/b5a9bccb-30d7-4af6-8ad1-fabb563be53c/",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/b5a9bccb-30d7-4af6-8ad1-fabb563be53c/",
-      "updatedAt": "2026-11-08T09:20:35Z"
+      "updatedAt": "2026-11-08T16:11:09Z"
     },
     {
       "id": "22e117bf-041c-49d5-9d09-7b180036e143",
@@ -595,7 +568,7 @@
       "livestreamUrl": "",
       "sourceUrl": "http://www.arianespace.com/press-release/arianespace-and-eumetsat-announce-signature-of-a-launch-contract-for-the-first-metop-sg-satellites/",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/22e117bf-041c-49d5-9d09-7b180036e143/",
-      "updatedAt": "2026-11-08T09:20:35Z"
+      "updatedAt": "2026-11-08T16:11:09Z"
     },
     {
       "id": "8bf5f61e-a7e1-41e6-aede-7b87e4beebab",
@@ -622,7 +595,7 @@
       "livestreamUrl": "",
       "sourceUrl": "https://ll.thespacedevs.com/2.2.0/launch/8bf5f61e-a7e1-41e6-aede-7b87e4beebab/",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/8bf5f61e-a7e1-41e6-aede-7b87e4beebab/",
-      "updatedAt": "2026-11-08T09:20:35Z"
+      "updatedAt": "2026-11-08T16:11:09Z"
     },
     {
       "id": "e61d353c-db55-4a57-8184-0fab187231e6",
@@ -649,7 +622,34 @@
       "livestreamUrl": "",
       "sourceUrl": "https://ll.thespacedevs.com/2.2.0/launch/e61d353c-db55-4a57-8184-0fab187231e6/",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/e61d353c-db55-4a57-8184-0fab187231e6/",
-      "updatedAt": "2026-11-08T09:20:35Z"
+      "updatedAt": "2026-11-08T16:11:09Z"
+    },
+    {
+      "id": "71df1dd0-d658-4762-b0bc-0fca6886aea7",
+      "name": "Falcon 9 Block 5 | SDA Tranche 2 Transport Layer D",
+      "net": "2026-12-31T00:00:00Z",
+      "provider": "SpaceX",
+      "rocket": "Falcon 9 Block 5",
+      "pad": "Unknown Pad",
+      "padLocation": "Cape Canaveral SFS, FL, USA",
+      "latitude": 28.458,
+      "longitude": -80.528,
+      "mission": "SDA Tranche 2 Transport Layer D",
+      "missionDescription": "Classified mission launched by the Space Development Agency (SDA) for Tranche 2 Transport Layer.",
+      "orbit": "Polar Orbit",
+      "status": "delayed",
+      "outcome": "delayed",
+      "statusName": "To Be Determined",
+      "statusAbbrev": "TBD",
+      "statusDescription": "Current date is a placeholder or rough estimation based on unreliable or interpreted sources.",
+      "preflightStatus": "",
+      "postflightStatus": "",
+      "preflightCheckedAt": null,
+      "postflightCheckedAt": null,
+      "livestreamUrl": "",
+      "sourceUrl": "https://ll.thespacedevs.com/2.2.0/launch/71df1dd0-d658-4762-b0bc-0fca6886aea7/",
+      "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/71df1dd0-d658-4762-b0bc-0fca6886aea7/",
+      "updatedAt": "2026-11-08T16:11:09Z"
     }
   ]
 }
