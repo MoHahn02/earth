@@ -1,21 +1,21 @@
 {
-  "generatedAt": "2026-11-08T23:59:32Z",
+  "generatedAt": "2026-11-11T16:05:37Z",
   "source": "launch-db",
   "timezone": "Europe/Berlin",
   "week": {
-    "current": 0,
+    "current": 1,
     "previous": 7,
-    "delta": -7
+    "delta": -6
   },
   "month": {
-    "current": 7,
+    "current": 8,
     "previous": 21,
-    "delta": -14
+    "delta": -13
   },
   "year": {
-    "current": 259,
+    "current": 260,
     "previous": 329,
-    "delta": -70
+    "delta": -69
   },
   "historicalSuccessfulLaunchesByYear": {
     "2025": 329
