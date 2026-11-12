@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-12T11:40:32Z",
+  "generatedAt": "2026-11-12T19:11:23Z",
   "source": "launch-worker:observed-db",
   "launches": [
     {
@@ -685,7 +685,7 @@
       "statusDescription": "Current date is a placeholder or rough estimation based on unreliable or interpreted sources.",
       "sourceUrl": "https://ll.thespacedevs.com/2.2.0/launch/8bf5f61e-a7e1-41e6-aede-7b87e4beebab/",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/8bf5f61e-a7e1-41e6-aede-7b87e4beebab/",
-      "updatedAt": "2026-11-12T11:40:32Z",
+      "updatedAt": "2026-11-12T19:11:23Z",
       "firstSeenAt": "2026-10-08T10:27:58Z"
     },
     {
@@ -754,7 +754,7 @@
       "statusDescription": "Current date is a placeholder or rough estimation based on unreliable or interpreted sources.",
       "sourceUrl": "http://www.arianespace.com/press-release/arianespace-and-eumetsat-announce-signature-of-a-launch-contract-for-the-first-metop-sg-satellites/",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/22e117bf-041c-49d5-9d09-7b180036e143/",
-      "updatedAt": "2026-11-12T11:40:32Z",
+      "updatedAt": "2026-11-12T19:11:23Z",
       "firstSeenAt": "2026-09-19T08:50:56Z",
       "previousNets": [
         "2026-11-30T00:00:00Z"
@@ -869,7 +869,7 @@
       "statusDescription": "Current date is a placeholder or rough estimation based on unreliable or interpreted sources.",
       "sourceUrl": "https://ll.thespacedevs.com/2.2.0/launch/e61d353c-db55-4a57-8184-0fab187231e6/",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/e61d353c-db55-4a57-8184-0fab187231e6/",
-      "updatedAt": "2026-11-12T11:40:32Z",
+      "updatedAt": "2026-11-12T19:11:23Z",
       "firstSeenAt": "2026-11-08T02:23:54Z"
     },
     {
@@ -915,7 +915,7 @@
       "statusDescription": "Current date is a placeholder or rough estimation based on unreliable or interpreted sources.",
       "sourceUrl": "https://ll.thespacedevs.com/2.2.0/program/21/",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/dfac5ab7-7017-454f-b6cf-eeed277a97b5/",
-      "updatedAt": "2026-11-12T11:40:32Z",
+      "updatedAt": "2026-11-12T19:11:23Z",
       "firstSeenAt": "2026-09-26T16:35:46Z"
     },
     {
@@ -938,7 +938,7 @@
       "statusDescription": "Current date is a placeholder or rough estimation based on unreliable or interpreted sources.",
       "sourceUrl": "https://ll.thespacedevs.com/2.2.0/launch/b5a9bccb-30d7-4af6-8ad1-fabb563be53c/",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/b5a9bccb-30d7-4af6-8ad1-fabb563be53c/",
-      "updatedAt": "2026-11-12T11:40:32Z",
+      "updatedAt": "2026-11-12T19:11:23Z",
       "firstSeenAt": "2026-09-26T16:35:46Z"
     },
     {
@@ -952,7 +952,7 @@
       "latitude": 34.632,
       "longitude": -120.611,
       "mission": "NROL-195",
-      "missionDescription": "Fifteenth batch of satellites for a reconnaissance satellite constellation built by SpaceX and Northrop Grumman for the National Reconnaissance Office to provide imaging and other reconnaissance capabilities.",
+      "missionDescription": "Sixteenth batch of satellites for a reconnaissance satellite constellation built by SpaceX and Northrop Grumman for the National Reconnaissance Office to provide imaging and other reconnaissance capabilities.",
       "orbit": "Low Earth Orbit",
       "status": "delayed",
       "outcome": "delayed",
@@ -961,7 +961,7 @@
       "statusDescription": "Current date is a placeholder or rough estimation based on unreliable or interpreted sources.",
       "sourceUrl": "https://ll.thespacedevs.com/2.2.0/launch/56ca6058-7ccc-4ec0-b1b0-fb49f3bfee49/",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/56ca6058-7ccc-4ec0-b1b0-fb49f3bfee49/",
-      "updatedAt": "2026-11-12T11:40:32Z",
+      "updatedAt": "2026-11-12T19:11:23Z",
       "firstSeenAt": "2026-10-20T13:02:27Z",
       "previousNets": [
         "2026-11-05T22:34:00Z"
@@ -991,7 +991,7 @@
       "statusDescription": "Current date is a placeholder or rough estimation based on unreliable or interpreted sources.",
       "sourceUrl": "https://ll.thespacedevs.com/2.2.0/program/26/",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/b0dc988c-ea4a-423f-81b6-6b0fbe7cc17c/",
-      "updatedAt": "2026-11-12T11:40:32Z",
+      "updatedAt": "2026-11-12T19:11:23Z",
       "firstSeenAt": "2026-10-29T08:55:11Z"
     },
     {
@@ -1014,7 +1014,7 @@
       "livestreamUrl": "https://www.youtube.com/watch?v=z9uME3O2xHk",
       "sourceUrl": "https://www.spacex.com/launches/sl-15-21",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/3cdb9dee-b5cb-406c-bbd1-06a219930fb7/",
-      "updatedAt": "2026-11-12T11:40:32Z",
+      "updatedAt": "2026-11-12T19:11:23Z",
       "firstSeenAt": "2026-10-19T20:10:12Z",
       "outcome": "delayed",
       "previousNets": [
@@ -1048,7 +1048,7 @@
       "statusDescription": "Current date is a placeholder or rough estimation based on unreliable or interpreted sources.",
       "sourceUrl": "https://ll.thespacedevs.com/2.2.0/launch/9e27a1ed-e81a-4918-b32b-0380cf3a9f8f/",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/9e27a1ed-e81a-4918-b32b-0380cf3a9f8f/",
-      "updatedAt": "2026-11-12T11:40:32Z",
+      "updatedAt": "2026-11-12T19:11:23Z",
       "firstSeenAt": "2026-04-19T13:07:28Z",
       "outcome": "delayed",
       "previousNets": [
@@ -1062,6 +1062,36 @@
         "2026-11-10T06:00:00Z",
         "2026-11-11T05:00:00Z",
         "2026-11-13T05:00:00Z"
+      ],
+      "preflightCheckedAt": null,
+      "postflightCheckedAt": null,
+      "preflightStatus": "",
+      "postflightStatus": ""
+    },
+    {
+      "id": "e2523821-9760-4cb4-ad1f-7ce2e30419bd",
+      "name": "Kuaizhou 11 | Unknown Payload",
+      "net": "2026-11-30T00:00:00Z",
+      "provider": "ExPace",
+      "rocket": "Kuaizhou 11",
+      "pad": "Launch Area 95A",
+      "padLocation": "Jiuquan Satellite Launch Center, People's Republic of China",
+      "latitude": 40.969117,
+      "longitude": 100.343333,
+      "mission": "Unknown Payload",
+      "missionDescription": "Details TBD.",
+      "orbit": "Unknown",
+      "status": "delayed",
+      "statusName": "To Be Determined",
+      "statusAbbrev": "TBD",
+      "statusDescription": "Current date is a placeholder or rough estimation based on unreliable or interpreted sources.",
+      "sourceUrl": "https://ll.thespacedevs.com/2.2.0/launch/e2523821-9760-4cb4-ad1f-7ce2e30419bd/",
+      "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/e2523821-9760-4cb4-ad1f-7ce2e30419bd/",
+      "updatedAt": "2026-11-12T19:11:23Z",
+      "firstSeenAt": "2026-11-10T00:12:47Z",
+      "outcome": "delayed",
+      "previousNets": [
+        "2026-11-12T19:50:00Z"
       ],
       "preflightCheckedAt": null,
       "postflightCheckedAt": null,
@@ -1088,7 +1118,7 @@
       "statusDescription": "Current T-0 confirmed by official or reliable sources.",
       "sourceUrl": "https://ll.thespacedevs.com/2.2.0/program/11/",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/d74afbc7-0de5-491c-be05-4e9c31f736ac/",
-      "updatedAt": "2026-11-12T11:40:32Z",
+      "updatedAt": "2026-11-12T19:11:23Z",
       "firstSeenAt": "2026-09-21T04:26:55Z",
       "previousNets": [
         "2026-12-31T00:00:00Z",
@@ -1120,7 +1150,7 @@
       "statusDescription": "Awaiting official confirmation - current date is known with some certainty.",
       "sourceUrl": "https://ll.thespacedevs.com/2.2.0/launch/dff42a2e-f047-48d7-b260-3888d3a4fe33/",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/dff42a2e-f047-48d7-b260-3888d3a4fe33/",
-      "updatedAt": "2026-11-12T11:40:32Z",
+      "updatedAt": "2026-11-12T19:11:23Z",
       "firstSeenAt": "2026-10-30T00:38:55Z"
     },
     {
@@ -1143,7 +1173,7 @@
       "statusDescription": "Current date is a placeholder or rough estimation based on unreliable or interpreted sources.",
       "sourceUrl": "https://ll.thespacedevs.com/2.2.0/program/7/",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/c9605b67-8a53-4239-a8ae-577fe3b79799/",
-      "updatedAt": "2026-11-12T11:40:32Z",
+      "updatedAt": "2026-11-12T19:11:23Z",
       "firstSeenAt": "2026-10-24T14:08:00Z"
     },
     {
@@ -1166,7 +1196,7 @@
       "statusDescription": "Awaiting official confirmation - current date is known with some certainty.",
       "sourceUrl": "https://ll.thespacedevs.com/2.2.0/launch/5ce59e3a-c343-430f-ae4e-e608ba536754/",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/5ce59e3a-c343-430f-ae4e-e608ba536754/",
-      "updatedAt": "2026-11-12T11:40:32Z",
+      "updatedAt": "2026-11-12T19:11:23Z",
       "firstSeenAt": "2026-10-30T18:44:54Z"
     },
     {
@@ -1189,7 +1219,7 @@
       "statusDescription": "Awaiting official confirmation - current date is known with some certainty.",
       "sourceUrl": "https://ll.thespacedevs.com/2.2.0/program/17/",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/8dd5de11-831b-445f-86f0-bffefe0550d9/",
-      "updatedAt": "2026-11-12T11:40:32Z",
+      "updatedAt": "2026-11-12T19:11:23Z",
       "firstSeenAt": "2026-09-18T04:30:58Z"
     },
     {
@@ -1212,7 +1242,7 @@
       "statusDescription": "Current date is a placeholder or rough estimation based on unreliable or interpreted sources.",
       "sourceUrl": "https://ll.thespacedevs.com/2.2.0/program/27/",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/7bdc412b-c965-4517-a131-f57a01189803/",
-      "updatedAt": "2026-11-12T11:40:32Z",
+      "updatedAt": "2026-11-12T19:11:23Z",
       "firstSeenAt": "2026-08-27T22:50:55Z",
       "previousNets": [
         "2026-10-07T00:00:00Z",
@@ -1244,31 +1274,8 @@
       "statusDescription": "Awaiting official confirmation - current date is known with some certainty.",
       "sourceUrl": "https://ll.thespacedevs.com/2.2.0/launch/a2975167-7c6f-4403-99e1-b40df17c8140/",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/a2975167-7c6f-4403-99e1-b40df17c8140/",
-      "updatedAt": "2026-11-12T11:40:32Z",
+      "updatedAt": "2026-11-12T19:11:23Z",
       "firstSeenAt": "2026-10-30T18:44:54Z"
-    },
-    {
-      "id": "bff2fc91-eddd-4dfc-af26-ac0674cfab4d",
-      "name": "Soyuz 2.1a/Fregat-M | MKA Kinosputnik, KOEN and others",
-      "net": "2026-11-19T00:00:00Z",
-      "provider": "Russian Federal Space Agency (ROSCOSMOS)",
-      "rocket": "Soyuz 2.1a Fregat-M",
-      "pad": "Cosmodrome Site 1S",
-      "padLocation": "Vostochny Cosmodrome, Siberia, Russian Federation",
-      "latitude": 51.884395,
-      "longitude": 128.333932,
-      "mission": "MKA Kinosputnik, KOEN and others",
-      "missionDescription": "Share-ride of multiple satellites, including dual-use optical Earth observation satellites and drone-guiding satellites:\r\n\r\n* MKA Kinosputnik\r\n* KOEN, KA MT-LAB\r\n* NPO Kaisant 6U cubesat with a Germes modem\r\n* NPO Kaisant 16U cubesat with Gonets modems",
-      "orbit": "Sun-Synchronous Orbit",
-      "status": "delayed",
-      "outcome": "delayed",
-      "statusName": "To Be Determined",
-      "statusAbbrev": "TBD",
-      "statusDescription": "Current date is a placeholder or rough estimation based on unreliable or interpreted sources.",
-      "sourceUrl": "https://ll.thespacedevs.com/2.2.0/launch/bff2fc91-eddd-4dfc-af26-ac0674cfab4d/",
-      "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/bff2fc91-eddd-4dfc-af26-ac0674cfab4d/",
-      "updatedAt": "2026-09-07T17:50:28Z",
-      "firstSeenAt": "2026-09-07T17:50:28Z"
     },
     {
       "id": "460d9db7-eaf6-4cd9-b095-cff433534c09",
@@ -1290,7 +1297,7 @@
       "livestreamUrl": "https://x.com/i/broadcasts/2JQXBjLyYOQrpX",
       "sourceUrl": "https://www.spacex.com/launches/ussf266",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/460d9db7-eaf6-4cd9-b095-cff433534c09/",
-      "updatedAt": "2026-11-12T11:40:32Z",
+      "updatedAt": "2026-11-12T19:11:23Z",
       "firstSeenAt": "2026-11-10T00:12:47Z",
       "previousNets": [
         "2026-11-17T16:58:00Z"
@@ -1320,7 +1327,7 @@
       "statusDescription": "Current T-0 confirmed by official or reliable sources.",
       "sourceUrl": "https://www.spacex.com/launches/ussf317",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/76617033-4dc0-4448-b50c-e5b0d5a18539/",
-      "updatedAt": "2026-11-12T11:40:32Z",
+      "updatedAt": "2026-11-12T19:11:23Z",
       "firstSeenAt": "2026-11-03T16:09:25Z",
       "livestreamUrl": "https://x.com/i/broadcasts/2lgkMvaRVPMdYR",
       "previousNets": [
@@ -1352,11 +1359,41 @@
       "statusDescription": "Current T-0 confirmed by official or reliable sources.",
       "sourceUrl": "https://rocketlabcorp.com/missions/launches/iqps-the-mountain-god-rises/",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/db3500ac-965b-4ad8-b417-cb8d8d005586/",
-      "updatedAt": "2026-11-12T11:40:32Z",
+      "updatedAt": "2026-11-12T19:11:23Z",
       "firstSeenAt": "2026-10-13T03:39:02Z",
       "previousNets": [
         "2026-11-10T00:00:00Z",
         "2026-11-14T00:00:00Z"
+      ],
+      "preflightCheckedAt": null,
+      "postflightCheckedAt": null,
+      "preflightStatus": "",
+      "postflightStatus": ""
+    },
+    {
+      "id": "bff2fc91-eddd-4dfc-af26-ac0674cfab4d",
+      "name": "Soyuz 2.1b/Fregat-M | MKA Kinosputnik, KOEN and others",
+      "net": "2026-11-14T00:50:00Z",
+      "provider": "Russian Federal Space Agency (ROSCOSMOS)",
+      "rocket": "Soyuz 2.1b Fregat-M",
+      "pad": "Cosmodrome Site 1S",
+      "padLocation": "Vostochny Cosmodrome, Siberia, Russian Federation",
+      "latitude": 51.884395,
+      "longitude": 128.333932,
+      "mission": "MKA Kinosputnik, KOEN and others",
+      "missionDescription": "Share-ride of multiple satellites, including dual-use optical Earth observation satellites and drone-guiding satellites:\r\n\r\n* MKA Kinosputnik\r\n* KOEN, KA MT-LAB\r\n* NPO Kaisant 6U cubesat with a Germes modem\r\n* NPO Kaisant 16U cubesat with Gonets modems",
+      "orbit": "Sun-Synchronous Orbit",
+      "status": "go",
+      "outcome": "",
+      "statusName": "Go for Launch",
+      "statusAbbrev": "Go",
+      "statusDescription": "Current T-0 confirmed by official or reliable sources.",
+      "sourceUrl": "https://ll.thespacedevs.com/2.2.0/launch/bff2fc91-eddd-4dfc-af26-ac0674cfab4d/",
+      "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/bff2fc91-eddd-4dfc-af26-ac0674cfab4d/",
+      "updatedAt": "2026-11-12T19:11:23Z",
+      "firstSeenAt": "2026-09-07T17:50:28Z",
+      "previousNets": [
+        "2026-11-19T00:00:00Z"
       ],
       "preflightCheckedAt": null,
       "postflightCheckedAt": null,
@@ -1383,7 +1420,7 @@
       "statusDescription": "Awaiting official confirmation - current date is known with some certainty.",
       "sourceUrl": "https://www.spacex.com/launches/starship-flight-15",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/0f867f0c-5422-4d44-93b8-d7faaae7019b/",
-      "updatedAt": "2026-11-12T11:40:32Z",
+      "updatedAt": "2026-11-12T19:11:23Z",
       "firstSeenAt": "2026-10-28T23:24:14Z",
       "previousNets": [
         "2026-11-30T00:00:00Z",
@@ -1414,7 +1451,7 @@
       "statusDescription": "Current T-0 confirmed by official or reliable sources.",
       "sourceUrl": "https://www.ulalaunch.com/missions/next-launch/vulcan-leo-1",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/ef9850ad-1096-425b-9d27-f7bbd186e61a/",
-      "updatedAt": "2026-11-12T11:40:32Z",
+      "updatedAt": "2026-11-12T19:11:23Z",
       "firstSeenAt": "2026-08-06T03:44:41Z",
       "previousNets": [
         "2026-09-30T00:00:00Z",
@@ -1428,28 +1465,6 @@
       "preflightStatus": "",
       "postflightStatus": "",
       "livestreamUrl": "https://www.youtube.com/watch?v=qM5A1ZO9oh8"
-    },
-    {
-      "id": "e2523821-9760-4cb4-ad1f-7ce2e30419bd",
-      "name": "Kuaizhou 11 | Unknown Payload",
-      "net": "2026-11-12T19:50:00Z",
-      "provider": "ExPace",
-      "rocket": "Kuaizhou 11",
-      "pad": "Launch Area 95A",
-      "padLocation": "Jiuquan Satellite Launch Center, People's Republic of China",
-      "latitude": 40.969117,
-      "longitude": 100.343333,
-      "mission": "Unknown Payload",
-      "missionDescription": "Details TBD.",
-      "orbit": "Unknown",
-      "status": "go",
-      "statusName": "Go for Launch",
-      "statusAbbrev": "Go",
-      "statusDescription": "Current T-0 confirmed by official or reliable sources.",
-      "sourceUrl": "https://ll.thespacedevs.com/2.2.0/launch/e2523821-9760-4cb4-ad1f-7ce2e30419bd/",
-      "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/e2523821-9760-4cb4-ad1f-7ce2e30419bd/",
-      "updatedAt": "2026-11-12T11:40:32Z",
-      "firstSeenAt": "2026-11-10T00:12:47Z"
     },
     {
       "id": "6aa7b90b-e5ed-45d8-a52e-04fbf399d178",
@@ -1471,7 +1486,7 @@
       "statusDescription": "The launch vehicle successfully inserted its payload(s) into the target orbit(s).",
       "sourceUrl": "https://www.spacex.com/launches/ussf627",
       "apiUrl": "https://ll.thespacedevs.com/2.2.0/launch/6aa7b90b-e5ed-45d8-a52e-04fbf399d178/",
-      "updatedAt": "2026-11-12T11:40:32Z",
+      "updatedAt": "2026-11-12T19:11:23Z",
       "firstSeenAt": "2026-10-28T19:21:27Z",
       "previousNets": [
         "2026-11-10T03:03:00Z",
