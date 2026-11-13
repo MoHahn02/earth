@@ -1,20 +1,8 @@
 {
-  "lastFeedRefreshAt": "2026-11-13T07:14:44Z",
-  "lastCheckRunAt": "2026-11-13T07:14:44Z",
+  "lastFeedRefreshAt": "2026-11-13T15:29:23Z",
+  "lastCheckRunAt": "2026-11-13T15:29:23Z",
   "lastSatelliteRefreshAt": "2026-11-13T07:14:44Z",
   "pendingChecks": [
-    {
-      "id": "ef9850ad-1096-425b-9d27-f7bbd186e61a",
-      "phase": "preflight",
-      "dueAt": "2026-11-13T17:39:00Z",
-      "overdue": false
-    },
-    {
-      "id": "ef9850ad-1096-425b-9d27-f7bbd186e61a",
-      "phase": "postflight",
-      "dueAt": "2026-11-13T18:24:00Z",
-      "overdue": false
-    },
     {
       "id": "0f867f0c-5422-4d44-93b8-d7faaae7019b",
       "phase": "preflight",
@@ -49,6 +37,18 @@
       "id": "db3500ac-965b-4ad8-b417-cb8d8d005586",
       "phase": "postflight",
       "dueAt": "2026-11-14T06:00:00Z",
+      "overdue": false
+    },
+    {
+      "id": "ef9850ad-1096-425b-9d27-f7bbd186e61a",
+      "phase": "preflight",
+      "dueAt": "2026-11-14T17:17:30Z",
+      "overdue": false
+    },
+    {
+      "id": "ef9850ad-1096-425b-9d27-f7bbd186e61a",
+      "phase": "postflight",
+      "dueAt": "2026-11-14T18:02:30Z",
       "overdue": false
     },
     {
@@ -174,13 +174,13 @@
     {
       "id": "d74afbc7-0de5-491c-be05-4e9c31f736ac",
       "phase": "preflight",
-      "dueAt": "2026-11-29T15:34:00Z",
+      "dueAt": "2026-11-29T15:32:00Z",
       "overdue": false
     },
     {
       "id": "d74afbc7-0de5-491c-be05-4e9c31f736ac",
       "phase": "postflight",
-      "dueAt": "2026-11-29T16:19:00Z",
+      "dueAt": "2026-11-29T16:17:00Z",
       "overdue": false
     },
     {
@@ -454,8 +454,10 @@
       "overdue": false
     }
   ],
-  "lastErrors": [],
-  "lastIssOemRefreshAt": "2026-11-13T07:14:44Z",
+  "lastErrors": [
+    "satellite refresh failed: HTTP Error 403: Forbidden"
+  ],
+  "lastIssOemRefreshAt": "2026-11-13T15:29:23Z",
   "lastSatelliteProfileRefreshAt": "2026-11-13T07:14:44Z",
   "lastEarthObservationRefreshAt": "2026-11-13T07:14:44Z"
 }
