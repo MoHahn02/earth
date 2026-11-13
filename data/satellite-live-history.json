@@ -1,33 +1,9 @@
 {
-  "generatedAt": "2026-11-13T07:14:44Z",
+  "generatedAt": "2026-11-13T21:32:20Z",
   "source": "celestrak-active-tle",
   "cadenceHours": 2,
   "windowDays": 90,
   "samples": [
-    {
-      "timestamp": "2026-08-15T07:46:44Z",
-      "liveCount": 16085
-    },
-    {
-      "timestamp": "2026-08-15T10:01:13Z",
-      "liveCount": 16085
-    },
-    {
-      "timestamp": "2026-08-15T12:53:10Z",
-      "liveCount": 16084
-    },
-    {
-      "timestamp": "2026-08-15T15:33:35Z",
-      "liveCount": 16084
-    },
-    {
-      "timestamp": "2026-08-15T17:45:39Z",
-      "liveCount": 16084
-    },
-    {
-      "timestamp": "2026-08-15T19:52:16Z",
-      "liveCount": 16082
-    },
     {
       "timestamp": "2026-08-15T21:53:39Z",
       "liveCount": 16082
@@ -2018,6 +1994,10 @@
     },
     {
       "timestamp": "2026-11-13T07:14:44Z",
+      "liveCount": 15875
+    },
+    {
+      "timestamp": "2026-11-13T21:32:20Z",
       "liveCount": 15875
     }
   ]
