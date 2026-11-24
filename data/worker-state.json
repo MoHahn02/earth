@@ -1,26 +1,8 @@
 {
-  "lastFeedRefreshAt": "2026-11-24T11:37:27Z",
-  "lastCheckRunAt": "2026-11-24T11:37:27Z",
+  "lastFeedRefreshAt": "2026-11-24T21:30:34Z",
+  "lastCheckRunAt": "2026-11-24T21:30:34Z",
   "lastSatelliteRefreshAt": "2026-11-24T11:37:27Z",
   "pendingChecks": [
-    {
-      "id": "7bdc412b-c965-4517-a131-f57a01189803",
-      "phase": "postflight",
-      "dueAt": "2026-11-24T11:44:52Z",
-      "overdue": false
-    },
-    {
-      "id": "460d9db7-eaf6-4cd9-b095-cff433534c09",
-      "phase": "preflight",
-      "dueAt": "2026-11-24T15:53:59Z",
-      "overdue": false
-    },
-    {
-      "id": "460d9db7-eaf6-4cd9-b095-cff433534c09",
-      "phase": "postflight",
-      "dueAt": "2026-11-24T16:38:59Z",
-      "overdue": false
-    },
     {
       "id": "c9605b67-8a53-4239-a8ae-577fe3b79799",
       "phase": "preflight",
@@ -108,13 +90,13 @@
     {
       "id": "d74afbc7-0de5-491c-be05-4e9c31f736ac",
       "phase": "preflight",
-      "dueAt": "2026-11-29T15:35:00Z",
+      "dueAt": "2026-11-29T15:32:00Z",
       "overdue": false
     },
     {
       "id": "d74afbc7-0de5-491c-be05-4e9c31f736ac",
       "phase": "postflight",
-      "dueAt": "2026-11-29T16:20:00Z",
+      "dueAt": "2026-11-29T16:17:00Z",
       "overdue": false
     },
     {
@@ -280,6 +262,12 @@
       "overdue": false
     },
     {
+      "id": "9b9db235-8ffb-4569-b09b-0e852ad231a0",
+      "phase": "preflight",
+      "dueAt": "2026-12-30T23:45:00Z",
+      "overdue": false
+    },
+    {
       "id": "a5e81552-ecdd-4d89-b6bd-b594e22ca891",
       "phase": "preflight",
       "dueAt": "2026-12-30T23:45:00Z",
@@ -388,6 +376,12 @@
       "overdue": false
     },
     {
+      "id": "9b9db235-8ffb-4569-b09b-0e852ad231a0",
+      "phase": "postflight",
+      "dueAt": "2026-12-31T00:30:00Z",
+      "overdue": false
+    },
+    {
       "id": "a5e81552-ecdd-4d89-b6bd-b594e22ca891",
       "phase": "postflight",
       "dueAt": "2026-12-31T00:30:00Z",
@@ -436,8 +430,10 @@
       "overdue": false
     }
   ],
-  "lastErrors": [],
-  "lastIssOemRefreshAt": "2026-11-24T11:37:27Z",
+  "lastErrors": [
+    "satellite refresh failed: HTTP Error 500: Internal Server Error"
+  ],
+  "lastIssOemRefreshAt": "2026-11-24T21:30:34Z",
   "lastSatelliteProfileRefreshAt": "2026-11-24T01:39:04Z",
   "lastEarthObservationRefreshAt": "2026-11-24T01:39:04Z"
 }
