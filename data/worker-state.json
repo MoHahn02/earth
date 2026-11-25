@@ -1,7 +1,7 @@
 {
-  "lastFeedRefreshAt": "2026-11-25T14:54:58Z",
-  "lastCheckRunAt": "2026-11-25T14:54:58Z",
-  "lastSatelliteRefreshAt": "2026-11-25T04:33:36Z",
+  "lastFeedRefreshAt": "2026-11-25T23:28:35Z",
+  "lastCheckRunAt": "2026-11-25T23:28:35Z",
+  "lastSatelliteRefreshAt": "2026-11-25T23:28:35Z",
   "pendingChecks": [
     {
       "id": "b00f0e9a-48d6-4f26-9cb5-7d19169ff7c4",
@@ -160,6 +160,18 @@
       "overdue": false
     },
     {
+      "id": "8bf5f61e-a7e1-41e6-aede-7b87e4beebab",
+      "phase": "preflight",
+      "dueAt": "2026-12-04T12:40:00Z",
+      "overdue": false
+    },
+    {
+      "id": "8bf5f61e-a7e1-41e6-aede-7b87e4beebab",
+      "phase": "postflight",
+      "dueAt": "2026-12-04T13:25:00Z",
+      "overdue": false
+    },
+    {
       "id": "5ce59e3a-c343-430f-ae4e-e608ba536754",
       "phase": "preflight",
       "dueAt": "2026-12-10T06:45:00Z",
@@ -226,6 +238,12 @@
       "overdue": false
     },
     {
+      "id": "5aa3575e-f3ff-48ec-969f-e7e4c669f866",
+      "phase": "preflight",
+      "dueAt": "2026-12-30T23:45:00Z",
+      "overdue": false
+    },
+    {
       "id": "71df1dd0-d658-4762-b0bc-0fca6886aea7",
       "phase": "preflight",
       "dueAt": "2026-12-30T23:45:00Z",
@@ -233,12 +251,6 @@
     },
     {
       "id": "71ed4649-8d71-42e8-8548-d42ffa2c5a6e",
-      "phase": "preflight",
-      "dueAt": "2026-12-30T23:45:00Z",
-      "overdue": false
-    },
-    {
-      "id": "8bf5f61e-a7e1-41e6-aede-7b87e4beebab",
       "phase": "preflight",
       "dueAt": "2026-12-30T23:45:00Z",
       "overdue": false
@@ -334,6 +346,12 @@
       "overdue": false
     },
     {
+      "id": "5aa3575e-f3ff-48ec-969f-e7e4c669f866",
+      "phase": "postflight",
+      "dueAt": "2026-12-31T00:30:00Z",
+      "overdue": false
+    },
+    {
       "id": "71df1dd0-d658-4762-b0bc-0fca6886aea7",
       "phase": "postflight",
       "dueAt": "2026-12-31T00:30:00Z",
@@ -341,12 +359,6 @@
     },
     {
       "id": "71ed4649-8d71-42e8-8548-d42ffa2c5a6e",
-      "phase": "postflight",
-      "dueAt": "2026-12-31T00:30:00Z",
-      "overdue": false
-    },
-    {
-      "id": "8bf5f61e-a7e1-41e6-aede-7b87e4beebab",
       "phase": "postflight",
       "dueAt": "2026-12-31T00:30:00Z",
       "overdue": false
@@ -418,10 +430,8 @@
       "overdue": false
     }
   ],
-  "lastErrors": [
-    "satellite refresh failed: HTTP Error 503: Service Unavailable"
-  ],
-  "lastIssOemRefreshAt": "2026-11-25T14:54:58Z",
+  "lastErrors": [],
+  "lastIssOemRefreshAt": "2026-11-25T23:28:35Z",
   "lastSatelliteProfileRefreshAt": "2026-11-25T04:33:36Z",
   "lastEarthObservationRefreshAt": "2026-11-25T04:33:36Z"
 }
